@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T00:30:26.292709Z",
+  "updated_at": "2026-05-23T07:13:44.115109Z",
   "total": 55428,
   "banks": {
     "Alternatifbank A.Ş.": 8476,
@@ -10,7 +10,7 @@
     "BankPozitif Kredi ve Kalkınma Bankası A.Ş.": 50,
     "Burgan Bank A.Ş.": 1,
     "D Yatırım Bankası A.Ş.": 4072,
-    "FUPS Bank A.Ş.": 501,
+    "FUPS Bank A.Ş. (dijital banka)": 501,
     "Golden Global Yatırım Bankası A.Ş.": 11,
     "GSD Yatırım Bankası A.Ş.": 44,
     "HSBC Bank A.Ş.": 1569,
@@ -26,7 +26,7 @@
     "Türk Ticaret Bankası A.Ş.": 2,
     "Türkiye Sınai Kalkınma Bankası A.Ş.": 1,
     "Türkiye Vakıflar Bankası T.A.O.": 1,
-    "Ziraat Dinamik Banka A.Ş.": 19
+    "Ziraat Dinamik Banka A.Ş. (dijital banka)": 19
   },
   "atms": [
     {
@@ -237559,7 +237559,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Metrocity Genel Müdürlük",
       "adres": "Esentepe Mah Büyükdere Cad Metrocity İş Merkezi No:171A",
       "lat": 41.0760000000001,
@@ -237567,7 +237567,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ank.Polatlı Şube",
       "adres": "Cumhuriyet Mah. Eti Cad. No :17/B",
       "lat": 39.5834960940001,
@@ -237575,7 +237575,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çankaya Birlik",
       "adres": "Birlik Mah 3.Cad No:9 ",
       "lat": 39.881713867,
@@ -237583,7 +237583,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ank.Küçükesat Şube",
       "adres": "Barbaros Mah. Tunalı Hilmi Cad. No: 61/B",
       "lat": 39.909484863,
@@ -237591,7 +237591,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ank.Bahçelievler Şube",
       "adres": "Bahçelievler Mah. 6.Cad. No : 15/A",
       "lat": 39.924926758,
@@ -237599,7 +237599,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kızılay Şube 1",
       "adres": "Cumhuriyet Mah. Ziya Gökalp Cad. No:3 ",
       "lat": 39.9208984370001,
@@ -237607,7 +237607,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ank.Ulus Şube",
       "adres": "Anafartalar Mah. Rüzgarlı Sok. No:15 Ulus",
       "lat": 39.9432983400001,
@@ -237615,7 +237615,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ank.Gaziosmanpaşa Şube",
       "adres": "Büyükesat Mah. Uğur Mumcu Cad. No :51/A",
       "lat": 39.892883301,
@@ -237623,7 +237623,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ank.Cebeci Şube",
       "adres": "Fakülteler Mah. Cemal Gürsel Cad. No:55/A 06590",
       "lat": 39.9302978520001,
@@ -237631,7 +237631,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Göztepe Şube",
       "adres": "Caddebostan Mah.  Bağdat Cad. No : 266 / A",
       "lat": 40.9697265620001,
@@ -237639,7 +237639,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Mecidiyeköy Şube",
       "adres": "Mecidiyeköy Mah. Büyükdere Cad. No:36/A",
       "lat": 41.065308110678664,
@@ -237647,7 +237647,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Beşiktaş Şube",
       "adres": "Cihannüma Mah. Barbaros Bulv. No:97A",
       "lat": 41.0494995120001,
@@ -237655,7 +237655,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Sultanhamam Şube",
       "adres": "Rüstem Paşa Mah. Bahçekapı Cad. Rasımpaşa İş Hanı No :6 ",
       "lat": 41.015686035,
@@ -237663,7 +237663,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Çemberlitaş Şube",
       "adres": "Mimar Hayrettin Mah. Yeniçeriler Cad. No: 23 / 1 ",
       "lat": 41.0084838870001,
@@ -237671,7 +237671,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kadıköy Şube",
       "adres": "Osmanağa Mah. Kuşdili Cad. Efes Çarşısı No:16/18",
       "lat": 40.9896850590001,
@@ -237679,7 +237679,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Kartal Şube",
       "adres": "Kordonboyu Mah. Ankara Cad. No:110/1-A",
       "lat": 40.8878784180001,
@@ -237687,7 +237687,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Şirinevler Şube",
       "adres": "Şirinevler Mah. Eski Londra Asfaltı E5 Kara Yolu Üzeri No: 8",
       "lat": 40.99230957,
@@ -237695,7 +237695,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Üsküdar Şube",
       "adres": "Aziz Mahmut Hüdayi Mah. Halk Cad. Dış Kapı No: 16A ",
       "lat": 41.021118164,
@@ -237703,7 +237703,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Gümüşsuyu Şube",
       "adres": "Ömer Avni Mah. İnönü Cad. No: 70 Gümüşsuyu",
       "lat": 41.03692627,
@@ -237711,7 +237711,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Maltepe Şube",
       "adres": "Altayçeşme Mh. Bağdat Cad. No : 391B \n",
       "lat": 40.92663450715929,
@@ -237719,7 +237719,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İzmir Şube",
       "adres": "Konak Mah. Cumhuriyet Blv. No: 22/A",
       "lat": 38.4202345480001,
@@ -237727,7 +237727,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Salihli Şube",
       "adres": "Mithat Paşa Mah. Mithatpaşa Cad. No:87 ",
       "lat": 38.484924316,
@@ -237735,7 +237735,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İzm.Karşıyaka Şube",
       "adres": "Bahariye Mah. Dr. Orhan Alpyörük Sok. No:4/4A",
       "lat": 38.460988,
@@ -237743,7 +237743,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İzm.Bornova Şube",
       "adres": "Adalet Mah. Şehit Polis Fethi Sekin Cad. No: 4F",
       "lat": 38.450766,
@@ -237751,7 +237751,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Adapazarı Şube",
       "adres": "Cumhuriyet Mah. Doktor Kamil Sok. No:16/B ",
       "lat": 40.7793300000001,
@@ -237759,7 +237759,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Eskişehir Şube",
       "adres": "Akçağlan Mah. Yunus Emre Cad. No:94",
       "lat": 39.773071289,
@@ -237767,7 +237767,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kayseri Şube",
       "adres": "Cumhuriyet Mahallesi, Vatan Caddesi, No:22",
       "lat": 38.7185058590001,
@@ -237775,7 +237775,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bursa Şube",
       "adres": "Reyhan Mah. İnönü Cad. Beysel Apt No:19/A",
       "lat": 40.1832885740001,
@@ -237783,7 +237783,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Adana Gazipaşa Şube",
       "adres": "Cemalpaşa Mah. Gazipaşa Blv. Seçkin Apt. No: 39",
       "lat": 37.0029296870001,
@@ -237791,7 +237791,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Antalya Şube",
       "adres": "Tarım Mah.Aspendos Bulvarı Erüst İş Merkezi Sitesi A Blok Ap",
       "lat": 36.888962,
@@ -237799,7 +237799,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Alanya Şube",
       "adres": "Şekerhane Mah. Bostancı Pınarı Cad. No: 26/B",
       "lat": 36.543273926,
@@ -237807,7 +237807,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Konya Şube",
       "adres": "Musalla Bağları  Mahallesi, Belh Cad. No:6",
       "lat": 37.893511,
@@ -237815,7 +237815,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Samsun Şube",
       "adres": "Saitbey Mah. İstiklal Cad. No : 19 ",
       "lat": 41.2906,
@@ -237823,7 +237823,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.İkitelli Şube",
       "adres": "İkitelli Osb Mah. Bağcılar Güngören Metro Avm. A Blok Sk. No",
       "lat": 41.076516,
@@ -237831,7 +237831,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Ümraniye Şube",
       "adres": "Atatürk Mah. Alemdağ Cad. No: 113 A",
       "lat": 41.0258789060001,
@@ -237839,7 +237839,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Bayrampaşa Şube",
       "adres": "Yenidoğan Mah. Abdi İpekçi Cad.Kardeşler İş Hanı No: 22A",
       "lat": 41.0372924800001,
@@ -237847,7 +237847,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Adana Şube",
       "adres": "Onur Mahallesi  Turhal Cemal Beriker Bulvarı Kiza İş Merkezi",
       "lat": 36.996054,
@@ -237855,7 +237855,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Mersin Şube",
       "adres": "Çankaya Mah. Kuvayı Milliye  Cad. No:8 ",
       "lat": 36.7980957030001,
@@ -237863,7 +237863,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İskenderun Şube",
       "adres": "Çay (1. Mıntıka) Mahallesi, Mete Aslan Bulvarı, No:19C, İske",
       "lat": 36.586859,
@@ -237871,7 +237871,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Gaziantep Şube",
       "adres": "Bey Mah. Hürriyet Cad. No:16/A ",
       "lat": 37.060913086,
@@ -237879,7 +237879,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Yalova Şube",
       "adres": "Süleyman Bey Mah. Yalı Cad. No:15/A ",
       "lat": 40.658508301,
@@ -237887,7 +237887,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çay Şube",
       "adres": "Aşağı Mah. Cumhuriyet Cad. No:10-A",
       "lat": 38.592185,
@@ -237895,7 +237895,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Isparta Şube",
       "adres": "Kutlubey Mah. 101 Cad. No:38",
       "lat": 37.7653433008873,
@@ -237903,7 +237903,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Denizli Şube",
       "adres": "Saraylar Mahallesi İzmir Bulvarı No: 51 / A\n ",
       "lat": 37.787102,
@@ -237911,7 +237911,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Esk.Taşbaşı Şube",
       "adres": "Arifiye Mh. Belediye Sk. No:2/C \n",
       "lat": 39.772434,
@@ -237919,7 +237919,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Amasya Şube",
       "adres": "Yüzevler Mah. Mustafa Kemal Paşa Cad. No: 47/A ",
       "lat": 40.6500854490001,
@@ -237927,7 +237927,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çorum Şube",
       "adres": "Çepni Mah. İnönü Cad. No:35",
       "lat": 40.5474853520001,
@@ -237935,7 +237935,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Tokat Şube",
       "adres": "Yarahmet Mah. Gazi Osmanpaşa Blv. No:183/ A",
       "lat": 40.315307617,
@@ -237943,7 +237943,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Trabzon Şube",
       "adres": "Kemerkaya Mah. Maraş Cad. İpek Yolu İş Merkezi No:34 ",
       "lat": 41.0062866210001,
@@ -237951,7 +237951,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Edirne Şube",
       "adres": "Çavuşbey Mah. Talatpaşa Cad. No:190 Daire:3",
       "lat": 41.677124023,
@@ -237959,7 +237959,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Zonguldak Şube",
       "adres": "Mithatpaşa Mah. Alemdar Cad. No:4/A",
       "lat": 41.4520874020001,
@@ -237967,7 +237967,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Yeniçubuk Şube",
       "adres": "Yeni Doğan Mah. İstanbul Cad. No:40/A",
       "lat": 39.211486816,
@@ -237975,7 +237975,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Iğdır Şube",
       "adres": "Cumhuriyet Mh. Zübeyde Hanım Bulvarı No: 14 / A",
       "lat": 39.922746,
@@ -237983,7 +237983,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Beylikdüzü Şube",
       "adres": "Büyükşehir Mah. Kavaklı Belediyesi İş Merkezi No:9",
       "lat": 41.0117187500001,
@@ -237991,7 +237991,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Bakırköy Şube",
       "adres": "Cevizlik Mahallesi, İstanbul Caddesi No: 45A",
       "lat": 40.978725,
@@ -237999,7 +237999,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Merter Şube",
       "adres": "Mehmet Nesih Özmen Mh. Keresteciler Sıtesı  Fatih Cad. Keski",
       "lat": 41.015686035,
@@ -238007,7 +238007,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İzmit Şube",
       "adres": "Karabaş Mah. Cengiz Topel Cad. No:8",
       "lat": 40.7628784180001,
@@ -238015,7 +238015,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Küçükyalı Şube",
       "adres": "Altıntepe Mah. Bağdat Cad. No: 83/5 Küçükyalı",
       "lat": 40.951293945,
@@ -238023,7 +238023,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Kazasker Şube",
       "adres": "Bostancı Mah. Şemsettin Günaltay Cad. No:87 Kazasker",
       "lat": 40.9663085940001,
@@ -238031,7 +238031,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Altunizade Şube",
       "adres": "Altunizade Mah. Kısıklı Cad. Sarkuysan-Ak İş Merkezi Ap. No:",
       "lat": 41.023455,
@@ -238039,7 +238039,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ank.Çankaya Şube",
       "adres": "Aziziye Mah. Hoşdere Cad. No:195/A",
       "lat": 39.885070801,
@@ -238047,7 +238047,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ank.Sincan Şube",
       "adres": "Atatürk Mah. Ankara Cad. No:18",
       "lat": 39.964208,
@@ -238055,7 +238055,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ank.Yıldızevler Şube",
       "adres": "Yıldızevler Mah. Turan Güneş Bulvarı  No:56/1 Siteler",
       "lat": 39.870910645,
@@ -238063,7 +238063,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ank.Siteler Şube",
       "adres": "Altınpark Mah. Taşdelen Cad. No:9 Siteler",
       "lat": 39.9586791990001,
@@ -238071,7 +238071,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ank.Şaşmaz Şube",
       "adres": "Bahçekapı Mah. Şaşmaz Oto San.Sit. 6. Cad. No:1/1B ",
       "lat": 39.940490723,
@@ -238079,7 +238079,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kırıkkale Şube",
       "adres": "Yenidoğan Mah. Cumhuriyet Cad. No: 31/A",
       "lat": 39.8414916990001,
@@ -238087,7 +238087,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kırşehir Şube",
       "adres": "Medrese Mah. Melikgazi Cad. No:5 ",
       "lat": 39.144758,
@@ -238095,7 +238095,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kastamonu Şube",
       "adres": "Topçuoğlu Mah. Cumhuriyet Cad. No: 13/B",
       "lat": 41.378479004,
@@ -238103,7 +238103,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bolu Şube",
       "adres": "Tabaklar Mahallesi İzzet Baysal Caddesi No:79 ",
       "lat": 40.731551,
@@ -238111,7 +238111,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Karabük Şube",
       "adres": "Bayır Mah. Fevzi Fırat Cad. No:95",
       "lat": 41.1963960000001,
@@ -238119,7 +238119,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İzm.Hatay Şube",
       "adres": "Çankaya Mah. İnönün Cad. No: 330/B",
       "lat": 38.401672363,
@@ -238127,7 +238127,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İzm.Karabağlar  Şube",
       "adres": "Karabağlar Mah. Yeşillik Cad. No:399 Konak",
       "lat": 38.3750000000001,
@@ -238135,7 +238135,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İzm.Şirinyer Şube",
       "adres": "İnkılap Mah. Cemil Şeboy Bulvarı No: 166/A",
       "lat": 38.3925170900001,
@@ -238143,7 +238143,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İzm.Gazibulvarı Şube",
       "adres": "Akdenız Mah. Gazı Bulvarı No: 72 /A Çankaya",
       "lat": 38.4240722660001,
@@ -238151,7 +238151,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ant.Akdeniz Şube",
       "adres": "Selçuk Mah. Cumhuriyet Cad. No:75/C",
       "lat": 36.8859252930001,
@@ -238159,7 +238159,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Manisa Şube",
       "adres": "Anafartalar Mah. 1.Anafartalar Cad. G. M. K Blv. No:1",
       "lat": 38.6138916020001,
@@ -238167,7 +238167,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Aydın Şube",
       "adres": "Ramazanpaşa Mah. İstiklal Cad. Halil Zühtü Özçelik Apt No:15",
       "lat": 37.8479003910001,
@@ -238175,7 +238175,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Söke Şube",
       "adres": "Konak Mah. Cumhuriyet Cad. No: 4/A",
       "lat": 37.7539062500001,
@@ -238183,7 +238183,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Balıkesir Şube",
       "adres": "Eski Kuyumcular Mah. Milli Kuvvetler Cad. No:50/A ",
       "lat": 39.647521973,
@@ -238191,7 +238191,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Afyon Şube 1",
       "adres": "Karaman Mah. Milli Egemenlik Cad. No: 32/A ",
       "lat": 38.754699707,
@@ -238199,7 +238199,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Uşak Şube",
       "adres": "İslice Mah. İsmet Paşa Cad. No: 53/A",
       "lat": 38.6754760740001,
@@ -238207,7 +238207,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Burdur Şube",
       "adres": "Konak Mah. Gazi Cad. No:38",
       "lat": 37.7186889650001,
@@ -238215,7 +238215,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Merzifon Şube",
       "adres": "Harmanlar Mah. Harmanlar Cad. No: 6",
       "lat": 40.8724975590001,
@@ -238223,7 +238223,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ordu Şube",
       "adres": "Düz Mah. Süleyman Felek Cad. No:40/A",
       "lat": 40.985808,
@@ -238231,7 +238231,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Tarsus Şube",
       "adres": "Harmanlar Mah. Mersin Cad. Halitaslan İşhanı No: 8/A",
       "lat": 36.9166870120001,
@@ -238239,7 +238239,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Antakya Şube",
       "adres": "Odabaşı Mahallesi, Atatürk 10 Bulvarı, No:65",
       "lat": 36.2282,
@@ -238247,7 +238247,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Şanlıurfa Şube",
       "adres": "Bamyasuyu Mah. Atatürl Blv. No:26",
       "lat": 37.1578979490001,
@@ -238255,7 +238255,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Diyarbakır Şube",
       "adres": "Kooperatifler Mah. Akkoyunlu Cad. No:31",
       "lat": 37.9166870120001,
@@ -238263,7 +238263,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Malatya Şube",
       "adres": "İnönü Mahallesi Çevre Sokak No:4/9-Z5 G Blok",
       "lat": 38.350369,
@@ -238271,7 +238271,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Yeşilköy Şube",
       "adres": "Yeşilköy Mah. İstasyon Cad. No:21",
       "lat": 40.9606933590001,
@@ -238279,7 +238279,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ank.Balgat Şube",
       "adres": "Balgat Mah. Ceyhun Atıf Kansu Cad. No:48 Balgat",
       "lat": 39.9025268550001,
@@ -238287,7 +238287,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Maslak Şube",
       "adres": "Maslak Mah. Ahi Evran Cad. Polaris Plaza No:21 ",
       "lat": 41.112509,
@@ -238295,7 +238295,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ank.Ostim Şube",
       "adres": "Ostim Osb Mah. 100. Yıl Bulvarı No:32",
       "lat": 39.9664916990001,
@@ -238303,7 +238303,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Rize Şube",
       "adres": "Piriçelebi Mahallesi Cumhuriyet Caddesi No: 95 / A",
       "lat": 41.026124,
@@ -238311,7 +238311,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kütahya Şube",
       "adres": "Alipaşa Mah. Cumhuriyet Cad. Haceloğlu İş Hanı  No: 1 ",
       "lat": 39.419311523,
@@ -238319,7 +238319,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Aksaray Şube",
       "adres": "Taşpazar Mah. Ankara Cad. Mecit Mutlu İşhanı No:7/B",
       "lat": 38.370483398,
@@ -238327,7 +238327,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Nevşehir Şube",
       "adres": "Yeni Mah. Lale Cad. No:32 ",
       "lat": 38.626098633,
@@ -238335,7 +238335,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Elbistan Şube",
       "adres": "Güneşli Mah. Hulusi Efendi Bulv. No:27/C",
       "lat": 38.201074,
@@ -238343,7 +238343,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Akhisar Şube",
       "adres": "Ragıpbey Mah. 151.(Hilaliye) Cad. No:16A",
       "lat": 38.917241,
@@ -238351,7 +238351,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Soma Şube",
       "adres": "Kurtuluş Mah. Hürriyet Blv. No: 5",
       "lat": 39.1818847660001,
@@ -238359,7 +238359,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Susurluk Şube",
       "adres": "Han Mah. Beşeylül Cad. Şakar Apt. No:28/A ",
       "lat": 39.9152832030001,
@@ -238367,7 +238367,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İnegöl Şube",
       "adres": "Cuma Mah Nuri Doğrul Cad. No: 11/A",
       "lat": 40.0795288090001,
@@ -238375,7 +238375,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Karacabey Şube",
       "adres": "Tavşanlı Mah. Bursa Cad. No: 51/D ",
       "lat": 40.2133178710001,
@@ -238383,7 +238383,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bursa Yenişehir Şube",
       "adres": "Gündoğan Mah. Cumhuriyet Cad. No: 11/C",
       "lat": 40.26348877,
@@ -238391,7 +238391,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bozüyük Şube",
       "adres": "Yeni Mah. İsmet İnönü Cad. No:35",
       "lat": 39.906069,
@@ -238399,7 +238399,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çerkezköy Şube",
       "adres": "Gazi Mustafa Kemal Paşa Mah. Özcan Sok.Zemin Kat, Dış Kapı N",
       "lat": 41286903.0,
@@ -238407,7 +238407,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Güneşli Şube",
       "adres": "15 Temmuz Mh. Koçman Cad.   No : 36 / A ",
       "lat": 41.03146,
@@ -238415,7 +238415,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Nazilli Şube",
       "adres": "Altıntaş Mah. Hürriyet Cad. No:335 ",
       "lat": 37.914916992,
@@ -238423,7 +238423,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kozyatağı Şube",
       "adres": "Kozyatağı Mah. Bayar Cad. Rıza Çemberci İs Merkezi  No: 72",
       "lat": 40.981323242,
@@ -238431,7 +238431,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bafra Şube",
       "adres": "Hacınabi Mah. Tekel Cad. No: 33/A",
       "lat": 41.5659179690001,
@@ -238439,7 +238439,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Akşehir Şube",
       "adres": "Meydan Mah. Cevdet Köksal Cad. No:3 ",
       "lat": 38.358703613,
@@ -238447,7 +238447,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Beyşehir Şube",
       "adres": "Evsat Mah. Antalya Cad. No:19A",
       "lat": 37.6787109370001,
@@ -238455,7 +238455,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Büsan Org. San. Şube",
       "adres": "Fevzi Çakmak Mah. Büsan Sanayi Sitesi Kosgeb Cad. No:9/A",
       "lat": 37.923706055,
@@ -238463,7 +238463,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Seydişehir Şube",
       "adres": "Hacı Seyitali Mah. Seyyid Harun Veli Cad. No:26/A",
       "lat": 37.420628,
@@ -238471,7 +238471,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Lara Şube",
       "adres": "Şırinyalı Mah.Özgürlük Bulv.İsmet Gökçen Cad.No:36/4 Lara",
       "lat": 36.859680176,
@@ -238479,7 +238479,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Niğde Şube",
       "adres": "Esenbey Mah. Ayhan Şahenk Blv. No:30/B",
       "lat": 37.9723980000001,
@@ -238487,7 +238487,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Erzincan Şube",
       "adres": "Atatürk Mah. Nerim Tombul Cad. No:5 ",
       "lat": 39.7474975590001,
@@ -238495,7 +238495,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Elazığ Şube",
       "adres": "Çarşı Mah. Hürriyet Cad. No: 22A",
       "lat": 38.6745000000001,
@@ -238503,7 +238503,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ümitköy Şube",
       "adres": "Prof.Dr.Ahmet Taner Kışlalı Mah. 2846 Sok. Dora Park Villala",
       "lat": 39.870727539,
@@ -238511,7 +238511,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Sivas Şube",
       "adres": "Örtülüpınar Mah. Bankalar Cad.2. Park Sok. No:3",
       "lat": 39.75012207,
@@ -238519,7 +238519,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Van Şube",
       "adres": "Bahçıvan Mah. Cumhuriyet Cad. Mavi Plaza Karşısı Pulkar İş M",
       "lat": 38.4968974330001,
@@ -238527,7 +238527,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çankırı Şube",
       "adres": "Cumhuriyet Mah. Atatürk Bulv. Belediye Sarayı Altı",
       "lat": 40.6000976560001,
@@ -238535,7 +238535,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Turhal Şube",
       "adres": "Celal Mah. Cumhuriyet Cad.No:22",
       "lat": 40.3869018550001,
@@ -238543,7 +238543,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Konya Ereğli Şube",
       "adres": "Selçuklu Mah. Yeni Çarşı Yolu No:3 ",
       "lat": 37.5128784180001,
@@ -238551,7 +238551,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bandırma Şube",
       "adres": "Haydarçavuş Mah. İnönü Cad. No: 25",
       "lat": 40.3536987300001,
@@ -238559,7 +238559,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Giresun Şube",
       "adres": "Hacımiktat Mah. Fatih Cad. No : 7 ",
       "lat": 40.917045,
@@ -238567,7 +238567,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ceyhan Şube",
       "adres": "Büyük Kırım Mah. Atatürk Cad. No: 299",
       "lat": 37.025512695,
@@ -238575,7 +238575,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Gebze Şube",
       "adres": "Mustafapaşa Mah. Yeni Bağdat Cad. No:605/B-C",
       "lat": 40.801330566,
@@ -238583,7 +238583,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ünye Şube",
       "adres": "Kaledere Mah. Hükümet Cad. No:44/A",
       "lat": 41.12907574770264,
@@ -238591,7 +238591,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Tekirdağ Şube",
       "adres": "Çınarlı Mah. Köprübaşı Cad. No:10",
       "lat": 40.9780000000001,
@@ -238599,7 +238599,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çorlu Şube",
       "adres": "Kazımiye Mah. Omurtak Cad. No: 74/A ",
       "lat": 41.15748651590204,
@@ -238607,7 +238607,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Toros Şube",
       "adres": "Mahve Sığmaz Mah. Turgut Özal Blv. Necati Gizer Apt. No:131/",
       "lat": 37.046691895,
@@ -238615,7 +238615,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Porsuk Şube",
       "adres": "Hoşnudiye Mah. İsmet İnönü Cad. No:38/A Porsuk",
       "lat": 39.7780761720001,
@@ -238623,7 +238623,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Erciyes Şube",
       "adres": "Hacı Saki Mah. Osman Kavuncu Cad. No:50",
       "lat": 38.722473145,
@@ -238631,7 +238631,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Akyazı Şube",
       "adres": "Konuralp Mah. Ada Cad. No:318",
       "lat": 40.682922363,
@@ -238639,7 +238639,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Şehitkamil  Şube",
       "adres": "Mücahitler Mahallesi Gazi Muhtar Paşa Bulvarı No:44/A",
       "lat": 37.07468,
@@ -238647,7 +238647,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Uludağ Şube",
       "adres": "Yenikaraman Mah. Sanayi Cad. No:150/57",
       "lat": 40.2259940000001,
@@ -238655,7 +238655,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kızılay Şube 2",
       "adres": "Cumhuriyet Mah. Ziya Gökalp Cad. No:3 Kızılay",
       "lat": 39.9208984370001,
@@ -238663,7 +238663,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çarşamba Şube",
       "adres": "Orta Mah. Dr.Tevfık Türker Cad. No:6",
       "lat": 41.198303223,
@@ -238671,7 +238671,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Emirdağ Şube",
       "adres": "Yeni Mah. Arabacılar Sok. No:21",
       "lat": 39.019897461,
@@ -238679,7 +238679,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Dinar Şube",
       "adres": "Camikebir Mah. Cumhuriyet Meydanı No: 38",
       "lat": 38.067687988,
@@ -238687,7 +238687,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Yalvaç Şube",
       "adres": "Pazar Yukarı Mah. Yeşilçınar Blv. No:34",
       "lat": 38.2946777340001,
@@ -238695,7 +238695,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Sandıklı Şube",
       "adres": "Ece Mah. Alaaddin Sok. No: 25",
       "lat": 38.4642944340001,
@@ -238703,7 +238703,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Düzce Şube",
       "adres": "Cedidiye Mah. Köprü Sok. Merkez İşhanı No:1",
       "lat": 40.8385009770001,
@@ -238711,7 +238711,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Alpullu Şube",
       "adres": "İnkılap Mah. Ordu Cad. No: 22 Alpullu",
       "lat": 41.3703002930001,
@@ -238719,7 +238719,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Babaeski Şube",
       "adres": "Hacıhasan Mah. Adil Onat Cad. No:5",
       "lat": 41.429504395,
@@ -238727,7 +238727,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Lüleburgaz Şube",
       "adres": "Kocasinan Mah. İstanbul Cad. No:21/A",
       "lat": 41.406311035,
@@ -238735,7 +238735,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Taşköprü Şube",
       "adres": "Tabakhane Mah. Atatürk Cad. No:22/A",
       "lat": 41.5117187500001,
@@ -238743,7 +238743,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Tosya Şube",
       "adres": "Kargı Mah. Hükümet Cad. Rıhtım Boyu No: 45 ",
       "lat": 41.017702,
@@ -238751,7 +238751,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Dikmen Şube",
       "adres": "Aydınlar Mah. Dikmen Cad. No: 294/5 Dikmen",
       "lat": 39.877075195,
@@ -238759,7 +238759,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Niksar Şube",
       "adres": "Gaziosmanpaşa Mah. Şehit Er Naci Yıldırım Cad. No:7",
       "lat": 40.589477539,
@@ -238767,7 +238767,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Şuhut Şube",
       "adres": "Kurtuluş Mah. Afyon Cad. Belediye Sarayı Altı",
       "lat": 38.5338745120001,
@@ -238775,7 +238775,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İvedik Org. San. Şube",
       "adres": "Ostim Mah. 1475. Sok. No:1/A İvedik Organize Sanayi Bölgesi ",
       "lat": 39.9907000000001,
@@ -238783,7 +238783,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Boğazlıyan Şube",
       "adres": "Çarşı İçi Mah. Kayseri Cad. Çarşı İçi  No:1",
       "lat": 39.1911010740001,
@@ -238791,7 +238791,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Karaman Şube",
       "adres": "Külhan Mah. Kemal Kaynaş Cad. No:57/A/B/C\n",
       "lat": 37.184972,
@@ -238799,7 +238799,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kayseri Yeni Sanayi Şube",
       "adres": "Şeker Mahallesi, 6167.Sokak No:1",
       "lat": 38.729309082,
@@ -238807,7 +238807,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Uzunköprü Şube",
       "adres": "Muradiye Mah. Gazi Cad. No:66",
       "lat": 41.268127441,
@@ -238815,7 +238815,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Marmaris Şube",
       "adres": "Tepe Mah. Ulusal Egemenlik Cad. No:46",
       "lat": 36.8580932620001,
@@ -238823,7 +238823,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çeşme Sheraton",
       "adres": "Ilıca Mah.Şifne Cad. No:35 No: 35 ",
       "lat": 38.305725098,
@@ -238831,7 +238831,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Fethiye Şube",
       "adres": "Cumhuriyet Mah.Çarşı Cad. No:62",
       "lat": 36.6201171870001,
@@ -238839,7 +238839,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Manavgat Şube",
       "adres": "Bahçelievler Mah. Antalya Cad. No:36",
       "lat": 36.7858886720001,
@@ -238847,7 +238847,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Pendik Şube",
       "adres": "Doğu Mah. Ankara Cad. No:112",
       "lat": 40.8768920900001,
@@ -238855,7 +238855,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bodrum Şube",
       "adres": "Yokuşbaşı Mah. Kıbrıs Şehitleri Cad. Ataman İş Merkezi B Blo",
       "lat": 37.0415039060001,
@@ -238863,7 +238863,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Adıyaman Şube",
       "adres": "Hoca Ömer Mah. Gölbaşı Cad. No: 32/B ",
       "lat": 37.76042,
@@ -238871,7 +238871,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Erzurum Şube",
       "adres": "Bakırcılar Mah. Menderes Cad. Ömer Erturan İş Merkezi  Zemin",
       "lat": 39.9108886720001,
@@ -238879,7 +238879,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Beypazarı Şube",
       "adres": "Beytepe Mah. İrfan Gümüşel Cad. No: 55/6 ",
       "lat": 40.166921,
@@ -238887,7 +238887,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Osmaniye Şube",
       "adres": "İstiklal Mahallesi Palalı Süleyman Cad. No:45A",
       "lat": 37.074825,
@@ -238895,7 +238895,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kuşadası Şube",
       "adres": "Türkmen Mah. Atatürk Blv. Belvü Sitesi C Blok No:4/7",
       "lat": 37.8536987300001,
@@ -238903,7 +238903,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Sultandağı Şube",
       "adres": "Kayran Mah. Kocatepe Cad. No:3",
       "lat": 38.531311035,
@@ -238911,7 +238911,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Afşin Şube",
       "adres": "Dedebaba Mah. Ebülfez Elçibey Cad. No:59",
       "lat": 38.247680664,
@@ -238919,7 +238919,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Sefaköy Şube",
       "adres": "Fevzi Çakmak Mah. Ahmet Kocabıyık Sok. No:10/B Sefaköy",
       "lat": 41.005498,
@@ -238927,7 +238927,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kavacık Şube",
       "adres": "Kavacık Mah. Fatih Sultan Mehmet Cad. Universal Plaza No:36 ",
       "lat": 41.0937000000001,
@@ -238935,7 +238935,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Banaz Şube",
       "adres": "Cumhuriyet Mah. Başaran Cad. No: 4",
       "lat": 38.7388916020001,
@@ -238943,7 +238943,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çivril Şube",
       "adres": "Çatlar Mah. Cumhuriyet Cad. No:15",
       "lat": 38.2990722660001,
@@ -238951,7 +238951,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Şarkikaraağaç Şube",
       "adres": "Camikebir Mah. 1144 Ulu Sok. No:16/A",
       "lat": 38.079711914,
@@ -238959,7 +238959,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Turgutlu Şube",
       "adres": "Cumhuriyet Mah. Atatürk Blv. 248/A",
       "lat": 38.493530273,
@@ -238967,7 +238967,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ank. Çubuk Şube",
       "adres": "Cumhuriyet Mah. Ankara Bulvarı No: 4 ",
       "lat": 40.2385253910001,
@@ -238975,7 +238975,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İzmir Ödemiş Şube",
       "adres": "Akıncılar Mah. Gazi Cad. No:30",
       "lat": 38.2299194340001,
@@ -238983,7 +238983,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Mersin Silifke Şube",
       "adres": "Pazarbaşı Mah Mender Res Cad Adas İş Hanı  No:54",
       "lat": 36.3768920900001,
@@ -238991,7 +238991,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Serik Şube",
       "adres": "Merkez Mah. Atatürk Cad. No:170",
       "lat": 36.917114258,
@@ -238999,7 +238999,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Gönen Şube",
       "adres": "Kurtuluş Mah. Hüseyin Tümer Cad. No: 38B",
       "lat": 40.108703613,
@@ -239007,7 +239007,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İstanbul Tüyap",
       "adres": "Cumhuriyet Mah. Tüyap Fuar Ve Kongre Mrkzi, E-5 Karayolu Gür",
       "lat": 41.024475098,
@@ -239015,7 +239015,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Tuzla Şube",
       "adres": "Aydıntepe Mah. Dr.Sadık Ahmet Cad. No:25 D:1",
       "lat": 40.853619,
@@ -239023,7 +239023,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ayrancılar Şube",
       "adres": "İnönü Mah. Aydın Cad. No:69 Ayrancılar",
       "lat": 38.2382812500001,
@@ -239031,7 +239031,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst. Avcılar Şube",
       "adres": "Avcılar Mah. Londra Asfaltı Cad. No:201",
       "lat": 40.98910803547892,
@@ -239039,7 +239039,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çanakkale Şube",
       "adres": "Fevzipaşa Mah Çarşı   Cad No:100",
       "lat": 40.1470947270001,
@@ -239047,7 +239047,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kırklareli Şube",
       "adres": "Karakaş Mah. Kuyumcular Cad. No: 16",
       "lat": 41.7352905270001,
@@ -239055,7 +239055,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Batman Şube",
       "adres": "Gap Mah.Turgut Özal Blv. Safir Plaza No:298-A",
       "lat": 37.9006830000001,
@@ -239063,7 +239063,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Milas Şube",
       "adres": "Hacı İlyas Mah. Menteşe Cad. No:36",
       "lat": 37.3139038090001,
@@ -239071,7 +239071,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Muğla Şube",
       "adres": "Emirbeyazıt Mah.Zübeyde Hanım Cad. No:14A",
       "lat": 37.211221,
@@ -239079,7 +239079,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Fatsa Şube",
       "adres": "Dumlupınar Mah. Reşadiye Cad. No:57",
       "lat": 41.029675,
@@ -239087,7 +239087,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kumluca Şube",
       "adres": "Meydan Mahallesi Bosna Sokak No:1/B\n",
       "lat": 36.366408,
@@ -239095,7 +239095,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Artvin Şube",
       "adres": "Çarşı Mah. Cumhuriyet Cad. No:10",
       "lat": 41.179361,
@@ -239103,7 +239103,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Erbaa Şube",
       "adres": "Cumhuriyet Mah. Gazi Bulvarı No: 160/A",
       "lat": 40.672111,
@@ -239111,7 +239111,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Tire Şube",
       "adres": "Kurtuluş Mah. İsmail Taşlı Cad. No: 25 ",
       "lat": 38.088684082,
@@ -239119,7 +239119,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kozan Şube",
       "adres": "Arslanpaşa Mahallesi İ, Irmak Caddesi, No :13  Adana",
       "lat": 37.448120117,
@@ -239127,7 +239127,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Mardin Şube",
       "adres": "Yenişehir Mah. Vali Ozan Cad. N:32/1",
       "lat": 37.3234863280001,
@@ -239135,7 +239135,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Keşan Şube",
       "adres": "Büyük Cami Mah. İsma Ail Saraç Cd. No:39 ",
       "lat": 40.8532714840001,
@@ -239143,7 +239143,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kars Şube",
       "adres": "Yusufpaşa Mah. Kazımpaşa Cad. No:96 / A  \n",
       "lat": 40.608559,
@@ -239151,7 +239151,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Gölbaşı Şube",
       "adres": "Gaziosmanpaşa Mah. Ankara Cad. No: 66 G-H",
       "lat": 39.794948,
@@ -239159,7 +239159,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Anamur Şube",
       "adres": "Saray Mah. Atatürk Blv. Esentepe No:8",
       "lat": 36.0783081050001,
@@ -239167,7 +239167,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Kurtköy Şube",
       "adres": "Şeyhli Mah. Ankara Cad.No:243 Kurtköy",
       "lat": 40.9057006840001,
@@ -239175,7 +239175,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Etimesgut Şube",
       "adres": "İstasyon Mah. 2310 Cad. No:4A",
       "lat": 39.947598,
@@ -239183,7 +239183,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Buğday Pazarı Şube",
       "adres": "Fevzi Çakmak Mah. Adana Çevre Yolu Cad. No:26",
       "lat": 37.907441,
@@ -239191,7 +239191,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Hadımköy Yolu Şube",
       "adres": "Osman Gazi Mah. Hadımköy Yolu Cad. No:38B/3",
       "lat": 41.04584354,
@@ -239199,7 +239199,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Sarıgazi Şube",
       "adres": "Meclis Mah. Atatürk Cad. No:107A",
       "lat": 41.009187,
@@ -239207,7 +239207,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bursa Özel Bank. Şube",
       "adres": "23 Nisan Mahallesi Ata Bulvarı No:13B/A B Blok Bağımsız Bölü",
       "lat": 40.218116,
@@ -239215,7 +239215,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Aliağa Şube",
       "adres": "Kültür Mah. İstiklal Cad. No:54/A",
       "lat": 38.8021288,
@@ -239223,7 +239223,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Krd. Ereğli Şube",
       "adres": "Müftü Mah. Yukarı Sokak No: 16/101",
       "lat": 41.279688,
@@ -239231,7 +239231,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ant. Konyaaltı Şube",
       "adres": "Gürsu Mah. Gazi Mustafa Kemal Blv. No:61A",
       "lat": 36.8679310000001,
@@ -239239,7 +239239,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Altındağ Desmer",
       "adres": "Zübeyde Hanım Mah. Büyük Sanayi 1.Cad. No:22 İskitler",
       "lat": 39.950073242,
@@ -239247,7 +239247,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst. Silivri Şube",
       "adres": "Alibey Mah. Turgut Özel Bulv. No:13/A",
       "lat": 41.07499591,
@@ -239255,7 +239255,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Keçiören Şube",
       "adres": "Bağlarbaşı Mah. Kızlar Pınarı Cad. No:132B ",
       "lat": 39.9940795900001,
@@ -239263,7 +239263,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Edremit Şube",
       "adres": "Soğanyemez Mah. Sıtkıpaşa Cad. No:3",
       "lat": 39.5933578900001,
@@ -239271,7 +239271,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Sungurlu Şube",
       "adres": "Şekerpınar Mah. Muhsin Yazıcıoğlu Cad. No:117",
       "lat": 40.163811,
@@ -239279,7 +239279,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Sultançiftliği Şube",
       "adres": "50.Yıl Mah. Eski Edirne Asfaltı,No: 514 B",
       "lat": 41.090381,
@@ -239287,7 +239287,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ant. Hal Şube",
       "adres": "Güneş Mah. Yeni Toptancı Hali No:868",
       "lat": 36.922729492,
@@ -239295,7 +239295,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ortaca Şube",
       "adres": "Atatürk Mah. Atatürk Bulvarı No:111/B",
       "lat": 36.837686,
@@ -239303,7 +239303,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ilgın Şube",
       "adres": "Ayvatdede Mah. Hükümet Cad. No:85",
       "lat": 38.280090332,
@@ -239311,7 +239311,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İst.Esenyurt Şube",
       "adres": "İnönü Mah. Doğan Araslı Blv. No:90/B",
       "lat": 41.023498535,
@@ -239319,7 +239319,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bursa M.K.Paşa Şube",
       "adres": "Şeyhmüftü Mah. Balıkesir Cad. Şeker Rci Sokak No:26/A-B- C",
       "lat": 40.034729004,
@@ -239327,7 +239327,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ellialtılar Şube",
       "adres": "Kılıçdede Mah. İstiklal Cad. No:173/13",
       "lat": 41.279086,
@@ -239335,7 +239335,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İncesu Şube",
       "adres": "Vali İhsan Aras Mah. Cumhuriyet Cad. No: 7 ",
       "lat": 38.6088867190001,
@@ -239343,7 +239343,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Yüreğir Şube",
       "adres": "Cumhuriyet Mah. Kozan Cad.No:374",
       "lat": 37.0004882810001,
@@ -239351,7 +239351,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Tefenni Şube",
       "adres": "Eşeler Mah. Cumhuriyet Cad. No:28",
       "lat": 37.3082885740001,
@@ -239359,7 +239359,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Malkara Şube",
       "adres": "Camiatik Mah. 14 Kasım Cad. No:67/15",
       "lat": 40.891283,
@@ -239367,7 +239367,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Alaşehir Şube",
       "adres": "Soğuksu Mah. Kışla Cad. No:94",
       "lat": 38.3513183590001,
@@ -239375,7 +239375,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İncirliova Şube",
       "adres": "İstiklal Mah. Prof.Dr.Türkan Saylan Cad. No:74",
       "lat": 37.853088379,
@@ -239383,7 +239383,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Menemen Şube",
       "adres": "Kasımpaşa Mah. Ertuğrul Cad. No:2",
       "lat": 38.608520508,
@@ -239391,7 +239391,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kınık Şube",
       "adres": "Kınık Mah. Belediye Caddesi No:8",
       "lat": 36.3524780270001,
@@ -239399,7 +239399,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Gezici Şube",
       "adres": "Emniyet Evleri Mah. Eski Büyükdere Cad. No:1/1A ",
       "lat": 41.08578277,
@@ -239407,7 +239407,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Afyon Şube 2",
       "adres": "Karaman Mah. Milli Egemenlik Cad. 32/A",
       "lat": 38.754699707,
@@ -239415,7 +239415,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Saray Şube",
       "adres": "Ayaspaşa Mah.Vize Cad.No:3/A",
       "lat": 41.4454956050001,
@@ -239423,7 +239423,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Dörtyol Şube",
       "adres": "Sanayi Mahallesi İnönü Caddesi C Blok No:41B ",
       "lat": 36837574.0,
@@ -239431,7 +239431,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Torbalı Şube",
       "adres": "Tepeköy Mah. Ağalar Cad. Yaman Apt. No:24",
       "lat": 38.1500854490001,
@@ -239439,7 +239439,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Gebze Organize San. Şube",
       "adres": "Güzeller Mh.Güzeller Org.Sn.Bl.Atatürk Bu Lvarı Big Center 2",
       "lat": 40.8414916990001,
@@ -239447,7 +239447,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Pozcu Şube",
       "adres": "Aydınlıkevler Mah. Gazi Mustafa Kemal Blv. No:394",
       "lat": 36.780090332,
@@ -239455,7 +239455,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İstoç Şube",
       "adres": "Mahmutbey Mah. İstoç Tic. Merkz 2.Ada(3.Yol Sok) No: 1-3 ",
       "lat": 41.0653540000001,
@@ -239463,7 +239463,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Vezirköprü Şube",
       "adres": "Fazıl Ahmet Paşa Mah. Fazıl Mustafa Paşa Cad. No:75",
       "lat": 41.143626,
@@ -239471,7 +239471,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Dudullu Şube",
       "adres": "Yukarı Dudullu Mah. Alemdağ Cad. No:802",
       "lat": 41.016448,
@@ -239479,7 +239479,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Radisson Blu Hotel",
       "adres": "19 Mayıs Mah. 19 Mayıs Cad. No :2",
       "lat": 41.061265,
@@ -239487,7 +239487,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Marmaris İçmeler",
       "adres": "İçmeler Mah. Cumhuriyet Cad. Sahil Sok. Kesişimi ",
       "lat": 36.802013,
@@ -239495,7 +239495,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Genel Müdürlük Lobi",
       "adres": "Emniyet Evleri Mah.Akarsu Cad. Seyir Sok.No:3 ",
       "lat": 41.08508,
@@ -239503,7 +239503,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Genel Müdürlük",
       "adres": "Emniyet Evleri Mah. Akarsu Cad. Seyir Sok. No:3 ",
       "lat": 41.0853290000001,
@@ -239511,7 +239511,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kemer Rox Royal Otel",
       "adres": "Yeni Mah. Şehit Polis Cemal Ilgaz Cad. No:8 (Rox Royal Otel ",
       "lat": 36.606489,
@@ -239519,7 +239519,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Alanya Avsallar",
       "adres": "Avsallar Mah. İnce Kum Cad. D-400 Karayolu Üzeri  No:1/2",
       "lat": 36.627497,
@@ -239527,7 +239527,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bilecik Sanayi Sitesi",
       "adres": "Hürriyet Mah. Sanayi 6 Sok. No:15 Bilecik Küçük San.Sit.",
       "lat": 40.161104,
@@ -239535,7 +239535,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kapıkule",
       "adres": "Kemalköy Mevkii Kapıkule Yolu Üzeri. Londra Camping Tesisler",
       "lat": 41.713682,
@@ -239543,7 +239543,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kahramanmaraş Şube",
       "adres": "Onikisubat İlçesi, Üngüt Mahallesi, Prof. Dr. Necmeddin Erba",
       "lat": 37.59959108633729,
@@ -239551,7 +239551,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Gezici Şube 2",
       "adres": "Emniyet Evleri Mah. Eski Büyükdere Cad. No:1/1A ",
       "lat": 41.08578277,
@@ -239559,7 +239559,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Gezici Şube 3",
       "adres": "Emniyet Evleri Mah. Eski Büyükdere Cad. No:1/1A ",
       "lat": 41.08578277,
@@ -239567,7 +239567,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Yekta Mall",
       "adres": "Mahmutlar Mahallesi, Mahmutlar Atatürk Caddesi No:123 Yekta ",
       "lat": 36.485581,
@@ -239575,7 +239575,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Genel Müdürlük 2",
       "adres": "Emniyet Evleri Mah. Akarsu Cad. Seyir Sok. No:3 ",
       "lat": 41.0859784,
@@ -239583,7 +239583,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bayburt Merkez Şube",
       "adres": "Şeyhayran Mah Osman Okutmuş Cad No:11A ",
       "lat": 40.258456,
@@ -239591,7 +239591,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Grand Okan Otel",
       "adres": "Grand Okan Hotel Saray Atatürk Bulvarı No:141",
       "lat": 36.547782,
@@ -239599,7 +239599,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Side Prenses Hotel Ant.",
       "adres": "İnönü Bulvarı No:29  Side ",
       "lat": 36.784362,
@@ -239607,7 +239607,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Yalvaç Hüyüklü",
       "adres": "Hüyüklü Beldesi Eskigeçit Mahallesi Cumhuriyet Meydanı No: 7",
       "lat": 38.294677,
@@ -239615,7 +239615,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bodrum Marina",
       "adres": "Eskiçeşme Mahallesi Cafer Paşa Caddesi No:28",
       "lat": 37.03526,
@@ -239623,7 +239623,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Göreme",
       "adres": "Aydınlı Orta Mahallesi, Belediye Caddesi, No: 5",
       "lat": 38.643893,
@@ -239631,7 +239631,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Fethiye Çalış",
       "adres": "Akarca Mahallesi Yerguzlar Caddesi No:38",
       "lat": 36.647052,
@@ -239639,7 +239639,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bodrum Güvercinlik",
       "adres": "Güvercinlik Mahallesi Cumhuriyet Meydanı No : 7",
       "lat": 37.1356934,
@@ -239647,7 +239647,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Marmaris Siteler",
       "adres": "Armutalan Mahallesi Cumhuriyet Bulvarı No: 86",
       "lat": 36.83376,
@@ -239655,7 +239655,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Adana",
       "adres": "Onur Mahallesi, Turhan Cemal Beriker Bulvarı, Kiza İş Merkez",
       "lat": 36.99681,
@@ -239663,7 +239663,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Adapazarı",
       "adres": "Cumhuriyet Mahallesi, Doktor Kamil Sokak, No:16/B Adapazarı ",
       "lat": 40.779278,
@@ -239671,7 +239671,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Adıyaman",
       "adres": "Eskisaray Mahallesi, Atatürk Bulvarı, Şeker Bank No:146/1 Me",
       "lat": 37.7603060581049,
@@ -239679,7 +239679,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Afşin",
       "adres": "Ebülfez Elçibey Cad. No:59 Afşin/Kahramanmaraş",
       "lat": 38.246733,
@@ -239687,7 +239687,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Afyon",
       "adres": "Karaman Mah. Milli Egemenlik Cad.No.32/A Afyonkarahisar",
       "lat": 38.754635,
@@ -239695,7 +239695,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Akdeniz",
       "adres": "Cumhuriyet Cad. No: 75/C Antalya",
       "lat": 36.886117,
@@ -239703,7 +239703,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Akhisar",
       "adres": "Ragıpbey Mahallesi, 151.(Hilaliye) Cadde, No:16A  Akhisar / ",
       "lat": 38.917457,
@@ -239711,7 +239711,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Aksaray",
       "adres": "Ankara Cad. Mecit Mutlu İşhanı No : 7/B Aksaray",
       "lat": 38.37032,
@@ -239719,7 +239719,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Akşehir",
       "adres": "Selçuk Mahallesi, İnönü Caddesi, No:43 Akşehir/Konya",
       "lat": 38.35845,
@@ -239727,7 +239727,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Akyazı",
       "adres": "Konuralp Mah. Ada Cad. No:318 Akyazı / Sakarya",
       "lat": 40.683072,
@@ -239735,7 +239735,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Alanya",
       "adres": "Bostancı Pınarı Cad. No:26 /B Alanya / Antalya",
       "lat": 36.54295,
@@ -239743,7 +239743,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Alaşehir",
       "adres": "Sakarya Mahallesi, Sümer Oral Caddesi, Altan Blok, No: 94A",
       "lat": 38.35161,
@@ -239751,7 +239751,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Aliağa",
       "adres": "Kültür Mahallesi, İstiklal Caddesi, No:54/A Aliağa / İzmir",
       "lat": 38.8019,
@@ -239759,7 +239759,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Alpullu",
       "adres": "Ordu Cad. No : 22 / B Alpullu Babaeski/Kırklareli",
       "lat": 41.370344,
@@ -239767,7 +239767,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Altunizade",
       "adres": "Altunizade Mahallesi, Kısıklı Caddesi Sarkuysan - Ak İş Merk",
       "lat": 41.0233,
@@ -239775,7 +239775,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Amasya",
       "adres": "Mustafa Kemal Paşa Cad. No :47/A  Amasya",
       "lat": 40.657112,
@@ -239783,7 +239783,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Anamur",
       "adres": "Esentepe (Saray) Mah. Atatürk Bulvarı No:8 Anamur / Mersin",
       "lat": 36.077572,
@@ -239791,7 +239791,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ankara Kurumsal",
       "adres": "Mustafa Kemal Mahallesi, Dumlupınar Bulvarı, No:266C / 21 Ça",
       "lat": 39.9270584224798,
@@ -239799,7 +239799,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Antakya",
       "adres": "Odabaşı Mahallesi, Atatürk 10 Bulvarı, No:65 Antakya / Hatay",
       "lat": 36.2283958860582,
@@ -239807,7 +239807,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Antalya",
       "adres": "Tarım Mahallesi Aspendos Bulvarı Erüst İş Merkezi Sitesi, A ",
       "lat": 36.8888,
@@ -239815,7 +239815,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Antalya Hal",
       "adres": "Yeni Toptancı Hali No:868 Antalya",
       "lat": 36.921584,
@@ -239823,7 +239823,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Artvin",
       "adres": "Çarşı Mahallesi, Cumhuriyet Caddesi, No:10  Merkez / Artvin",
       "lat": 41.180927,
@@ -239831,7 +239831,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Avcılar",
       "adres": "Avcılar Mahallesi, Londra Asfaltı Caddesi, No:201 Avcılar / ",
       "lat": 40.988886,
@@ -239839,7 +239839,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Aydın",
       "adres": "Ramazanpaşa Mah. İstiklal Cad. Halil Zühtü Özçelik Apt. No:1",
       "lat": 37.847837,
@@ -239847,7 +239847,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ayrancılar/İzmir",
       "adres": "İnönü Mahallesi, Aydın Caddesi, No:89/A Torbalı/İzmir",
       "lat": 38.2391904536586,
@@ -239855,7 +239855,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Babaeski",
       "adres": "Hacı Hasan Mah. Adil Onat Cad. No : 5  Babaeski / Kırklareli",
       "lat": 41.430348,
@@ -239863,7 +239863,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bafra",
       "adres": "Tekel Cad. No : 33 / A  Bafra / Samsun",
       "lat": 41.566078,
@@ -239871,7 +239871,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bahçelievler/Ankara",
       "adres": "6. Cad. No : 15 / A   Bahçelievler  Çankaya / Ankara",
       "lat": 39.924729,
@@ -239879,7 +239879,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bakırköy",
       "adres": "Cevizlik Mahallesi, İstanbul Caddesi, No:45A",
       "lat": 40.978725,
@@ -239887,7 +239887,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Balgat",
       "adres": "Ceyhun Atıf Kansu Cad No.48 Balgat  Çankaya / Ankara",
       "lat": 39.902192,
@@ -239895,7 +239895,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Balıkesir",
       "adres": "Milli Kuvvetler Cad.  No : 50 / A Balıkesir",
       "lat": 39.64706,
@@ -239903,7 +239903,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Banaz",
       "adres": "Başaran Cad. No:4 Banaz/Uşak",
       "lat": 38.737423,
@@ -239911,7 +239911,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bandırma",
       "adres": "Haydar Çavuş Mahallesi, İsmet İnönü Caddesi, No:13 Bandırma ",
       "lat": 40.353821,
@@ -239919,7 +239919,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Batman",
       "adres": "Gap Mahallesi Turgut Özal Bulvarı Safir Plaza No:298-A Batma",
       "lat": 37.899654,
@@ -239927,7 +239927,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bayburt",
       "adres": "Şeyhhayran Mahallesi, Osman Okutmuş Caddesi, No:11A Merkez /",
       "lat": 40.2583821597446,
@@ -239935,7 +239935,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bayrampaşa",
       "adres": "Yenidoğan Mahallesi, Abdi İpekçi Caddesi, Kardeşler İş Hanı,",
       "lat": 41.03693,
@@ -239943,7 +239943,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bursa Özel Bankacılık",
       "adres": "23 Nisan Mahallesi, Ata Bulvarı, Gizemler 2 Plaza Sitesi A V",
       "lat": 40.2162543,
@@ -239951,7 +239951,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Beşiktaş",
       "adres": "Cihannüma Mahallesi, Barbaros Bulvarı, No:97A ",
       "lat": 41.043889,
@@ -239959,7 +239959,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Beylikdüzü",
       "adres": "Büyükşehir Mahallesi Belediye Caddesi Beylicium Alışveriş Me",
       "lat": 41.011625,
@@ -239967,7 +239967,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Beypazarı",
       "adres": "Beytepe Mahallesi İrfan Gümüşel Cad. No:55 / 6 Beypazarı / A",
       "lat": 40.168454,
@@ -239975,7 +239975,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Beyşehir",
       "adres": "Evsat Mahallesi, Antalya Caddesi,  No:19A  Beyşehir/Konya",
       "lat": 37.678794,
@@ -239983,7 +239983,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bodrum",
       "adres": "Kıbrıs Şehitleri Cad. Ataman İş Merkezi B Blok No:31 Bodrum ",
       "lat": 37.041356,
@@ -239991,7 +239991,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Boğazlıyan",
       "adres": "Çarşı İçi Kayseri Cad.  No : 1 Boğazlıyan/Yozgat",
       "lat": 39.187375,
@@ -239999,7 +239999,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bolu",
       "adres": "Tabaklar Mahallesi, İzzet Baysal Cad. No:79 Merkez / Bolu",
       "lat": 40.73237,
@@ -240007,7 +240007,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bornova",
       "adres": "Adalet Mahallesi, Şehit Polis Fethi Sekin Caddesi, No: 4F Ba",
       "lat": 38.45078268,
@@ -240015,7 +240015,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bozüyük",
       "adres": "Yeni Mahalle İsmet İnönü Cad. No: 35 Bozüyük / Bilecik",
       "lat": 39.906033,
@@ -240023,7 +240023,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Buğday Pazarı",
       "adres": "Fevzi Çakmak Mahallesi Adana Çevre Yolu Caddesi No: 26 – G K",
       "lat": 37.9104,
@@ -240031,7 +240031,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Burdur",
       "adres": "Konak Mah. Gazi Cad. No : 38 Burdur",
       "lat": 37.71837,
@@ -240039,7 +240039,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Bursa",
       "adres": "Haşim İşçan Cad. Burçin 1 İşhanı No:8 Osmangazi/ Bursa",
       "lat": 40.188455,
@@ -240047,7 +240047,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Büsan Organize Sanayi",
       "adres": "Fevzi Çakmak Mahallesi, Büsan Sanayi Sitesi Kosgeb Caddesi, ",
       "lat": 37.923491,
@@ -240055,7 +240055,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Cebeci",
       "adres": "Fakülteler Mahallesi, Cemal Gürsel Caddesi, Serkan Apartmanı",
       "lat": 39.930796118521,
@@ -240063,7 +240063,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ceyhan",
       "adres": "Büyük Kırım Mah. Atatürk Cad.  No : 299 Ceyhan / Adana",
       "lat": 37.025769,
@@ -240071,7 +240071,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İzmir Özel Bankacılık",
       "adres": "Akdeniz Mahallesi, Atatürk Caddesi, No:92, Kat:4, İç Kapı No",
       "lat": 38.4256,
@@ -240079,7 +240079,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çanakkale",
       "adres": "Fevzipaşa Mah. Çarşı Cad. No:100 Çanakkale",
       "lat": 40.146944,
@@ -240087,7 +240087,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çankaya",
       "adres": "Hoşdere Cad. No : 195/A  Çankaya / Ankara",
       "lat": 39.885223,
@@ -240095,7 +240095,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çankırı",
       "adres": "Atatürk Bulvarı Belediye Sarayı Altı No: 13/B Çankırı",
       "lat": 40.600602,
@@ -240103,7 +240103,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çarşamba",
       "adres": "Orta Mah. Dr.Tevfik Türker Cad. No:6 Çarşamba/Samsun",
       "lat": 41.19828,
@@ -240111,7 +240111,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çay",
       "adres": "Aşağı Mahalle, Cumhuriyet Caddesi, No:10-A Çay / Afyonkarahi",
       "lat": 38.592145,
@@ -240119,7 +240119,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çemberlitaş",
       "adres": "Mimar Hayrettin Mahallesi, Yeniçeriler Cad. No: 23 / 1 Fatih",
       "lat": 41.008508,
@@ -240127,7 +240127,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çerkezköy",
       "adres": "Gazi Mustafa Kemal Paşa Mahallesi, Özcan Sokak, No: 5C Çerke",
       "lat": 41.28691,
@@ -240135,7 +240135,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çivril",
       "adres": "Çatlar Mah. Cumhuriyet Cad. No:15   Çivril / Denizli",
       "lat": 38.304756,
@@ -240143,7 +240143,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çorlu",
       "adres": "Omurtak Cad. No:136/1-2 Çorlu / Tekirdağ",
       "lat": 41.154763,
@@ -240151,7 +240151,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çorum",
       "adres": "İnönü Cad. No : 35 Çorum",
       "lat": 40.54514,
@@ -240159,7 +240159,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Çubuk",
       "adres": "Cumhuriyet Mahallesi Atatürk Bulvarı No: 4 Çubuk / Ankara",
       "lat": 40.238195,
@@ -240167,7 +240167,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Denizli",
       "adres": "Saraylar Mahallesi, İzmir Bulvarı, No: 51 A Merkezefendi / D",
       "lat": 37.786665,
@@ -240175,7 +240175,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Dikmen",
       "adres": "Dikmen Cad.No:294/5-6 Dikmen / Ankara",
       "lat": 39.877694,
@@ -240183,7 +240183,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Dinar",
       "adres": "Cumhuriyet Cad. No : 38    Dinar / Afyonkarahisar",
       "lat": 38.064084,
@@ -240191,7 +240191,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Diyarbakır",
       "adres": "Kooperatifler Mah. Akkoyunlu Bul. Murat-2 Apt. Blok No:23A Y",
       "lat": 37.916108,
@@ -240199,7 +240199,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Dörtyol / Hatay",
       "adres": "Sanayi Mahallesi, İnönü Caddesi, C Blok, No:41B Dörtyol / Ha",
       "lat": 36.8376395635734,
@@ -240207,7 +240207,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Dudullu",
       "adres": "Yukarı Dudullu Mah., Alemdağ Caddesi, No:802 Ümraniye/İstanb",
       "lat": 41.01645,
@@ -240215,7 +240215,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Düzce",
       "adres": "Cedidiye Mah. Köprü Sok. No:1 Düzce",
       "lat": 40.83841,
@@ -240223,7 +240223,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Edirne",
       "adres": "Çavuşbey Mahallesi, Atatürk Bulvarı, No:336  Daire:3 Merkez ",
       "lat": 41.676935,
@@ -240231,7 +240231,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Edremit",
       "adres": "Sıtkıpaşa Caddesi No:3 Edremit / Balıkesir",
       "lat": 39.592747,
@@ -240239,7 +240239,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Elazığ",
       "adres": "Çarşı Mahallesi, Hürriyet Caddesi, No: 22A",
       "lat": 38.674794,
@@ -240247,7 +240247,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Elbistan",
       "adres": "Güneşli Mahallesi, Hulusi Efendi Bulvarı, No:27/C Elbistan /",
       "lat": 38.200839,
@@ -240255,7 +240255,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ellialtılar",
       "adres": "Kılıçdede Mahallesi İstiklal Caddesi No:173 / 13 İlkadım / S",
       "lat": 41.2789,
@@ -240263,7 +240263,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "4.Levent Özel Bankacılık",
       "adres": "Emniyet Evleri Mahallesi Akarsu Caddesi No:3/105 Kağıthane/ ",
       "lat": 41.085337,
@@ -240271,7 +240271,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Emirdağ",
       "adres": "Yenimahalle Arabacılar Sok. No:21  Emirdağ/Afyonkarahisar",
       "lat": 39.020467,
@@ -240279,7 +240279,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Erbaa",
       "adres": "Cumhuriyet Mh. Gazi Bulvarı No: 160-A   Erbaa / Tokat",
       "lat": 40.670913,
@@ -240287,7 +240287,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Erciyes",
       "adres": "Sanayi Mahallesi, 6004. Cadde, No:76, Kocasinan / Kayseri",
       "lat": 38.726026,
@@ -240295,7 +240295,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ereğli",
       "adres": "Selçuklu Mahallesi, 90261. Sokak, No: 3A Ereğli/Konya",
       "lat": 37.511998,
@@ -240303,7 +240303,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Erzincan",
       "adres": "Atatürk Mahallesi, Nerim Tombul Caddesi No:5 Erzincan",
       "lat": 39.747776,
@@ -240311,7 +240311,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Erzurum",
       "adres": "Lalapaşa Mah. İzzetpaşa Cad. Ömer Erturan İş Merkezi Şekerba",
       "lat": 39.908428,
@@ -240319,7 +240319,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Esenyurt",
       "adres": "Doğan Araslı Bulvarı, No:90/B Esenyurt / İstanbul",
       "lat": 41.022003,
@@ -240327,7 +240327,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Eskişehir",
       "adres": "Kurtuluş Mahallesi, Yunus Emre Caddesi, No:94A Odunpazarı / ",
       "lat": 39.774102,
@@ -240335,7 +240335,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Etimesgut",
       "adres": "İstasyon Mahallesi, 2310 Cad. No: 4 A Etimesgut /Ankara",
       "lat": 39.9475,
@@ -240343,7 +240343,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Fatsa",
       "adres": "Dumlupınar Mahallesi, Reşadiye Caddesi No:57 Fatsa / Ordu",
       "lat": 41.029754,
@@ -240351,7 +240351,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Fethiye",
       "adres": "Cumhuriyet Mah. Çarşı Cad.No:62 Fethiye/Muğla",
       "lat": 36.620402,
@@ -240359,7 +240359,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Gaziantep",
       "adres": "Hürriyet Cad. No: 16 Şahinbey / Gaziantep",
       "lat": 37.060783,
@@ -240367,7 +240367,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Gazi Bulvarı",
       "adres": "İsmet Kaptan Mahallesi, Gazibulvarı Caddesi, No:108/A Konak ",
       "lat": 38.437867,
@@ -240375,7 +240375,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Gaziosmanpaşa/Ankara",
       "adres": "Uğur Mumcu Cad. No:51/A Gaziosmanpaşa Çankay / Ankara",
       "lat": 39.892928,
@@ -240383,7 +240383,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Gazipaşa",
       "adres": "Gazipaşa Bulvarı Seçkin Apt. No:39 Seyhan/Adana",
       "lat": 37.001856,
@@ -240391,7 +240391,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Gebze",
       "adres": "Yeni Bağdat Cad. No:605/B-C  Gebze/Kocaeli",
       "lat": 40.803406,
@@ -240399,7 +240399,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Gebze Organize Sanayi",
       "adres": "Güzeller Mahallesi, Güzeller Organize Sanayi Bölgesi, Atatür",
       "lat": 40.841501,
@@ -240407,7 +240407,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Giresun",
       "adres": "Hacımiktat Mahallesi, Fatih Caddesi, No:7 Giresun",
       "lat": 40.91686,
@@ -240415,7 +240415,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Gölbaşı",
       "adres": "Gaziosmanpaşa Mahallesi, Ankara Caddesi, No:66 G-H Gölbaşı /",
       "lat": 39.7962,
@@ -240423,7 +240423,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Gönen",
       "adres": "Kurtuluş Mahallesi, Hüseyin Tümer Caddesi, No: 38B",
       "lat": 40.108757,
@@ -240431,7 +240431,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Göztepe Özel Bankacılık",
       "adres": "Caddebostan Mahallesi, Bağdat Cad. No : 266 / A Kadıköy / İs",
       "lat": 40.969611,
@@ -240439,7 +240439,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Gümüşsuyu",
       "adres": "Ömer Avni Mahallesi, İnönü Cad. No:36A ",
       "lat": 41.037016,
@@ -240447,7 +240447,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Güneşli",
       "adres": "15 Temmuz Mahallesi Koçman Cad.  No : 36 / A  Bağcılar / İst",
       "lat": 41.0318842,
@@ -240455,7 +240455,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Hadımköy Yolu",
       "adres": "Osman Gazi Mahallesi, Hadımköy Yolu Caddesi, No:38B/3 Esenyu",
       "lat": 41.0454,
@@ -240463,7 +240463,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Hatay/İzmir",
       "adres": "İnönü Caddesi, No:330/B Konak/İzmir",
       "lat": 38.401621,
@@ -240471,7 +240471,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Iğdır",
       "adres": "Cumhuriyet Mahallesi, Zübeyde Hanım Bulvarı, No:14 / A ",
       "lat": 39.926284,
@@ -240479,7 +240479,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ilgın",
       "adres": "Camiiatik Mahallesi Hükümet Cad. No:85 Ilgın / Konya",
       "lat": 38.276453,
@@ -240487,7 +240487,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Isparta",
       "adres": "Kutlubey Mahallesi 101 Caddesi No: 38 Merkez / Isparta",
       "lat": 37.765261,
@@ -240495,7 +240495,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İkitelli",
       "adres": "İkitelli Osb Mahallesi, Bağcılar Güngören Metro Avm, A Blok ",
       "lat": 41.07698489,
@@ -240503,7 +240503,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İncesu",
       "adres": "Cumhuriyet Caddesi, No:7 İncesu/Kayseri",
       "lat": 38.624532,
@@ -240511,7 +240511,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İncirliova",
       "adres": "İstiklal Mahallesi Prof.Dr.Türkan Saylan Caddesi, No:54A İnc",
       "lat": 37.852826,
@@ -240519,7 +240519,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İnegöl",
       "adres": "Nuri Duğrul Cad.  No:  11/A  İnegöl/Bursa",
       "lat": 40.079352,
@@ -240527,7 +240527,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İskenderun",
       "adres": "Çay (1. Mıntıka) Mahallesi, Mete Aslan Bulvarı, No:19C, İske",
       "lat": 36.58672,
@@ -240535,7 +240535,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İstoç/İstanbul",
       "adres": "İstoç Ticaret Merkezi, 2. Ada (3.Yol Sokak), No:1-3  Bağcıla",
       "lat": 41.065399,
@@ -240543,7 +240543,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İvedik Organize Sanayi",
       "adres": "Ostim Mahallesi 1475. Sokak 1/A İvedik Organize Sanayi Bölge",
       "lat": 39.999434,
@@ -240551,7 +240551,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İzmir",
       "adres": "Adalet Mahallesi, Şehit Polis Fethi Sekin Caddesi, No:4F Bay",
       "lat": 38.4507,
@@ -240559,7 +240559,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "İzmit",
       "adres": "Karabaş Mahallesi Cengiz Topel Caddesi No:8 İzmit / Kocaeli",
       "lat": 40.764323,
@@ -240567,7 +240567,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kadıköy",
       "adres": "Osmanağa Mah. Kuşdili Cad. Efes İşhanı Blok No:12A Kadıköy/İ",
       "lat": 40.989593,
@@ -240575,7 +240575,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kahramanmaraş",
       "adres": "Üngüt Mahallesi, Prof. Dr. Necmettin Erbakan Bulvarı, Güzely",
       "lat": 37.59999,
@@ -240583,7 +240583,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Karabağlar",
       "adres": "Karabağlar Mah. Yeşillik Cad. No:399 Konak / İzmir",
       "lat": 38.375094,
@@ -240591,7 +240591,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Karabük",
       "adres": "Bayır Mahallesi, Fevzi Fırat Caddesi, No: 95",
       "lat": 41.196514,
@@ -240599,7 +240599,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Karacabey",
       "adres": "Bursa Cd.   No:51/D    Karacabey/Bursa",
       "lat": 40.215012,
@@ -240607,7 +240607,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Karadeniz Ereğli",
       "adres": "Müftü Mahallesi, Yukarı Sokak No: 16/101 - 103 Ereğli / Zong",
       "lat": 41.279149,
@@ -240615,7 +240615,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Karaman",
       "adres": "Külhan Mahallesi, Kemal Kaynaş Caddesi, No: 57/A/B/C",
       "lat": 37.185,
@@ -240623,7 +240623,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kars",
       "adres": "Yusufpaşa Mah. Kazımpaşa Cad. No:96 / A  Kars",
       "lat": 40.463389,
@@ -240631,7 +240631,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Karşıyaka",
       "adres": "Bahariye Mah. Dr. Orhan Alpyörük Sok. No:4/4A Karşıyaka / İz",
       "lat": 38.460926,
@@ -240639,7 +240639,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kartal",
       "adres": "Kordonboyu Mah. Ankara Caddesi No:110A  Kartal / İstanbul",
       "lat": 40.888118,
@@ -240647,7 +240647,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kastamonu",
       "adres": "Cumhuriyet Cad. No: 26 Kastamonu",
       "lat": 41.379433,
@@ -240655,7 +240655,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kavacık",
       "adres": "Kavacık Mah. Fatih Sultan Mehmet Cad. Universal Plaza N:36 B",
       "lat": 41.093745,
@@ -240663,7 +240663,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kayseri",
       "adres": "Cumhuriyet Mahallesi, Vatan Caddesi No:22 Melikgazi / Kayser",
       "lat": 38.718573242499,
@@ -240671,7 +240671,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kazasker",
       "adres": "19 Mayıs Mahallesi Şemsettin Günaltay Cad. No: 101/A Kadıköy",
       "lat": 40.9661624219031,
@@ -240679,7 +240679,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Keçiören",
       "adres": "Bağlarbaşı Mahallesi, Kızlar Pınarı Caddesi No:132B  Keçiöre",
       "lat": 39.993373,
@@ -240687,7 +240687,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Keşan",
       "adres": "Büyük Cami Mah. İsmail Saraç Cd. No:39 Keşan / Edirne",
       "lat": 40.852798,
@@ -240695,7 +240695,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kınık",
       "adres": "Belediye Caddesi, No:8 Kınık Kaş/Antalya",
       "lat": 36.347485,
@@ -240703,7 +240703,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kırıkkale",
       "adres": "Cumhuriyet Cad. No : 31 / A Kırıkkale",
       "lat": 39.841479,
@@ -240711,7 +240711,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kırklareli",
       "adres": "Karakaş Mahallesi, Kuyumcular Caddesi, No.16 Kırklareli",
       "lat": 41.734991,
@@ -240719,7 +240719,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kırşehir",
       "adres": "Medrese Mahallesi, Melikgazi Caddesi, No:5 Merkez / Kırşehir",
       "lat": 39.138615,
@@ -240727,7 +240727,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kızılay",
       "adres": "Ziya Gökalp Cad.  No: 3  Çankaya/Ankara",
       "lat": 39.920401,
@@ -240735,7 +240735,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Konya",
       "adres": "Musalla Bağları Mahalllesi, Belh Caddesi, No: 6 Merkez / Sel",
       "lat": 37.8934383,
@@ -240743,7 +240743,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Konyaaltı",
       "adres": "Gürsu Mahallesi, Gazi Mustafa Kemal Bulvarı, No:61A Konyaalt",
       "lat": 36.866747,
@@ -240751,7 +240751,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kozan",
       "adres": "Arslanpaşa Mahallesi, Irmak Caddesi, No:13 Kozan / Adana",
       "lat": 37.4492244,
@@ -240759,7 +240759,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kozyatağı",
       "adres": "Bayar Caddesi, Rıza Çemberci İş Merkezi No:72 Kozyatağı  Kad",
       "lat": 40.970866,
@@ -240767,7 +240767,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kumluca",
       "adres": "Meydan Mahallesi Bosna Sokak No:1/B Kumluca / Antalya",
       "lat": 36.36626,
@@ -240775,7 +240775,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kurtköy",
       "adres": "Şeyhli Mahallesi, Ankara Caddesi No:243A Kurtköy Pendik/İsta",
       "lat": 40.905607,
@@ -240783,7 +240783,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kuşadası",
       "adres": "Türkmen Mah.Atatürk Bulvarı Belvü Sitesi C Blok No:4 / 7 Kuş",
       "lat": 37.865978,
@@ -240791,7 +240791,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Küçükesat",
       "adres": "Barbaros Mahallesi, Tunalı Hilmi Cad.  No: 61/B  ",
       "lat": 39.909226,
@@ -240799,7 +240799,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Küçükyalı",
       "adres": "Altıntepe Mah., Bağdat Caddesi, No:83  Küçükyalı Maltepe/İst",
       "lat": 40.951155,
@@ -240807,7 +240807,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Kütahya",
       "adres": "Cumhuriyet Cad.  No : 1 Kütahya",
       "lat": 39.41995,
@@ -240815,7 +240815,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Lara Özel Bankacılık",
       "adres": "Şirinyalı Mah.Özgürlük Bulv. İsmet Gökşen Cad. No: 36/4 Lara",
       "lat": 36.85974,
@@ -240823,7 +240823,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Lüleburgaz",
       "adres": "İstanbul Cad. No: 20 / A  Lüleburgaz/Kırklareli",
       "lat": 41.4065469,
@@ -240831,7 +240831,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Malatya",
       "adres": "İnönü Mahallesi, Çevre Sokak, No:4/9-Z5, G Blok, Yeşilyurt /",
       "lat": 38.3503331,
@@ -240839,7 +240839,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Malkara",
       "adres": "Camiatik Mahallesi, 14 Kasım Caddesi, No:67/15 Malkara/Tekir",
       "lat": 40.893581,
@@ -240847,7 +240847,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Maltepe/İstanbul",
       "adres": "Altayçeşme Mahallesi, Bağdat Cad. No : 391 B  Maltepe/İstanb",
       "lat": 40.925697,
@@ -240855,7 +240855,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Manavgat",
       "adres": "Antalya Caddesi No:43 Manavgat/Antalya",
       "lat": 36.785762,
@@ -240863,7 +240863,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Manisa",
       "adres": "Gazi Mustafa Kemal Bulv. Anafartalar Mh. No : 1 Manisa",
       "lat": 38.614079,
@@ -240871,7 +240871,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Mardin",
       "adres": "Yenişehir Mahallesi, Vali Ozan Caddesi, No:73/19 Artuklu / M",
       "lat": 37.3243027553173,
@@ -240879,7 +240879,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Marmaris",
       "adres": "Ulusal Egemenlik Cad. No. 46 Marmaris/Muğla",
       "lat": 36.858197,
@@ -240887,7 +240887,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Maslak",
       "adres": "Maslak Mah. Ahi Evran Cad. Polaris Plaza No:21 Sarıyer / İst",
       "lat": 41.1126183,
@@ -240895,7 +240895,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Mecidiyeköy",
       "adres": "Büyükdere Cad.  No:36/ A   Mecidiyeköy/İstanbul",
       "lat": 41.065164,
@@ -240903,7 +240903,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Menemen",
       "adres": "Ertuğrul Caddesi, No:2 Menemen/İzmir",
       "lat": 38.608638,
@@ -240911,7 +240911,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Merkez",
       "adres": "Eski Büyükdere Caddesi No:1 Kağıthane / İstanbul",
       "lat": 41.085337,
@@ -240919,7 +240919,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Mersin",
       "adres": "Çankaya Mahallesi, Kuvai Milliye Caddesi, No:8 Akdeniz / Mer",
       "lat": 36.798392,
@@ -240927,7 +240927,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Merter",
       "adres": "Keresteciler Sitesi, Fatih Caddesi, No:30/A   Merter Güngöre",
       "lat": 41.012588,
@@ -240935,7 +240935,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Merzifon",
       "adres": "Camicedit Mahallesi, Hacırahat Cad. No:4 İç Kapı No:1  Merzi",
       "lat": 40.872456,
@@ -240943,7 +240943,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Milas",
       "adres": "Hacı İlyas Mahallesi, Menteşe Caddesi No:38 Milas / Muğla",
       "lat": 37.3137,
@@ -240951,7 +240951,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Muğla",
       "adres": "Emirbeyazıt Mah. Zübeyde Hanım Cad. No:14/B",
       "lat": 37.214093,
@@ -240959,7 +240959,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Mustafakemalpaşa",
       "adres": "Balıkesir Cad. Şekerci Sokak No:26/A-B-C Mustafakemalpaşa / ",
       "lat": 40.034506,
@@ -240967,7 +240967,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Nazilli",
       "adres": "Hürriyet Cad. No :335  Nazilli/Aydın",
       "lat": 37.922873,
@@ -240975,7 +240975,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Nevşehir",
       "adres": "Lale Caddesi  No : 32 Nevşehir",
       "lat": 38.625972,
@@ -240983,7 +240983,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Niğde",
       "adres": "Esenbey Mahallesi, Ayhan Şahenk Bulvarı, No:30/B Niğde",
       "lat": 37.971558,
@@ -240991,7 +240991,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Niksar",
       "adres": "Gaziosmanpaşa Mh. Şehit Er Naci Yıldırım Cd. No:7 Niksar / T",
       "lat": 40.589409,
@@ -240999,7 +240999,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ordu",
       "adres": "Düz Mah. Süleyman Felek Cad. No: 40/A Ordu",
       "lat": 40.985681,
@@ -241007,7 +241007,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ortaca",
       "adres": "Atatürk Mahallesi, Atatürk Bulvarı No: 111 / B Ortaca / Muğl",
       "lat": 36.8378,
@@ -241015,7 +241015,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Osmaniye",
       "adres": "İstiklal Mahallesi Palalı Süleyman Caddesi No: 33 A Merkez /",
       "lat": 37.0746,
@@ -241023,7 +241023,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ostim",
       "adres": "100.Yıl Bulvarı No:32 Ostim/Ankara ",
       "lat": 39.967286,
@@ -241031,7 +241031,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ödemiş",
       "adres": "Akıncılar Mah. Gazi Cad. No:30 Ödemiş/İzmir ",
       "lat": 38.228948,
@@ -241039,7 +241039,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Pendik",
       "adres": "Doğu Mahallesi, Erol Kaya Caddesi, No: 112 Pendik / İstanbul",
       "lat": 40.876963,
@@ -241047,7 +241047,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Polatlı",
       "adres": "Eti Cad. No : 17 / B  Polatlı/Ankara",
       "lat": 39.583275,
@@ -241055,7 +241055,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Porsuk",
       "adres": "İsmet İnönü Cad. (Doktorlar Cad.) No:38/A Eskişehir",
       "lat": 39.778447,
@@ -241063,7 +241063,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Pozcu",
       "adres": "Aydınlıkevler Mahallesi, Gazi Mustafa Kemal Bulvarı, No:394 ",
       "lat": 36.780134,
@@ -241071,7 +241071,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Rize",
       "adres": "Piriçelebi Mahallesi Cumhuriyet Caddesi No: 95 / A Rize",
       "lat": 41.025591,
@@ -241079,7 +241079,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Salihli",
       "adres": "Mithatpaşa Mahallesi, Mithatpaşa Caddesi, No:87 Salihli / Ma",
       "lat": 38.484928,
@@ -241087,7 +241087,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Samsun",
       "adres": "Saitbey Mahallesi, İstiklal Caddesi, No:19 İlkadım / Samsun",
       "lat": 41.29,
@@ -241095,7 +241095,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Sandıklı",
       "adres": "Ece Mah. Alaattin Sok.  No : 25  Sandıklı/Afyonkarahisar ",
       "lat": 38.464057,
@@ -241103,7 +241103,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Saray",
       "adres": "Ayaspaşa Mahallesi, Vize Caddesi, No:5A Saray/Tekirdağ",
       "lat": 41.44793,
@@ -241111,7 +241111,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Sarıgazi",
       "adres": "Meclis Mahallesi, Atatürk Caddesi, No: 107A Sancaktepe / İst",
       "lat": 41.009564,
@@ -241119,7 +241119,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Sefaköy",
       "adres": "Fevzi Çakmak Mahallesi, Ahmet Kocabıyık Sokak, No:20/A Küçük",
       "lat": 41.004427364866,
@@ -241127,7 +241127,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Serik",
       "adres": "Orta Mahallesi Dr. Baki Özpınar Caddesi No:4 Serik / Antalya",
       "lat": 36.9157,
@@ -241135,7 +241135,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Seydişehir",
       "adres": "Hacıseyitali Mahallesi, Seyyid Harun Veli Caddesi, No: 26A S",
       "lat": 37.42091,
@@ -241143,7 +241143,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Silifke",
       "adres": "Pazarkaşı Mah. Menderes Cad. Adas İşhanı No:54 Silifke/Mersi",
       "lat": 36.375919,
@@ -241151,7 +241151,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Silivri",
       "adres": "Ali Çetinkaya Caddesi  No:13/A  Silivri/İstanbul",
       "lat": 41.072234,
@@ -241159,7 +241159,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Sincan",
       "adres": "Atatürk Mahallesi Ankara Caddesi No:18 Sincan / Ankara",
       "lat": 39.9641881558689,
@@ -241167,7 +241167,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Siteler",
       "adres": "Taşdelen Caddesi No:9/2 Siteler Altındağ / Ankara",
       "lat": 39.96316,
@@ -241175,7 +241175,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Sivas",
       "adres": "Bankalar Caddesi 2. Park Sokak No:3 Sivas ",
       "lat": 39.750151,
@@ -241183,7 +241183,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Soma",
       "adres": "Kurtuluş Mah. Hürriyet Bulv. No : 5 Soma/Manisa",
       "lat": 39.18135,
@@ -241191,7 +241191,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Söke",
       "adres": "Konak Mah. İstasyon Cad. No: 85/A Söke",
       "lat": 37.752716,
@@ -241199,7 +241199,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Sultançiftliği",
       "adres": "50.Yıl Mahallesi, Eski Edirne Asfaltı, No: 514 B Sultangazi/",
       "lat": 41.090503,
@@ -241207,7 +241207,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Sultandağı",
       "adres": "Kayran Mah. Kocatepe Cad.  No : 3  Sultandağı/Afyonkarahisar",
       "lat": 38.531214,
@@ -241215,7 +241215,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Sultanhamam",
       "adres": "Hobyar Mahallesi, Şeyhülislam Hayriefendi Caddesi, No:6 ",
       "lat": 41.015685,
@@ -241223,7 +241223,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Sungurlu",
       "adres": "Şekerpınar Mahallesi, Muhsin Yazıcıoğlu Caddesi No: 117 Sung",
       "lat": 40.164589,
@@ -241231,7 +241231,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Susurluk",
       "adres": "Han Mah. 5 Eylül Cad. Şakar  Apt. No:28/A Susurluk / Balıkes",
       "lat": 39.915143,
@@ -241239,7 +241239,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Şanlıurfa",
       "adres": "Kamberiye Mahallesi, Atatürk Bulvarı, Abdüllatif İş Hanı No:",
       "lat": 37.1578263362788,
@@ -241247,7 +241247,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Şarkikaraağaç",
       "adres": "Camikebir Mah., 1144 Ulu Sokak, No:16/A Şarkikaraağaç/Ispart",
       "lat": 38.081406,
@@ -241255,7 +241255,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Şaşmaz",
       "adres": "Bahçekapı Mahallesi, Sanayi Bulvarı No:14/B Şaşmaz, Etimesgu",
       "lat": 39.936898,
@@ -241263,7 +241263,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Şehitkamil",
       "adres": "Mücahitler Mahallesi, Gazi Muhtar Paşa Bulvarı, No:44/A Şehi",
       "lat": 37.0722856,
@@ -241271,7 +241271,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Şirinevler",
       "adres": "Hürriyet Mah. Dumlupınar Cad. No : 8/A  Şirinevler Bahçeliev",
       "lat": 40.992168,
@@ -241279,7 +241279,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Şirinyer",
       "adres": "Cemil Şeboy Bul.No:166/A Buca/İzmir",
       "lat": 38.392599,
@@ -241287,7 +241287,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Şuhut",
       "adres": "Afyon Cad. Eski Belediye Saray Altı   Şuhut/Afyonkarahisar",
       "lat": 38.532498,
@@ -241295,7 +241295,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Tarsus",
       "adres": "Mersin Cad. Halitaslan İşhanı No : 8/A  Tarsus/Mersin",
       "lat": 36.909266,
@@ -241303,7 +241303,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Taşbaşı",
       "adres": "Arifiye Mahallesi, Belediye Sokak, No:2 / C Odunpazarı / Esk",
       "lat": 39.77035,
@@ -241311,7 +241311,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Taşköprü",
       "adres": "Tabakhane Mah.  Atatürk Cad. No : 22 / A Taşköprü / Kastamon",
       "lat": 41.511574,
@@ -241319,7 +241319,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Tefenni",
       "adres": "Cumhuriyet Caddesi, No:28 Tefenni/Burdur",
       "lat": 37.311335,
@@ -241327,7 +241327,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Tekirdağ",
       "adres": "Çınarlı Mahallesi, Köprübaşı Caddesi, No:10 Süleymanpaşa/Tek",
       "lat": 40.977926,
@@ -241335,7 +241335,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Tire",
       "adres": "Kurtuluş Mahallesi, İsmail Taşlı Caddesi, No:25 Tire / İzmir",
       "lat": 38.088733,
@@ -241343,7 +241343,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Tokat",
       "adres": "Gazi Osman Paşa Bulv. No : 183/A Tokat",
       "lat": 40.315694,
@@ -241351,7 +241351,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Torbalı",
       "adres": "Tepeköy Mahallesi, Ağalar Caddesi, Yaman Apartmanı No:24 Tor",
       "lat": 38.15058,
@@ -241359,7 +241359,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Toros",
       "adres": "Mahfesığmaz Mah. Turgut Özal Bul. No:131/B Çukurova / Adana",
       "lat": 37.0465023782415,
@@ -241367,7 +241367,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Tosya",
       "adres": "Cumhuriyet Meydanı Caddesi No:34/A Tosya/Kastamonu",
       "lat": 41.016779,
@@ -241375,7 +241375,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Trabzon",
       "adres": "Kunduracılar Caddesi, No:74 Trabzon",
       "lat": 41.006314,
@@ -241383,7 +241383,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Turgutlu",
       "adres": "Cumhuriyet Mah. Atatürk Bulvarı 248/A Turgutlu/Manisa",
       "lat": 38.493587,
@@ -241391,7 +241391,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Turhal",
       "adres": "Cumhuriyet Cad.  No : 16 Turhal/Tokat",
       "lat": 40.386795,
@@ -241399,7 +241399,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Tuzla",
       "adres": "Aydıntepe Mahallesi, Dr. Sadık Ahmet Caddesi, No: 25 Daire:1",
       "lat": 40.8536,
@@ -241407,7 +241407,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Uludağ",
       "adres": "Yenikaraman Mahallesi, Sanayi Caddesi, No:150/57  Osmangazi/",
       "lat": 40.225858,
@@ -241415,7 +241415,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ulus",
       "adres": "Rüzgarlı Sok. No:15 Ulus Altındağ / Ankara",
       "lat": 39.943231,
@@ -241423,7 +241423,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Uşak",
       "adres": "İsmetpaşa Cad. No:53/A Uşak",
       "lat": 38.675719,
@@ -241431,7 +241431,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Uzunköprü",
       "adres": "Rıza Efendi Mahallesi, Gazi Caddesi :56",
       "lat": 41.270058,
@@ -241439,7 +241439,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ümitköy Özel Bankacılık",
       "adres": "Prof.Dr.Ahmet Taner Kışlalı Mah. 2846 Sokak Dora Park Villal",
       "lat": 39.873986,
@@ -241447,7 +241447,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ümraniye",
       "adres": "Atatürk Mahallesi, Alemdağ Caddesi, No : 113A",
       "lat": 41.024593,
@@ -241455,7 +241455,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Ünye",
       "adres": "Hükümet Cad.  No : 44/A  Ünye/Ordu",
       "lat": 41.127607,
@@ -241463,7 +241463,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Üsküdar",
       "adres": "Aziz Mahmut Hüdayi Mahallesi, Halk Caddesi, Dış Kapı No: 16A",
       "lat": 41.020311,
@@ -241471,7 +241471,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Van",
       "adres": "Cumhuriyet Cad.  Mavi Plaza Karşısı Pulkar İş Merkezi Van",
       "lat": 38.4939087,
@@ -241479,7 +241479,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Vezirköprü",
       "adres": "Fazıl Ahmet Paşa Mahallesi, Fazıl Mustafa Paşa Caddesi, No:7",
       "lat": 41.145198,
@@ -241487,7 +241487,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Yalova",
       "adres": "Yalı Caddesi No:15/A  Yalova ",
       "lat": 40.658373,
@@ -241495,7 +241495,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Yalvaç",
       "adres": "Yeşil Çınar Bulv.  No : 34 Yalvaç/Isparta",
       "lat": 38.294652,
@@ -241503,7 +241503,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Yeni Sanayi",
       "adres": "Şeker Mahallesi, 6167. Sokak, No:1 Kocasinan / Kayseri",
       "lat": 38.7336419520893,
@@ -241511,7 +241511,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Yeniçubuk",
       "adres": "Yeni Doğan Mahallesi, İstanbul Caddesi No:40/A Yeniçubuk Gem",
       "lat": 39.185225,
@@ -241519,7 +241519,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Yenişehir/Bursa",
       "adres": "Cumhuriyet Caddesi No: 11/C  Yenişehir/Bursa",
       "lat": 40.263448,
@@ -241527,7 +241527,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Yeşilköy",
       "adres": "İstasyon Cad. No: 21 Yeşilköy Bakırköy / İstanbul",
       "lat": 40.960756,
@@ -241535,7 +241535,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Yıldızevler",
       "adres": "Turan Güneş Bulvarı No : 56/1 Çankaya/Ankara",
       "lat": 39.871096,
@@ -241543,7 +241543,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Yüreğir",
       "adres": "Cumhuriyet Mahallesi, Karataş Bulvarı No: 99 Yüreğir / Adana",
       "lat": 36.981343,
@@ -241551,7 +241551,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Zonguldak",
       "adres": "Mithatpaşa Mh.Alemdar Cad. No:4/A  Zonguldak",
       "lat": 41.451468,
@@ -241559,7 +241559,7 @@
     },
     {
       "bank_no": 22,
-      "bank_name": "FUPS Bank A.Ş.",
+      "bank_name": "FUPS Bank A.Ş. (dijital banka)",
       "adi": "Gezici Şube",
       "adres": "Eski Büyükdere Caddesi No:1 Kağıthane / İstanbul",
       "lat": 41.085337,
@@ -443303,7 +443303,7 @@
     },
     {
       "bank_no": 58,
-      "bank_name": "Ziraat Dinamik Banka A.Ş.",
+      "bank_name": "Ziraat Dinamik Banka A.Ş. (dijital banka)",
       "adi": "Genel Müdürlük",
       "adres": "Kızılırmak Mah. Ufuk Üniversitesi Cad. No:12 Çukurambar",
       "lat": 39.908838,
@@ -443311,7 +443311,7 @@
     },
     {
       "bank_no": 58,
-      "bank_name": "Ziraat Dinamik Banka A.Ş.",
+      "bank_name": "Ziraat Dinamik Banka A.Ş. (dijital banka)",
       "adi": "İstanbul Bölge Müdürlüğü",
       "adres": "Barboros Mahallesi Begonya Sokak No:9",
       "lat": 41.0018091,
@@ -443319,7 +443319,7 @@
     },
     {
       "bank_no": 58,
-      "bank_name": "Ziraat Dinamik Banka A.Ş.",
+      "bank_name": "Ziraat Dinamik Banka A.Ş. (dijital banka)",
       "adi": "Bursa Bölge Müdürlüğü",
       "adres": "Odunluk Mahallesi Lefkoşa Caddesi No:9 B Blok Mihraplı Plaza",
       "lat": 40.20725,
@@ -443327,7 +443327,7 @@
     },
     {
       "bank_no": 58,
-      "bank_name": "Ziraat Dinamik Banka A.Ş.",
+      "bank_name": "Ziraat Dinamik Banka A.Ş. (dijital banka)",
       "adi": "İzmir Bölge Müdürlüğü",
       "adres": "Halide Edip Adıvar Cad. No:110",
       "lat": 38.4000255,
@@ -443335,7 +443335,7 @@
     },
     {
       "bank_no": 58,
-      "bank_name": "Ziraat Dinamik Banka A.Ş.",
+      "bank_name": "Ziraat Dinamik Banka A.Ş. (dijital banka)",
       "adi": "Eskişehir Bölge Müdürlüğü",
       "adres": "Kırmızı Toprak Mahallesi Taşköprü Cad. Ufuktan Sokak No:19",
       "lat": 39.7700535,
@@ -443343,7 +443343,7 @@
     },
     {
       "bank_no": 58,
-      "bank_name": "Ziraat Dinamik Banka A.Ş.",
+      "bank_name": "Ziraat Dinamik Banka A.Ş. (dijital banka)",
       "adi": "Antalya Bölge Müdürlüğü",
       "adres": "Kültür Mahallesi 3801 Sokak No:11",
       "lat": 36.9021458,
@@ -443351,7 +443351,7 @@
     },
     {
       "bank_no": 58,
-      "bank_name": "Ziraat Dinamik Banka A.Ş.",
+      "bank_name": "Ziraat Dinamik Banka A.Ş. (dijital banka)",
       "adi": "Konya Bölge Müdürlüğü",
       "adres": "Yenişehir Mahallesi Ahmet Hilmi Nalçacı Cad. No:20",
       "lat": 37.8793092,
@@ -443359,7 +443359,7 @@
     },
     {
       "bank_no": 58,
-      "bank_name": "Ziraat Dinamik Banka A.Ş.",
+      "bank_name": "Ziraat Dinamik Banka A.Ş. (dijital banka)",
       "adi": "Ankara Bölge Müdürlüğü",
       "adres": "Anadolu Bulvarı Çamlıca Mahallesi Halk Ekmek Fabrikası Karşısı ",
       "lat": 39.9544194,
@@ -443367,7 +443367,7 @@
     },
     {
       "bank_no": 58,
-      "bank_name": "Ziraat Dinamik Banka A.Ş.",
+      "bank_name": "Ziraat Dinamik Banka A.Ş. (dijital banka)",
       "adi": "Adana Bölge Müdürlüğü",
       "adres": "Güzelyalı Mah.Adnan Kahveci Bulvarı No:19 ",
       "lat": 37.0325646,
@@ -443375,7 +443375,7 @@
     },
     {
       "bank_no": 58,
-      "bank_name": "Ziraat Dinamik Banka A.Ş.",
+      "bank_name": "Ziraat Dinamik Banka A.Ş. (dijital banka)",
       "adi": "Kayseri Bölge Müdürlüğü",
       "adres": "Mevlana Mahallesi Kocasinan Bulvarı No:147 ",
       "lat": 38.7331955,
@@ -443383,7 +443383,7 @@
     },
     {
       "bank_no": 58,
-      "bank_name": "Ziraat Dinamik Banka A.Ş.",
+      "bank_name": "Ziraat Dinamik Banka A.Ş. (dijital banka)",
       "adi": "Gaziantep Bölge Müdürlüğü",
       "adres": "M.Fevzi Çakmak Bul. No:108 ",
       "lat": 37.082058,
@@ -443391,7 +443391,7 @@
     },
     {
       "bank_no": 58,
-      "bank_name": "Ziraat Dinamik Banka A.Ş.",
+      "bank_name": "Ziraat Dinamik Banka A.Ş. (dijital banka)",
       "adi": "Diyarbakır Bölge Müdürlüğü",
       "adres": "Hintlibaba Cad. No:10",
       "lat": 37.9156241,
@@ -443399,7 +443399,7 @@
     },
     {
       "bank_no": 58,
-      "bank_name": "Ziraat Dinamik Banka A.Ş.",
+      "bank_name": "Ziraat Dinamik Banka A.Ş. (dijital banka)",
       "adi": "Elazığ Bölge Müdürlüğü",
       "adres": "Cumhuriyet Mahallesi 160.Sokak No:48",
       "lat": 38.6705453,
@@ -443407,7 +443407,7 @@
     },
     {
       "bank_no": 58,
-      "bank_name": "Ziraat Dinamik Banka A.Ş.",
+      "bank_name": "Ziraat Dinamik Banka A.Ş. (dijital banka)",
       "adi": "Van Bölge Müdürlüğü",
       "adres": "Ali Paşa Mah. İskele Cad. A Blok No:111",
       "lat": 38.5077915,
@@ -443415,7 +443415,7 @@
     },
     {
       "bank_no": 58,
-      "bank_name": "Ziraat Dinamik Banka A.Ş.",
+      "bank_name": "Ziraat Dinamik Banka A.Ş. (dijital banka)",
       "adi": "Erzurum Bölge Müdürlüğü",
       "adres": "Solakzade Mah. Yavuz Sultan Selim Bulv. No:49 ",
       "lat": 39.8890797,
@@ -443423,7 +443423,7 @@
     },
     {
       "bank_no": 58,
-      "bank_name": "Ziraat Dinamik Banka A.Ş.",
+      "bank_name": "Ziraat Dinamik Banka A.Ş. (dijital banka)",
       "adi": "Sivas Bölge Müdürlüğü",
       "adres": "Mimar Sinan Mah. İller Cad. No:4",
       "lat": 39.726284,
@@ -443431,7 +443431,7 @@
     },
     {
       "bank_no": 58,
-      "bank_name": "Ziraat Dinamik Banka A.Ş.",
+      "bank_name": "Ziraat Dinamik Banka A.Ş. (dijital banka)",
       "adi": "Samsun Bölge Müdürlüğü",
       "adres": "Mimar Sinan Mah. 115 Sokak No:1 ",
       "lat": 41.3317093,
@@ -443439,7 +443439,7 @@
     },
     {
       "bank_no": 58,
-      "bank_name": "Ziraat Dinamik Banka A.Ş.",
+      "bank_name": "Ziraat Dinamik Banka A.Ş. (dijital banka)",
       "adi": "Trabzon Bölge Müdürlüğü",
       "adres": "Sahil Cad. Yalıncak Mevkii",
       "lat": 40.979593,
@@ -443447,7 +443447,7 @@
     },
     {
       "bank_no": 58,
-      "bank_name": "Ziraat Dinamik Banka A.Ş.",
+      "bank_name": "Ziraat Dinamik Banka A.Ş. (dijital banka)",
       "adi": "Kastamonu Bölge Müdürlüğü",
       "adres": "Kuzeykent Mah. Miralay Halit Bey Cad. No:10",
       "lat": 41.414538,
