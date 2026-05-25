@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-24T10:15:14.203737Z",
-  "total": 59440,
+  "updated_at": "2026-05-25T14:20:04.287152Z",
+  "total": 59439,
   "banks": {
     "Ziraat Bankası": 8476,
     "Halkbank": 5127,
@@ -17,7 +17,7 @@
     "TEB": 1865,
     "Türk Ticaret Bankası": 16,
     "Garanti BBVA": 7290,
-    "İş Bankası": 7490,
+    "İş Bankası": 7489,
     "Yapı Kredi": 6827,
     "Arap Türk Bankası": 4,
     "HSBC": 80,
@@ -380945,14 +380945,6 @@
     {
       "bank_no": 32,
       "bank_name": "İş Bankası",
-      "adi": "İstanbul Havalimanı/İstanbul",
-      "adres": "Tayakadın Mahallesi Terminal Caddesi Havalimanı Terminal Bin",
-      "lat": 41.259715,
-      "lng": 28.743794
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
       "adi": "Sultangazi/İstanbul",
       "adres": "Eski Edirne Asfaltı No:736",
       "lat": 41.111176,
@@ -382194,9 +382186,9 @@
       "bank_no": 32,
       "bank_name": "İş Bankası",
       "adi": "Ayvalık/Balıkesir",
-      "adres": "150 Evler Mahallesi Atatürk Bulvarı No:456/12  ",
-      "lat": 39.331692,
-      "lng": 26.71554
+      "adres": "Fevzipaşa Vehbibey Mahallesi Atatürk Bulvarı No:144",
+      "lat": 39.31772,
+      "lng": 26.691857
     },
     {
       "bank_no": 32,
