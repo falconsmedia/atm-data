@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T18:13:25.098908Z",
+  "updated_at": "2026-06-03T18:37:01.594563Z",
   "total": 59467,
   "banks": {
     "Ziraat Bankası": 8476,
@@ -324090,9 +324090,9 @@
       "bank_no": 30,
       "bank_name": "Garanti BBVA",
       "adi": "Yenibosna Ticari",
-      "adres": "15 Temmuz Mahallesi Koçman Cadde No: 34",
-      "lat": 41.0338961392,
-      "lng": 28.8113801484794
+      "adres": "Mahmutbey Mah. 2642 Sk. No:5 İç Kapı No:11",
+      "lat": 41.04877316,
+      "lng": 28.81868505
     },
     {
       "bank_no": 30,
@@ -328042,9 +328042,9 @@
       "bank_no": 30,
       "bank_name": "Garanti BBVA",
       "adi": "Özel Bankacılık Masters",
-      "adres": "Harbiye Mah. Abdi İpekçi Cad. No:19/1 İç Kapı No:3",
-      "lat": 41.0791330094945,
-      "lng": 29.0116546660538
+      "adres": "Levazım Mah. Vadi Cad. Zorlu Center No:2 İç Kapı No:320",
+      "lat": 41.05003963,
+      "lng": 28.99177413
     },
     {
       "bank_no": 30,
