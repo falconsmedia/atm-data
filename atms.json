@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T14:39:50.030627Z",
+  "updated_at": "2026-06-18T14:32:06.862591Z",
   "total": 59538,
   "banks": {
     "Ziraat Bankası": 8477,
@@ -143010,7 +143010,7 @@
       "bank_no": 6,
       "bank_name": "Vakıfbank",
       "adi": "Karşıyaka Ankara Şubesi",
-      "adres": "Yeşilevler Mah. 506. Cad. (Eski 4. Cadde) No:1/A",
+      "adres": "Yeşilevler Mahallesi Şehit Harun Parlak Caddesi No:1/A",
       "lat": 39.969981,
       "lng": 32.786496
     },
