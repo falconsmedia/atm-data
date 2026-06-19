@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T14:32:06.862591Z",
+  "updated_at": "2026-06-19T14:26:49.038426Z",
   "total": 59538,
   "banks": {
     "Ziraat Bankası": 8477,
@@ -241793,158 +241793,6 @@
     {
       "bank_no": 24,
       "bank_name": "ICBC Turkey",
-      "adi": "Adana",
-      "adres": "Cemalpaşa Mah. Atatürk Caddesi Ceyhan Apt No:72/A ",
-      "lat": 37.0026855470001,
-      "lng": 35.323120117
-    },
-    {
-      "bank_no": 24,
-      "bank_name": "ICBC Turkey",
-      "adi": "Altunizade ",
-      "adres": "Altunizade Mahallesi, Mahir İz Caddesi, No:20/A Üsküdar/İsta",
-      "lat": 41.0218768,
-      "lng": 29.0435271
-    },
-    {
-      "bank_no": 24,
-      "bank_name": "ICBC Turkey",
-      "adi": "Ankara",
-      "adres": "Aziziye Mahallesi Cinnah Caddesi No: 100/A ",
-      "lat": 39.8867187500001,
-      "lng": 32.855102539
-    },
-    {
-      "bank_no": 24,
-      "bank_name": "ICBC Turkey",
-      "adi": "Antalya",
-      "adres": "Şirinyalı Mahallesi İsmet Gökşen Caddesi Elif Apt. No:14/A ",
-      "lat": 36.86313804,
-      "lng": 30.72923482
-    },
-    {
-      "bank_no": 24,
-      "bank_name": "ICBC Turkey",
-      "adi": "Aydın",
-      "adres": "Zafer Mahallesi Doğu Gazi Bulvarı No:51/C ",
-      "lat": 37.84967041,
-      "lng": 27.8471069340001
-    },
-    {
-      "bank_no": 24,
-      "bank_name": "ICBC Turkey",
-      "adi": "Bakırköy",
-      "adres": "Zuhuratbaba, İncirli Cd. No: 101B, ",
-      "lat": 40.9949749,
-      "lng": 28.869574
-    },
-    {
-      "bank_no": 24,
-      "bank_name": "ICBC Turkey",
-      "adi": "Bornova",
-      "adres": "Çınarlı Mah.Şehit Polis Fethi Sekin Caddesi No:5/A ",
-      "lat": 38.45053,
-      "lng": 27.17771
-    },
-    {
-      "bank_no": 24,
-      "bank_name": "ICBC Turkey",
-      "adi": "Bursa",
-      "adres": "Ahmetpaşa Mahallesi Fevzi Çakmak Caddesi No:69/B ",
-      "lat": 40.193725586,
-      "lng": 29.059875488
-    },
-    {
-      "bank_no": 24,
-      "bank_name": "ICBC Turkey",
-      "adi": "Eskişehir",
-      "adres": "Hacıalibey Mahallesi Sakarya-1 Caddesi 22/A",
-      "lat": 39.7771799,
-      "lng": 30.519889
-    },
-    {
-      "bank_no": 24,
-      "bank_name": "ICBC Turkey",
-      "adi": "Etiler",
-      "adres": "Levent Mah. Gonca Sok. No:11 Beşiktaş/İstanbul",
-      "lat": 41.0792846680001,
-      "lng": 29.031311035
-    },
-    {
-      "bank_no": 24,
-      "bank_name": "ICBC Turkey",
-      "adi": "Gn. Md.`Lük /Merkez",
-      "adres": "Maslak Mahallesi Dereboyu / 2 Caddesi Zemin Kat No 13 ",
-      "lat": 41.111448,
-      "lng": 29.020152
-    },
-    {
-      "bank_no": 24,
-      "bank_name": "ICBC Turkey",
-      "adi": "İzmir",
-      "adres": "Akdeniz Mahallesi Cumhuriyet Bulvarı No:116 ",
-      "lat": 38.4266967770001,
-      "lng": 27.133117676
-    },
-    {
-      "bank_no": 24,
-      "bank_name": "ICBC Turkey",
-      "adi": "Kabataş",
-      "adres": "Ömer Avni Mahallesi Meclisi Mebusan Caddesi No:71A , ",
-      "lat": 41.032043,
-      "lng": 28.98966
-    },
-    {
-      "bank_no": 24,
-      "bank_name": "ICBC Turkey",
-      "adi": "Kadıköy",
-      "adres": "Caddebostan Mah. Bağdat Cad. No:258/A ",
-      "lat": 40.970167,
-      "lng": 29.061725
-    },
-    {
-      "bank_no": 24,
-      "bank_name": "ICBC Turkey",
-      "adi": "Kayseri",
-      "adres": "Cumhuriyet Mahallesi Millet Caddesi No:33 D ",
-      "lat": 38.718322754,
-      "lng": 35.488891602
-    },
-    {
-      "bank_no": 24,
-      "bank_name": "ICBC Turkey",
-      "adi": "Kozyatağı",
-      "adres": "Sahrayıcedit Mah. Atatürk Cad. No 32/1-2 ",
-      "lat": 40.981323242,
-      "lng": 29.08190918
-    },
-    {
-      "bank_no": 24,
-      "bank_name": "ICBC Turkey",
-      "adi": "Mersin",
-      "adres": "Çankaya Mah. İsmet İnönü Bulvarı No 112/B Canatan İş Merkezi",
-      "lat": 36.7963256840001,
-      "lng": 34.6290893550001
-    },
-    {
-      "bank_no": 24,
-      "bank_name": "ICBC Turkey",
-      "adi": "Söğütözü",
-      "adres": "Söğütözü Mahallesi, Söğütözü Caddesi,Koç Kuleleri D Blok No:",
-      "lat": 39.911758,
-      "lng": 32.805107
-    },
-    {
-      "bank_no": 24,
-      "bank_name": "ICBC Turkey",
-      "adi": "Taksim",
-      "adres": "Kocatepe Mahallesi Abdülhakhamit Cd. No : 25/1A Beyoğlu / İs",
-      "lat": 41.0412739,
-      "lng": 28.983825
-    },
-    {
-      "bank_no": 24,
-      "bank_name": "ICBC Turkey",
       "adi": "Adana Şubesi",
       "adres": "Cemalpaşa Mah. Atatürk Cad. Ceyhan Apt. No: 72/A",
       "lat": 37.002685,
@@ -242141,6 +241989,158 @@
       "adres": "Söğütözü Mahallesi, Söğütözü Caddesi,Koç Kuleleri D Blok No:",
       "lat": 39.911758,
       "lng": 32.805107
+    },
+    {
+      "bank_no": 24,
+      "bank_name": "ICBC Turkey",
+      "adi": "Adana",
+      "adres": "Cemalpaşa Mah. Atatürk Caddesi Ceyhan Apt No:72/A ",
+      "lat": 37.0026855470001,
+      "lng": 35.323120117
+    },
+    {
+      "bank_no": 24,
+      "bank_name": "ICBC Turkey",
+      "adi": "Altunizade ",
+      "adres": "Altunizade Mahallesi, Mahir İz Caddesi, No:20/A Üsküdar/İsta",
+      "lat": 41.0218768,
+      "lng": 29.0435271
+    },
+    {
+      "bank_no": 24,
+      "bank_name": "ICBC Turkey",
+      "adi": "Ankara",
+      "adres": "Aziziye Mahallesi Cinnah Caddesi No: 100/A ",
+      "lat": 39.8867187500001,
+      "lng": 32.855102539
+    },
+    {
+      "bank_no": 24,
+      "bank_name": "ICBC Turkey",
+      "adi": "Antalya",
+      "adres": "Şirinyalı Mahallesi İsmet Gökşen Caddesi Elif Apt. No:14/A ",
+      "lat": 36.86313804,
+      "lng": 30.72923482
+    },
+    {
+      "bank_no": 24,
+      "bank_name": "ICBC Turkey",
+      "adi": "Aydın",
+      "adres": "Zafer Mahallesi Doğu Gazi Bulvarı No:51/C ",
+      "lat": 37.84967041,
+      "lng": 27.8471069340001
+    },
+    {
+      "bank_no": 24,
+      "bank_name": "ICBC Turkey",
+      "adi": "Bakırköy",
+      "adres": "Zuhuratbaba, İncirli Cd. No: 101B, ",
+      "lat": 40.9949749,
+      "lng": 28.869574
+    },
+    {
+      "bank_no": 24,
+      "bank_name": "ICBC Turkey",
+      "adi": "Bornova",
+      "adres": "Çınarlı Mah.Şehit Polis Fethi Sekin Caddesi No:5/A ",
+      "lat": 38.45053,
+      "lng": 27.17771
+    },
+    {
+      "bank_no": 24,
+      "bank_name": "ICBC Turkey",
+      "adi": "Bursa",
+      "adres": "Ahmetpaşa Mahallesi Fevzi Çakmak Caddesi No:69/B ",
+      "lat": 40.193725586,
+      "lng": 29.059875488
+    },
+    {
+      "bank_no": 24,
+      "bank_name": "ICBC Turkey",
+      "adi": "Eskişehir",
+      "adres": "Hacıalibey Mahallesi Sakarya-1 Caddesi 22/A",
+      "lat": 39.7771799,
+      "lng": 30.519889
+    },
+    {
+      "bank_no": 24,
+      "bank_name": "ICBC Turkey",
+      "adi": "Etiler",
+      "adres": "Levent Mah. Gonca Sok. No:11 Beşiktaş/İstanbul",
+      "lat": 41.0792846680001,
+      "lng": 29.031311035
+    },
+    {
+      "bank_no": 24,
+      "bank_name": "ICBC Turkey",
+      "adi": "Gn. Md.`Lük /Merkez",
+      "adres": "Maslak Mahallesi Dereboyu / 2 Caddesi Zemin Kat No 13 ",
+      "lat": 41.111448,
+      "lng": 29.020152
+    },
+    {
+      "bank_no": 24,
+      "bank_name": "ICBC Turkey",
+      "adi": "İzmir",
+      "adres": "Akdeniz Mahallesi Cumhuriyet Bulvarı No:116 ",
+      "lat": 38.4266967770001,
+      "lng": 27.133117676
+    },
+    {
+      "bank_no": 24,
+      "bank_name": "ICBC Turkey",
+      "adi": "Kabataş",
+      "adres": "Ömer Avni Mahallesi Meclisi Mebusan Caddesi No:71A , ",
+      "lat": 41.032043,
+      "lng": 28.98966
+    },
+    {
+      "bank_no": 24,
+      "bank_name": "ICBC Turkey",
+      "adi": "Kadıköy",
+      "adres": "Caddebostan Mah. Bağdat Cad. No:258/A ",
+      "lat": 40.970167,
+      "lng": 29.061725
+    },
+    {
+      "bank_no": 24,
+      "bank_name": "ICBC Turkey",
+      "adi": "Kayseri",
+      "adres": "Cumhuriyet Mahallesi Millet Caddesi No:33 D ",
+      "lat": 38.718322754,
+      "lng": 35.488891602
+    },
+    {
+      "bank_no": 24,
+      "bank_name": "ICBC Turkey",
+      "adi": "Kozyatağı",
+      "adres": "Sahrayıcedit Mah. Atatürk Cad. No 32/1-2 ",
+      "lat": 40.981323242,
+      "lng": 29.08190918
+    },
+    {
+      "bank_no": 24,
+      "bank_name": "ICBC Turkey",
+      "adi": "Mersin",
+      "adres": "Çankaya Mah. İsmet İnönü Bulvarı No 112/B Canatan İş Merkezi",
+      "lat": 36.7963256840001,
+      "lng": 34.6290893550001
+    },
+    {
+      "bank_no": 24,
+      "bank_name": "ICBC Turkey",
+      "adi": "Söğütözü",
+      "adres": "Söğütözü Mahallesi, Söğütözü Caddesi,Koç Kuleleri D Blok No:",
+      "lat": 39.911758,
+      "lng": 32.805107
+    },
+    {
+      "bank_no": 24,
+      "bank_name": "ICBC Turkey",
+      "adi": "Taksim",
+      "adres": "Kocatepe Mahallesi Abdülhakhamit Cd. No : 25/1A Beyoğlu / İs",
+      "lat": 41.0412739,
+      "lng": 28.983825
     },
     {
       "bank_no": 26,
