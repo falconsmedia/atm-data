@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-22T18:34:25.859908Z",
-  "total": 57310,
+  "updated_at": "2026-06-23T06:55:45.095181Z",
+  "total": 57309,
   "banks": {
     "Ziraat Bankası": 8477,
     "Halkbank": 5130,
@@ -18,7 +18,7 @@
     "Türk Ticaret Bankası": 16,
     "Garanti BBVA": 7283,
     "İş Bankası": 7492,
-    "Yapı Kredi": 6902,
+    "Yapı Kredi": 6901,
     "Arap Türk Bankası": 4,
     "HSBC": 80,
     "Turkish Bank": 14,
@@ -236873,3366 +236873,6 @@
     {
       "bank_no": 28,
       "bank_name": "TEB",
-      "adi": "4. Levent Şubesi",
-      "adres": "Emniyet Evleri Mahallesi Eski Büyükdere Cad No :11 / A",
-      "lat": 41.087977,
-      "lng": 29.006117
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "4. Sanayi Şubesi",
-      "adres": "129 Sokak No:1/E 4. Sanayi Sitesi ",
-      "lat": 38.459603,
-      "lng": 27.251411
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "A.O.S.B. İzmir Şubesi",
-      "adres": "M. Kemal Atatürk Bulvarı No: 42 / 19 ",
-      "lat": 38.492473,
-      "lng": 27.039389
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Acıbadem Şubesi",
-      "adres": "Acıbadem Caddesi No: 164/4 ",
-      "lat": 41.008503,
-      "lng": 29.050342
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Adana Atikop Şubesi",
-      "adres": "Yeşiloba Mahallesi Turhan Cemal Beriker Bulvarı Adana İş Mer",
-      "lat": 36.996455,
-      "lng": 35.253522
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Adana Çarşı Şubesi",
-      "adres": "Karasoku Mah. Kızılay Cad.No:14 ",
-      "lat": 36.985708,
-      "lng": 35.326561
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Adana Çukurova Şubesi",
-      "adres": "Çınarlı Mah.Atatürk Cad.No:15 ",
-      "lat": 36.992606,
-      "lng": 35.325203
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Adana Mobilyacılar Şubesi",
-      "adres": "Güzelevler Mah. Mobilyacılar Sitesi Meşe Cad. No:18 A Kısım",
-      "lat": 36.982621,
-      "lng": 35.396382
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Adana Toros Şubesi",
-      "adres": "Toros Mah. Şehitler Blv. No:11/C Okumuşlar Apt.",
-      "lat": 37.032333,
-      "lng": 35.308852
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Adapazarı Çarşı Şubesi",
-      "adres": "Orta Mah. Soğan Pazarı Cad. No:8 ",
-      "lat": 40.777972,
-      "lng": 30.403675
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Adapazarı Şubesi",
-      "adres": "Tığcılar Mah. Atatürk Bulvarı  No:27 ",
-      "lat": 40.775974,
-      "lng": 30.402127
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Adıyaman Şubesi",
-      "adres": "Yenıpınar Mah, Atatürk Cad. No:31",
-      "lat": 37.760657,
-      "lng": 38.277453
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Afyon Şubesi",
-      "adres": "Dumlupınar Mahallesi Kadınana Caddesi Davulcuoğlu İş Merkezi",
-      "lat": 38.755094,
-      "lng": 30.540854
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Akdeniz Sanayi Şubesi",
-      "adres": "Şafak Mahallesi 5009 Sok. Akdeniz Sanayi Sitesi 36. Blok No:",
-      "lat": 36.922981,
-      "lng": 30.639485
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Akdeniz Üniversitesi Şubesi",
-      "adres": "Akdeniz Üniversitesi Dumlupınar Bulvarı Olbia Çarşısı Kampüs",
-      "lat": 36.899071,
-      "lng": 30.661879
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Akdeniz Üniversitesi Tıp Fakültesi Şubesi",
-      "adres": "Dumlupınar Bulvarı Pınarbaşı Mah Akdeniz Üni.Hastanesi H Blo",
-      "lat": 36.899071,
-      "lng": 30.661879
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Akhisar Şubesi",
-      "adres": "Şehit Teğmen Ün Cad. Paşa Mahallesi No: 78",
-      "lat": 38.921353,
-      "lng": 27.839216
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Aksaray İstanbul Şubesi",
-      "adres": "Mesihpaşa Mah. Ordu Cad. No: 107",
-      "lat": 41.009252,
-      "lng": 28.954505
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Aksaray Şubesi",
-      "adres": "Hamıdıye Mahallesı 761/Şehıt Alı Mutlu Alı Mutlu Sokak No:1/",
-      "lat": 38.371465,
-      "lng": 34.027928
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Alanya Mahmutlar Şubesi",
-      "adres": "Mahmutlar Mahallesi Barbaros Caddesi No:98B/A",
-      "lat": 36.486355,
-      "lng": 32.098043
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Alanya Sanayi Şubesi",
-      "adres": "Cumhuriyet Mahallesi Keykubat Blv. No:218",
-      "lat": 36.544954,
-      "lng": 32.024553
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Alanya Şubesi",
-      "adres": "Atatürk Cad. Cad No: 42/A ",
-      "lat": 36.544358,
-      "lng": 31.996375
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Alaşehir Şubesi",
-      "adres": "Soğuksu Mahallesi Sekine Evren Caddesi No:87",
-      "lat": 38.350237,
-      "lng": 28.513624
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Alemdar Şubesi",
-      "adres": "Alemdar Caddesı, Ömerağa Mahallesı, No:1 9",
-      "lat": 40.763179,
-      "lng": 29.928533
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Aliağa Şubesi",
-      "adres": "Kültür Mah. İstiklal Cad.No:50A",
-      "lat": 38.800671,
-      "lng": 26.971819
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Alibeyköy Şubesi",
-      "adres": "Alibeyköy Mah.Namık Kemal Cad. 30/A ",
-      "lat": 41.077296,
-      "lng": 28.945677
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Alsancak Şubesi",
-      "adres": "1382 Sk. 33/A Bodrum Kat Alsancak",
-      "lat": 38.431121,
-      "lng": 27.141898
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Altıyol Şubesi",
-      "adres": "Osmanağa Mah. Söğütlüçeşme Cad. No:124A",
-      "lat": 40.991298,
-      "lng": 29.03115
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Altunizade Şubesi",
-      "adres": "Kısıklı Cad. No:19 Altunizade",
-      "lat": 41.023667,
-      "lng": 29.041118
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Amasya Şubesi",
-      "adres": "Yüzevler Mah. Mustafa Kemal Paşa Cad. No:76/A-B-1",
-      "lat": 40.650123,
-      "lng": 35.828828
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Anamur Şubesi",
-      "adres": "Esentepe Mah. Atatürk Bulvarı No:8/B ",
-      "lat": 36.078402,
-      "lng": 32.830314
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ankara 4. Kolordu Şubesi",
-      "adres": "4. Kolordu Komutanlığı  Samsun Yolu Üzeri",
-      "lat": 39.951593,
-      "lng": 32.913492
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ankara Mustafa Kemal Şubesi",
-      "adres": "Mustafa Kemal Mah. 2159 Cadde No:2A",
-      "lat": 39.910149,
-      "lng": 32.77063
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ankara Şubesi",
-      "adres": "Mustafa Kemal Mah. Şehit Öğretmen Şenay Aybüke Yalçın Cad. N",
-      "lat": 39.91017,
-      "lng": 32.765605
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Antakya Mustafa Kemal Şubesi",
-      "adres": "Kuzeytepe Mah.Uğur Mumcu Bul.No:237 İç Kapı",
-      "lat": 36.242553,
-      "lng": 36.172889
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Antakya Şubesi",
-      "adres": "Çekmece Mah. Çevre Yolu Cad. No:11D",
-      "lat": 36.214307,
-      "lng": 36.124305
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Antalya Etiler Şubesi",
-      "adres": "Etiler Mahallesi 851 Sokak No:2",
-      "lat": 36.899645,
-      "lng": 30.706873
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Antalya Muratpaşa Şubesi",
-      "adres": "Tahıl Pazarı Mah.Şarampol Cad. Ömer Melli İş Hanı No:86A",
-      "lat": 36.891552,
-      "lng": 30.703364
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Antalya Sanayi Şubesi",
-      "adres": "Yükseliş Mah.Gazi Bulvarı No:123/1 ",
-      "lat": 36.909533,
-      "lng": 30.69255
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Antalya Şubesi",
-      "adres": "Etiler Mahallesi Adnan Menderes Bulvarı Birlik Apartmanı No:",
-      "lat": 36.896075,
-      "lng": 30.709359
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Antalya Toptancı Hali Şubesi",
-      "adres": "Güneş Mah. Yeni Toptancı Hal Kompleksi B2/1 Blok No: 1",
-      "lat": 36.922484,
-      "lng": 30.745369
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Aspendos Kurumsal Şubesi",
-      "adres": "Etiler Mahallesi Adnan Menderes Bulvarı Birlik Apartmanı No:",
-      "lat": 36.896043,
-      "lng": 30.709427
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Atakum Şubesi",
-      "adres": "Mimar Sinan Mahallesi 162 Sok. No:17/E",
-      "lat": 41.332829,
-      "lng": 36.272249
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ataşehir Finans Merkezi Şubesi",
-      "adres": "Barbaros Mahallesi Halk Caddesi Teb Blok No:47 İç Kapı No: 1",
-      "lat": 40.986462,
-      "lng": 29.099094
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ataşehir Şubesi",
-      "adres": "Atatürk Mahallesi Ataşehir Bulvarı No:14/F Özel İşyeri:1",
-      "lat": 40.992802,
-      "lng": 29.124732
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Atatürk Caddesi Adana Şubesi",
-      "adres": "Kurtuluş Mahallesi Atatürk Caddesi Meryem Gizer Apartmanı No",
-      "lat": 36.999302,
-      "lng": 35.323671
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Atrium Şubesi",
-      "adres": "Ataköy 7.8.9.10 Kısım Mahallesı Karanfıl Sokak Atrıum Avm No",
-      "lat": 40.988661,
-      "lng": 28.845784
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Avcılar Çarşı Şubesi",
-      "adres": "Merkez Mah. Reşitpaşa Cad. No: 41 ",
-      "lat": 40.97961,
-      "lng": 28.723974
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Avcılar Şubesi",
-      "adres": "Firuzköy Mah. Firuzköy Bulvarı Bul. Collet Avcılar Sitesi No",
-      "lat": 41.011772,
-      "lng": 28.699671
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Aydın Çarşı Şubesi",
-      "adres": "Hasan Efendi - Ramazan Paşa Mah. Hükümet Bulvarı No: 19A",
-      "lat": 37.849505,
-      "lng": 27.843779
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Aydın Şubesi",
-      "adres": "Kurtuluş Mah.Adnan Menderes Bulvarı 42/B",
-      "lat": 37.843993,
-      "lng": 27.844203
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ayvalık Şubesi",
-      "adres": "İsmetpaşa Mah. Atatürk Bul. Teb Bankası No:151",
-      "lat": 39.320056,
-      "lng": 26.692659
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bafra Şubesi",
-      "adres": "Hacınabı Mahallesı, Tekel Caddesı No:40",
-      "lat": 41.565686,
-      "lng": 35.901561
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bağcılar Şubesi",
-      "adres": "İstanbul Cad No 12/B ",
-      "lat": 41.034307,
-      "lng": 28.858865
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bahçelievler İstanbul Şubesi",
-      "adres": "İzzettin Çalışlar Cad.  No.40 ",
-      "lat": 41.000812,
-      "lng": 28.870371
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bahçeşehir Şubesi",
-      "adres": "Bahçeşehir 2. Kısım Mah. Süzer Bulvarı No : 13",
-      "lat": 41.062559,
-      "lng": 28.686833
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bakırköy Meydan Şubesi",
-      "adres": "Kartaltepe Mahallesi İncirli Caddesi No:12/14",
-      "lat": 40.983119,
-      "lng": 28.872937
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bakırköy Şubesi",
-      "adres": "Cevizlik Mahallesi Hallaç Hüseyin Sokak No:5B",
-      "lat": 40.979331,
-      "lng": 28.874642
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Balçova Şubesi",
-      "adres": "Onur Mah. Ata Cad. No:48/A ",
-      "lat": 38.392908,
-      "lng": 27.057929
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Balgat Şubesi",
-      "adres": "Ceyhun Atıf Kansu Cad. No : 80 Balgat",
-      "lat": 39.899636,
-      "lng": 32.817365
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Balıkesir Çarşı Şubesi",
-      "adres": "Altı Eylül Mahallesi, Anafartalar Caddesi Metinler Otelleri ",
-      "lat": 39.645587,
-      "lng": 27.880055
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Balıkesir Şubesi",
-      "adres": "Hisariçi Mah. Örücüler Cad. No:14/B",
-      "lat": 39.648849,
-      "lng": 27.881341
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Balmumcu Şubesi",
-      "adres": "Gayrettepe Mah. Yener Sok. Türk Ekonomi Bankası Blok No:1A",
-      "lat": 41.063061,
-      "lng": 29.010881
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bandırma Şubesi",
-      "adres": "Haydar Çavuş Mah. İsmet İnönü Cad. No:56A",
-      "lat": 40.353491,
-      "lng": 27.970653
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bartın Şubesi",
-      "adres": "Kırtepe Mahallesi Hamam Caddesi No:5 ",
-      "lat": 41.633568,
-      "lng": 32.336679
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Başkent Ankara Şubesi",
-      "adres": "Ostim Osb Mahallesi 100.Yıl Bul. No:9",
-      "lat": 39.96535,
-      "lng": 32.74708
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Başkent Kurumsal Şubesi",
-      "adres": "Simon Bolivar Cad. No:17 Kat:1-2",
-      "lat": 39.883676,
-      "lng": 32.856781
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Batı Ataşehir Şubesi",
-      "adres": "Barbaros Mahallesi Halk Caddesi No:47/1 ",
-      "lat": 40.986462,
-      "lng": 29.099094
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Batman Şubesi",
-      "adres": "Gap Mah. Turgut Özal Bulvarı Babıl Plaza No:90 C",
-      "lat": 37.902171,
-      "lng": 41.131835
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bayındır Şubesi",
-      "adres": "Mithatpaşa Mah. Fevzi Paşa Cad. No:23/A ",
-      "lat": 38.222044,
-      "lng": 27.646458
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bayraklı Şubesi",
-      "adres": "Çınarlı Mahallesi Ankara Asfaltı Caddesi No:15 İç Kapı No: 2",
-      "lat": 38.44799,
-      "lng": 27.17918
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bayrampaşa Şubesi",
-      "adres": "Yenıdoğan Mahallesı, Abdı İpekçı Cad. No:4D",
-      "lat": 41.035411,
-      "lng": 28.912084
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bayramyeri Şubesi",
-      "adres": "Saraylar Mahallesi Enverpaşa Caddesi Katrancı İşh. No:26/1 ",
-      "lat": 37.782536,
-      "lng": 29.084374
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bebek Şubesi",
-      "adres": "Cevdet Paşa Cad. No:55 Bebek ",
-      "lat": 41.077714,
-      "lng": 29.043719
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bergama Şubesi",
-      "adres": "Ertuğrul Mahallesi Park Otel Sokak No:10 ",
-      "lat": 39.114452,
-      "lng": 27.176678
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Beşevler Sanayi Şubesi",
-      "adres": "Üçevler Mah. Nilüfer Cad. 4 ",
-      "lat": 40.210459,
-      "lng": 28.938925
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Beşiktaş Çarşı Şubesi",
-      "adres": "Cihannuma Mahallesi Salih Efendi Sok. No:7",
-      "lat": 41.043287,
-      "lng": 29.006561
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Beşiktaş Şubesi",
-      "adres": "Ortabahçe Cad. No:2 ",
-      "lat": 41.042013,
-      "lng": 29.005014
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Beşyüzevler Şubesi",
-      "adres": "Barbaros Hayrettın Paşa Mah. Eskı Edırne Asfaltı Cad.  No:22",
-      "lat": 41.070626,
-      "lng": 28.892175
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Beyazıt Şubesi",
-      "adres": "Mimar Hayrettin Mahallesi Yeniçeriler Caddesi No:29 K:1 Baya",
-      "lat": 41.008557,
-      "lng": 28.968998
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Beykent Şubesi",
-      "adres": "Cumhurıyet Mah.Gürpınar Yolu Beylıkdüzü San.Sıtesı B2 Blok N",
-      "lat": 41.017598,
-      "lng": 28.627393
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Beylikdüzü Şubesi",
-      "adres": "Beylikdüzü Osb Mah. Açelya Cad. No:1/8",
-      "lat": 41.006939,
-      "lng": 28.660087
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Beyoğlu Şubesi",
-      "adres": "Hüseyınağa Mahallesı Hamalbaşı Caddesı No:6/A",
-      "lat": 41.034196,
-      "lng": 28.976619
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Biga Şubesi",
-      "adres": "İstıklal Mahallesı İstıklar Caddesı No:106-108 İç Kapı No:1",
-      "lat": 40.228355,
-      "lng": 27.242584
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bodrum Bitez Şubesi",
-      "adres": "Merkez Mahallesi, Atatürk Bulvarı No: 203/A1-A3  Konacık",
-      "lat": 37.051701,
-      "lng": 27.382443
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bodrum Şubesi",
-      "adres": "Türk Kuyusu Mahallesı, Kıbrıs Şehıtlerı Caddesı, No:65/A-65/",
-      "lat": 37.042041,
-      "lng": 27.429852
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bolu Şubesi",
-      "adres": "Aktaş Mah. İzzet Baysal Cad. Abak İş Merkezı No:118E",
-      "lat": 40.732825,
-      "lng": 31.60935
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bornova Çarşı Şubesi",
-      "adres": "Mustafa Kemal Cad. No: 11-A/B",
-      "lat": 38.465469,
-      "lng": 27.217703
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bornova Şubesi",
-      "adres": "Mansuroğlu Mahallesi 286/4 Sokak No:13A",
-      "lat": 38.45281,
-      "lng": 27.187168
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bostancı E5 Şubesi",
-      "adres": "İçerenköy Mah. Değirmen Yolu Cad. No:31/1A",
-      "lat": 40.962323,
-      "lng": 29.108581
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bostancı Şubesi",
-      "adres": "Bostancı Mahallesı, Emın Alı Paşa Cad. No:116 A/14",
-      "lat": 40.957099,
-      "lng": 29.097501
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bostanlı Şubesi",
-      "adres": "Bostanlı Mah. Cemal Gürsel Cad. No:526/B ",
-      "lat": 38.458251,
-      "lng": 27.096079
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bozüyük Şubesi",
-      "adres": "Yeni Mahalle İsmet İnönü Caddesi No:67 ",
-      "lat": 39.905516,
-      "lng": 30.042799
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Buca Şubesi",
-      "adres": "Kozağaç Mah. Uğur Mumcu Caddesi No: 96 ",
-      "lat": 38.382983,
-      "lng": 27.167349
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Burdur Şubesi",
-      "adres": "Özgür Mahallesı, Gazı Caddesı,No:79/A ",
-      "lat": 37.720811,
-      "lng": 30.288721
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bursa Balat Şubesi",
-      "adres": "Ahmet Yesevi Mah. Sanayi Cad. Üründül Plaza Sitesi Üründül P",
-      "lat": 40.189589,
-      "lng": 29.060925
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bursa Organize Sanayi Şubesi",
-      "adres": "Organize San Böl.Ali Osman Sönmez Bulvarı Bankalar Cad.",
-      "lat": 40.249986,
-      "lng": 28.955188
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bursa Serbest Bölge Şubesi",
-      "adres": "Ata Mah. Serbest Bölge Orkide Cad. No:13/1",
-      "lat": 40.36389,
-      "lng": 29.034889
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bursa Şubesi",
-      "adres": "Doğanbey Mah. Fevzi Çakmak Cad. No.52/B ",
-      "lat": 40.189589,
-      "lng": 29.060925
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Bursa Uludağ Şubesi",
-      "adres": "Balatosb Mahallesi Ali Osman Sönmez Bulvarı No:41",
-      "lat": 40.25019,
-      "lng": 28.95459
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Büsan Sanayi Sitesi Şubesi",
-      "adres": "Fevzi Çakmak Mah. Kosgeb Cad. No:1/1 ",
-      "lat": 37.924388,
-      "lng": 32.528367
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Büyükçekmece Şubesi",
-      "adres": "19 Mayıs Mahallesı Nutuk Caddesı No:48A/ No:48A/1",
-      "lat": 41.022861,
-      "lng": 28.580743
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Caddebostan Şubesi",
-      "adres": "Caddebostan Mah.Bağdat Cad. No:265A/1",
-      "lat": 40.969045,
-      "lng": 29.064659
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Cevizli Şubesi",
-      "adres": "Orhantepe Mah.Üsküdar Cad Breeze Tower Apt.No:155 A",
-      "lat": 40.907823,
-      "lng": 29.158932
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ceyhan Şubesi",
-      "adres": "Türlübaş Mahallesi Atatürk Caddesi No:260",
-      "lat": 37.026602,
-      "lng": 35.811656
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Cumhuriyet Caddesi Esenyurt Şubesi",
-      "adres": "Barbaros Hayrettın Paşa Mah. Şehıtler Cad. Beymahall Sıt.  N",
-      "lat": 41.018311,
-      "lng": 28.644239
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çağlayan Şubesi",
-      "adres": "Çağlayan Mahallesı Kağıthane Caddesı No:141 C",
-      "lat": 41.071403,
-      "lng": 28.978578
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çanakkale Şubesi",
-      "adres": "Kemalpaşa Mahallesi Değirmenlik Sokak. No:49 / 1",
-      "lat": 40.147158,
-      "lng": 26.402806
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çankaya Ankara Şubesi",
-      "adres": "Simon Bolivar Cad. No: 17",
-      "lat": 39.892932,
-      "lng": 32.869655
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çankırı Şubesi",
-      "adres": "Yunus Avm, Buğday Pazarı Mah. Çarşamba Pazarı Cad. No:4/B116",
-      "lat": 40.598487,
-      "lng": 33.621382
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çarşı İzmir Şubesi",
-      "adres": "1203/1 Sokak No:7 Yenişehir ",
-      "lat": 38.427881,
-      "lng": 27.165963
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çarşı İzmit Şubesi",
-      "adres": "Karabaş Mahallesı Leyla Atakan Cad No: 27 A/0",
-      "lat": 40.763954,
-      "lng": 29.934507
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çayyolu Şubesi",
-      "adres": "Prof. Dr. Ahmet Taner Kışlalı Mah. S. Saltoğlu Bulvarı  No:3",
-      "lat": 39.873767,
-      "lng": 32.689145
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çekmeköy Şubesi",
-      "adres": "Madenler Mahallesi Serencebey Caddesi No: 58A",
-      "lat": 41.013832,
-      "lng": 29.190151
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çengelköy Şubesi",
-      "adres": "Çengelköy Mah. Çengelköy Caddesi Teb Bankası Blok No:57 İç K",
-      "lat": 41.049058,
-      "lng": 29.054509
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çerkezköy Şubesi",
-      "adres": "Gazi Osman Paşa Mah. Atatürk Cad. No:5-7A",
-      "lat": 41.283605,
-      "lng": 28.000538
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çeşme Şubesi",
-      "adres": "İsmet İnönü Mah.2001 Sokak No:74/A",
-      "lat": 38.325711,
-      "lng": 26.306945
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çınar Şubesi",
-      "adres": "15 Mayıs Mahallesi Gazi Mustafa Kemal Bulvarı No:145/B",
-      "lat": 37.774741,
-      "lng": 29.086768
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çiftehavuzlar Şubesi",
-      "adres": "Bağdat Cad. Aziz Kaya İş Merkezi No:193/A Zemin Kat A Kısım ",
-      "lat": 40.974314,
-      "lng": 29.054694
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çiğli Şubesi",
-      "adres": "Şirintepe Mah. Anadolu Cad. No:778/3A ",
-      "lat": 38.491587,
-      "lng": 27.066189
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çine Şubesi",
-      "adres": "Hamitabat Mah. Mehmet Yavaş Cad. No:83A",
-      "lat": 37.613197,
-      "lng": 28.061537
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çok Uluslu Firmalar Kurumsal Şubesi",
-      "adres": "Kozyatağı Mahallesi Değirmen Sokak Nida Kule A Blok No:18 İç",
-      "lat": 40.974114,
-      "lng": 29.098655
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çorlu Çarşı Şubesi",
-      "adres": "Cemaliye Mahallesi Saray Caddesi No :2",
-      "lat": 41.162218,
-      "lng": 27.799919
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çorlu Şubesi",
-      "adres": "Kazimiye Mah. Salih Omurtak Caddesi No :22 / B",
-      "lat": 41.152411,
-      "lng": 27.832865
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çorum Şubesi",
-      "adres": "Çepni Mah. İnönü Cad. No:4",
-      "lat": 40.548872,
-      "lng": 34.952974
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çukurambar Şubesi",
-      "adres": "Kızılırmak Mah. Ufuk Üniversitesi Caddesi No: 1/A",
-      "lat": 39.909294,
-      "lng": 32.813707
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Çukurova Kurumsal Şubesi",
-      "adres": "Çınarlı Mahallesi Atatürk Caddesi  No: 15 Kat: 1 A Kısım",
-      "lat": 36.992622,
-      "lng": 35.325213
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Darıca Şubesi",
-      "adres": "Kazımkarabekir Mahallesi İstasyon Caddesi No:467/A",
-      "lat": 40.776884,
-      "lng": 29.404348
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Davutpaşa Şubesi",
-      "adres": "Maltepe Mah. Davutpaşa Cad. No :101 Dk: 230-231-232-352 Topk",
-      "lat": 41.020921,
-      "lng": 28.914061
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Değirmendere Trabzon Şubesi",
-      "adres": "Sanayi Mahallesi Devlet Karayolu Caddesi No:89B",
-      "lat": 40.997956,
-      "lng": 39.751397
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Demetevler Şubesi",
-      "adres": "Demetgül Mah. Prof.Dr.Haydar Baş Cad.Mermer Apt. No:11A",
-      "lat": 39.966283,
-      "lng": 32.792724
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Demirciler Sitesi Şubesi",
-      "adres": "Seyitnizam Mah.  Demirciler Sitesi 2. Cd No: 81",
-      "lat": 41.006827,
-      "lng": 28.900924
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Demirtaş Organize Sanayi Şubesi",
-      "adres": "Demirtaş Dumlu Pınar Osb Mah. Mustafa Karaer Cad. No:18 İç K",
-      "lat": 40.267535,
-      "lng": 29.067644
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Demirtaş Şubesi",
-      "adres": "Panayır Mah. Yeni Yalova Yolu Cad. No. 455/F",
-      "lat": 40.248608,
-      "lng": 29.063516
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Denizli Çivril Şubesi",
-      "adres": "Çatlar Mahallesi Cumhuriyet 6 Cad. Teb Blok No:264/1",
-      "lat": 38.299636,
-      "lng": 29.740221
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Denizli Saraylar Şubesi",
-      "adres": "Saraylar Mahallesi 459 Sokak No:3/1",
-      "lat": 37.783267,
-      "lng": 29.084932
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Denizli Şubesi",
-      "adres": "Saraylar Mah. İzmir Yolu Bulvarı No: 57 ",
-      "lat": 37.787204,
-      "lng": 29.088833
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Develi Şubesi",
-      "adres": "İbrahimağa Mahallesi Cumhuriyet Caddesi Belediye İş Merkezi ",
-      "lat": 38.388117,
-      "lng": 35.492367
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Diclekent Şubesi",
-      "adres": "Medya Mah. Mahabad Bul. No:18Bf",
-      "lat": 37.916254,
-      "lng": 40.217702
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Didim Şubesi",
-      "adres": "Efeler Mah. Atatürk Bul. No:111 A",
-      "lat": 37.372593,
-      "lng": 27.266547
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Dikmen Şubesi",
-      "adres": "Ş.Mevlüt Meriç Mahallesi Dikmen Cad.  No: 260/15 Dikmen",
-      "lat": 39.879866,
-      "lng": 32.838453
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Diyarbakır Kayapınar Şubesi",
-      "adres": "Selahattin Eyyubi Mahallesi Turgut Özal Bul. No:80Bb",
-      "lat": 37.933052,
-      "lng": 40.196743
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Diyarbakır Şubesi",
-      "adres": "Fırat Mah. Mahabad Bulvarı Mega Arslan Cadde-75 Sitesi B Blo",
-      "lat": 37.926671,
-      "lng": 40.151965
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Dokuz Eylül Üniversitesi Şubesi",
-      "adres": "Korutürk Mahallesi Mithatpaşa Caddesi No:285/1E",
-      "lat": 38.393692,
-      "lng": 27.03226
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Dudullu Şubesi",
-      "adres": "Necip Fazıl Bulvarı No: 7-9 ",
-      "lat": 41.014911,
-      "lng": 29.164221
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Düzce Şubesi",
-      "adres": "Camıkebır Mahallesı, 659.Bulvar No:8A",
-      "lat": 40.839316,
-      "lng": 31.158698
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Edirne Şubesi",
-      "adres": "Mithatpaşa Mah. Atatürk Bulvarı Teb Bankası Blok No:347 İç K",
-      "lat": 41.676743,
-      "lng": 26.551323
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Edremit Şubesi",
-      "adres": "Camivasat Mah.Menderes Bulvarı. No:11/2",
-      "lat": 39.59318,
-      "lng": 27.020453
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ege Kurumsal Şubesi",
-      "adres": "Cumhuriyet Bulvarı 66 Kat:2 ",
-      "lat": 38.423962,
-      "lng": 27.132075
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ege Üniversitesi Kampüsü Şubesi",
-      "adres": "Erzene Mah. Ankara Cad. Ege Ünıversıtesı D-Zıraat Fakültesı ",
-      "lat": 38.455068,
-      "lng": 27.226734
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ege Üniversitesi Şubesi",
-      "adres": "Kazım Dırık Mahallesı Ünıversıte Caddesı No:9/47A",
-      "lat": 38.456176,
-      "lng": 27.211706
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Elazığ Harput Şubesi",
-      "adres": "Nailbey Mahallesi Vali Fahribey Caddesi No:37B  İç Kapı No:0",
-      "lat": 38.673979,
-      "lng": 39.222242
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Elazığ Şubesi",
-      "adres": "Hürrıyet Cad. Mehmet Arslan İş Merkezı No:35/A",
-      "lat": 38.674551,
-      "lng": 39.226026
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Eminönü Şubesi",
-      "adres": "Hobyar Mahallesı Vakıf Hanı Sokak No:8 ",
-      "lat": 41.015643,
-      "lng": 28.971931
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Emirdağ Şubesi",
-      "adres": "Yenıdoğan Mahallesı Şehıt Er. Yüksel Yeşıldağ Caddesı No: 4 ",
-      "lat": 39.018813,
-      "lng": 31.150541
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Erdemli Şubesi",
-      "adres": "Merkez Mah. Alparslan Türkeş Bulvarı No: 561A",
-      "lat": 36.605519,
-      "lng": 34.309464
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Erenköy Şubesi",
-      "adres": "Caddebostan Mahallesı, Ethem Efendı Cad. No:13/1",
-      "lat": 40.967462,
-      "lng": 29.070709
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Erenler Sanayi Şubesi",
-      "adres": "Erenler Mah. Sakarya Cad. No.306/A ",
-      "lat": 40.750601,
-      "lng": 30.414682
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Erzincan Şubesi",
-      "adres": "Atatürk Mah. Nermi Tombul Cad. No:12B",
-      "lat": 39.747235,
-      "lng": 39.492685
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Erzurum Şubesi",
-      "adres": "Kazım Karabekir Paşa Mah. Orhan Şerifsoy Cad. Özlem İş Merke",
-      "lat": 39.912851,
-      "lng": 41.271719
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Esenler Şubesi",
-      "adres": "Menderes Mah.Atışalanı Cad.No:15 ",
-      "lat": 41.040002,
-      "lng": 28.881553
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Esenyurt Şubesi",
-      "adres": "Sultaniye Mah. Doğan Araslı Bul. Şelale Plaza Blok No:124C",
-      "lat": 41.028867,
-      "lng": 28.683673
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Eskişehir Anadolu Üniversitesi Şubesi",
-      "adres": "Yenibağlar Mah.İsmet İnönü-1 Bulvarı A Blok No:136 İç Kapı N",
-      "lat": 39.785452,
-      "lng": 30.501373
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Eskişehir İki Eylül Caddesi Şubesi",
-      "adres": "İstıklal Mah. İkı Eylül Cad.No: 50/B",
-      "lat": 39.772572,
-      "lng": 30.517202
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Eskişehir Osmangazi Üniversitesi Şubesi",
-      "adres": "Büyükdere Mh Prof. Dr Nabi Avcı Bulvarı No:4/5/A",
-      "lat": 39.750808,
-      "lng": 30.491429
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Eskişehir Sanayi Şubesi",
-      "adres": "75. Yıl (Sultandere) Mah. 1.Cadde (Küçük Org. Sanayi) Cad. N",
-      "lat": 39.739226,
-      "lng": 30.627979
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Eskişehir Şubesi",
-      "adres": "İstıklal Mahallesı, İkı Eylül Caddesı No: 2/1",
-      "lat": 39.775178,
-      "lng": 30.517851
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Etiler Şubesi",
-      "adres": "Etıler Mahallesı Nısbetıye Cad. No:97 Kat:1",
-      "lat": 41.080938,
-      "lng": 29.034658
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Etimesgut Şubesi",
-      "adres": "İstasyon Mah. İstasyon Cad. Tüzün Sok. No:8/7",
-      "lat": 39.947979,
-      "lng": 32.666869
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Fatih Şubesi",
-      "adres": "Ali Kuşçu Mah. Macar Kardeşler Cad. No: 34",
-      "lat": 41.016778,
-      "lng": 28.950943
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Fatsa Şubesi",
-      "adres": "Mustafa Kemal Paşa Mah. Reşadiye Cad. No.14/A",
-      "lat": 41.030528,
-      "lng": 37.500164
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Fethiye Likya Şubesi",
-      "adres": "Taşyaka Mah. İnönü Bul. No:4  4/A - 4/B",
-      "lat": 36.621575,
-      "lng": 29.121186
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Fethiye Şubesi",
-      "adres": "Cumhuriyet Mahallesi Çarşı Caddesi No:25 ",
-      "lat": 36.621207,
-      "lng": 29.109358
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Fındıkzade Şubesi",
-      "adres": "Haseki Sultan Mahallesi Kızılelma Caddesi No:15",
-      "lat": 41.011275,
-      "lng": 28.938729
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Florya Şubesi",
-      "adres": "Şenlik Mah. Florya Asfaltı No:86 Zemin Kat Kısım A Florya",
-      "lat": 40.985831,
-      "lng": 28.796639
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Gayrettepe Şubesi",
-      "adres": "Gayrettepe Mah., Yener Sok., No:1 ",
-      "lat": 41.063061,
-      "lng": 29.010881
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Gaziantep Şubesi",
-      "adres": "Değirmiçem Mahallesi Kıbrıs Caddesi Zeugma İş Merkezi No:2A",
-      "lat": 37.068992,
-      "lng": 37.373131
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Gaziemir Şubesi",
-      "adres": "Akçay Cad. No:169/A ",
-      "lat": 38.327393,
-      "lng": 27.136591
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Gaziosmanpaşa Ankara Şubesi",
-      "adres": "Uğur Mumcu Cad. No:76/A Gaziosmanpaşa",
-      "lat": 39.894521,
-      "lng": 32.877922
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Gaziosmanpaşa İstanbul Şubesi",
-      "adres": "Merkez Mahallesi Eyüp Yolu No :4 ",
-      "lat": 41.057104,
-      "lng": 28.914196
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Gebze Çarşı Şubesi",
-      "adres": "Hacı Halil Mah.Cumhuriyet Meydanı No:3/2 ",
-      "lat": 40.798204,
-      "lng": 29.432989
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Gebze E5 Şubesi",
-      "adres": "Osman Yılmaz Mahallesi İstanbul Caddesi No:74/A",
-      "lat": 40.792645,
-      "lng": 29.428261
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Gebze Organize Sanayi Bölgesi Şubesi",
-      "adres": "Gebze Organize Sanayi Bölgesi, Bankalar Ve Çarşı Merkezi, 16",
-      "lat": 40.84773,
-      "lng": 29.425024
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Gebze Şubesi",
-      "adres": "Hacıhalil Mahallesi Cumhuriyet Caddesi No:14B",
-      "lat": 40.7992,
-      "lng": 29.4348
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Gemlik Şubesi",
-      "adres": "Hamidiye Mahallesi, İstiklal Caddesi, No: 31",
-      "lat": 40.430067,
-      "lng": 29.156057
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Gimat Şubesi",
-      "adres": "Mehmet Emin Erdoğan İşmerkezi Macun Mah. Bağdat Cad.No.93/25",
-      "lat": 39.961141,
-      "lng": 32.769845
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Giresun Şubesi",
-      "adres": "Şeyhkeramettin Mahallesi Gazi Caddesi No:2",
-      "lat": 40.917406,
-      "lng": 38.384834
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Girne Bulvarı Şubesi",
-      "adres": "Bahrıye Üçok Mahallesı Atatürk Bulvarı No:56/B",
-      "lat": 38.463058,
-      "lng": 27.109098
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Göktürk Şubesi",
-      "adres": "Göktürk Merkez Mah. İstanbul Cad. No:30-32",
-      "lat": 41.178573,
-      "lng": 28.884462
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Gölcük Şubesi",
-      "adres": "Amiral Sağlam Cad. No:12/B ",
-      "lat": 40.719784,
-      "lng": 29.820754
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Gönen Şubesi",
-      "adres": "Akçaali Mah. Atatürk Cad.No:27 ",
-      "lat": 40.106612,
-      "lng": 27.650351
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Göztepe İstanbul Şubesi",
-      "adres": "Göztepe Mahallesi Tütüncü Mehmet Efendi Cad. No: 93/A",
-      "lat": 40.979705,
-      "lng": 29.06709
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Gündoğdu Şubesi",
-      "adres": "Kültür Mahallesi Plevne Bulvarı Dr. Rıfat Bey Apartmanı Zemi",
-      "lat": 38.434698,
-      "lng": 27.140627
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Güneşli Çarşı Şubesi",
-      "adres": "Hürrıyet Mahallesı Atatürk Caddesı No:3-5C",
-      "lat": 41.031026,
-      "lng": 28.827166
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Güneşli Şubesi",
-      "adres": "15 Temmuz Mahallesi Koçman Caddesi No:36B",
-      "lat": 41.031423,
-      "lng": 28.818897
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Güneydoğu Anadolu Kurumsal Şubesi",
-      "adres": "Kayaönü Mah. 42146 No.Lu Cad. Koluman No:3 İç Kapı No:35",
-      "lat": 37.07555,
-      "lng": 37.366702
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Güngören Sanayi Şubesi",
-      "adres": "Sanayi Mahallesi Atatürk Cad. Real Merter Sit. No:51 /3/42",
-      "lat": 41.021256,
-      "lng": 28.880158
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Gürsu Şubesi",
-      "adres": "Zafer Mah. Şehit Cüneyt Yıldız Cad. No:11/A",
-      "lat": 40.218841,
-      "lng": 29.188301
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Hadımköy Şubesi",
-      "adres": "Akçaburgaz Mahallesı , Hadımköy Yolu Cad No:184 A/3",
-      "lat": 41.077073,
-      "lng": 28.624801
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Hasanpaşa Şubesi",
-      "adres": "Kurbağalıdere Cad. No:25 Söğütlüçeşme ",
-      "lat": 40.993488,
-      "lng": 29.035797
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Hatay İzmir Şubesi",
-      "adres": "İnönü Cad. No:229/B ",
-      "lat": 38.402152,
-      "lng": 27.11359
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Haznedar Bahçelievler Şubesi",
-      "adres": "Bahçelievler Mahallesi Naci Kasım Sokak No:2/1A",
-      "lat": 41.005853,
-      "lng": 28.870468
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Heykel Şubesi",
-      "adres": "Tuzpazarı Mah. Cumhuriyet Caddesi Teb No:114 İç Kapı No:1",
-      "lat": 40.185636,
-      "lng": 29.066541
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Iğdır Şubesi",
-      "adres": "Bağlar Mahallesi, İbrahim Bozyel Caddesi, No: 4/A",
-      "lat": 39.922397,
-      "lng": 44.044041
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ihlamurkuyu Şubesi",
-      "adres": "Ihlamurkuyu Mah. Alemdar Cad. No:249/A",
-      "lat": 41.018377,
-      "lng": 29.133196
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Isparta Demiralay Şubesi",
-      "adres": "Davraz Mah. 104. Cadde No:74 / 1 İç Kapı No:1",
-      "lat": 37.790544,
-      "lng": 30.573276
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Isparta Şubesi",
-      "adres": "Kutlubey Mahallesı 106 Cadde Halısarayı Apt G Blok Dış Kapı ",
-      "lat": 37.767238,
-      "lng": 30.554285
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İbrahimli Şubesi",
-      "adres": "Pancarlı Mah. Abdulkadir Aksu Bul. Lotus Sitesi B Blok No:10",
-      "lat": 37.071395,
-      "lng": 37.340101
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İçerenköy Şubesi",
-      "adres": "İçerenköy Mah. Çayır Cad. Özge Center İş Merkezı   No:3A/1",
-      "lat": 40.976427,
-      "lng": 29.103001
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İkitelli Organize Sanayi Şubesi",
-      "adres": "İkitelli Osb Mah.Bağcılar-Güngören Metro Avm B Blok Sok. Dış",
-      "lat": 41.076341,
-      "lng": 28.798927
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İkitelli Şubesi",
-      "adres": "İkitelli Osb Mahllesi Atatürk Bulvarı Dışkapı No :52",
-      "lat": 41.071558,
-      "lng": 28.810712
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İlkadım Şubesi",
-      "adres": "Hançerlı Mah. Çıfte Hamam Caddesı N O:2",
-      "lat": 41.296086,
-      "lng": 36.332625
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İmes Sanayi Sitesi Şubesi",
-      "adres": "Dudullu Osb Mah. 1 Cadde No:17",
-      "lat": 40.997495,
-      "lng": 29.175181
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İmsan Şubesi",
-      "adres": "İkitelli Cd.İmsan Küçük San.Sit. E Blok No.10 İkitelli",
-      "lat": 41.062095,
-      "lng": 28.787981
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İnegöl Şubesi",
-      "adres": "Sinanbey Mah.Nuri Doğrul Cad. No :19 ",
-      "lat": 40.079317,
-      "lng": 29.511675
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İnönü Caddesi Malatya Şubesi",
-      "adres": "İnönü Mah. Çevre Sk. Malatya Life Sitesi G No:4/9 İç Kapı No",
-      "lat": 38.350706,
-      "lng": 38.298726
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İskenderun Şubesi",
-      "adres": "Çay Mahallesi Ulu Camii Caddesi No:108/3",
-      "lat": 36.591561,
-      "lng": 36.172161
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İstanbul Anadolu Kurumsal Şubesi",
-      "adres": "Esentepe Mahallesi Cevizli D-100 Güney Yanyol Caddesi Dumank",
-      "lat": 40.909723,
-      "lng": 29.199343
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İstanbul Kurumsal Şubesi",
-      "adres": "Gayrettepe Mahallesi Yener Sokak No:1 Kat:1/A",
-      "lat": 41.063054,
-      "lng": 29.010847
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İstanbul Ulus Şubesi",
-      "adres": "Nispetiye Mahallesi Ahmet Adnan Saygun Caddesi No:22D",
-      "lat": 41.072282,
-      "lng": 29.028635
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İstoç Şubesi",
-      "adres": "Mahmutbey Mah. 2434.Sokak Aslan Plaza Blok No:132A",
-      "lat": 41.066088,
-      "lng": 28.820704
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İvedik Şubesi",
-      "adres": "İvedik Org.San.Sit. Melih Gökçek Bulvarı Halk Yapı Koop. No:",
-      "lat": 39.989717,
-      "lng": 32.739331
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İzmir 1. Sanayi Şubesi",
-      "adres": "Mersinli Mahallesi  2822 Sokak No: 63 ",
-      "lat": 38.43109,
-      "lng": 27.17606
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İzmir Çankaya Şubesi",
-      "adres": "Fevzipaşa Bulvarı No:59/A-B Çankaya",
-      "lat": 38.422587,
-      "lng": 27.136338
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İzmir Göztepe Şubesi",
-      "adres": "Göztepe Mahallesi Mithatpaşa Caddesi Bulvar Apt. No:984 A",
-      "lat": 38.398227,
-      "lng": 27.08913
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İzmir Şubesi",
-      "adres": "Akdenız Mahallesı,Cumhurıyet Bulvarı, No 86/A,",
-      "lat": 38.425171,
-      "lng": 27.132574
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "İzmit Şubesi",
-      "adres": "Körfez Mah.Ankara Yolu No:123/3 ",
-      "lat": 40.762916,
-      "lng": 29.943607
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kadıköy Çarşı Şubesi",
-      "adres": "Caferağa Mah.Müdürdar Cad No:22",
-      "lat": 40.990303,
-      "lng": 29.024429
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kadirli Şubesi",
-      "adres": "Savrun Mahallesi Atatürk Caddesı No:46 ",
-      "lat": 37.370057,
-      "lng": 36.097876
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kağıthane Şubesi",
-      "adres": "Merkez Mahallesi Bağlar Cad. No:2D",
-      "lat": 41.081131,
-      "lng": 28.973053
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kahramanmaraş Çarşı Şubesi",
-      "adres": "Menderes Mah. Trabzon Bulvarı No:53/D ",
-      "lat": 37.576176,
-      "lng": 36.932338
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kahramanmaraş Şubesi",
-      "adres": "Şazibey Mahallesi, 6.Toptancılar Caddesi, No:21B",
-      "lat": 37.581377,
-      "lng": 36.927181
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kalamış Şubesi",
-      "adres": "Faruk Ayanoğlu Cad. Barış Apt. 19/1-2 Fenerbahçe",
-      "lat": 40.974182,
-      "lng": 29.046063
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Karabağlar Şubesi",
-      "adres": "Aşık Veysel Mah. Yeşillik Cad. No: 437-441/B",
-      "lat": 38.372911,
-      "lng": 27.135402
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Karabük Şubesi",
-      "adres": "Bayır Mahallesı, Menderes Caddesı, No:2/B",
-      "lat": 41.195113,
-      "lng": 32.617551
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Karacabey Şubesi",
-      "adres": "Tavşanlı Mahallesi Bursa Caddesi Necmi Akkuş Sitesi No:31A/5",
-      "lat": 40.214393,
-      "lng": 28.358467
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Karacadağ Şubesi",
-      "adres": "Bağcılar Mahallesi Urfa Bulvarı No:193 A",
-      "lat": 37.92009,
-      "lng": 40.143649
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Karadeniz Ereğli Şubesi",
-      "adres": "Orhanlar Mahallesi Yalı Cad. No:38",
-      "lat": 41.28067,
-      "lng": 31.419315
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Karaköy Şubesi",
-      "adres": "Kemankeş Karamustafa Mah  Necatıbey Cd Hacı Mahmut İş Merkez",
-      "lat": 41.025125,
-      "lng": 28.978398
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Karaman Şubesi",
-      "adres": "Mansurdede Mah  Atatürk Bulvarı No:24 D-E-F",
-      "lat": 37.181613,
-      "lng": 33.215344
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kars Şubesi",
-      "adres": "Merkez Mahallesı, Kazım Paşa Cad. No:66 ",
-      "lat": 40.607639,
-      "lng": 43.096215
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Karşıyaka Şubesi",
-      "adres": "Cemal Gürsel Cad. No: 200/A ",
-      "lat": 38.455831,
-      "lng": 27.120433
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kartal Çarşı Şubesi",
-      "adres": "Ankara Cad. Şimşek Han No: 82 Zemin Kat",
-      "lat": 40.888423,
-      "lng": 29.189112
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Karya Bodrum Şubesi",
-      "adres": "Kıbrıs Şehitleri Cad.Emniyet Müdürlüğü Yanı - Ataman İş Merk",
-      "lat": 37.041448,
-      "lng": 27.436713
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kastamonu Şubesi",
-      "adres": "Cebrail Mahallesi Plevne Caddesi No:52 A - B",
-      "lat": 41.380051,
-      "lng": 33.778806
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kavacık Şubesi",
-      "adres": "Rüzgarlıbahçe Mah. Cumhuriyet Cd. No :12",
-      "lat": 41.094929,
-      "lng": 29.098739
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kaynarca Şubesi",
-      "adres": "Fevzi Çakmak Mah. Tevfık İleri Cad. No:111",
-      "lat": 40.878112,
-      "lng": 29.262266
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kayseri Eski Sanayi Şubesi",
-      "adres": "Sanayı Mah. Osman Kavuncu Blv.No:90",
-      "lat": 38.723223,
-      "lng": 35.472879
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kayseri Osb Şubesi",
-      "adres": "Anbar Mahallesi 14. Cadde No:20 Zemin Kat",
-      "lat": 38.753186,
-      "lng": 35.370754
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kayseri Şubesi",
-      "adres": "Cumhurıyet Mahallesı Turan Cad No:3",
-      "lat": 38.718913,
-      "lng": 35.489004
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kazasker Şubesi",
-      "adres": "Şemsettin Günaltay Cad. No:109/A Erenköy ",
-      "lat": 40.966815,
-      "lng": 29.086581
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Keçiören Şubesi",
-      "adres": "Güçlükaya Mah. Kızlar Pınarı Cad. Dr. Nedım Gülkaya Apt.Blok",
-      "lat": 39.985339,
-      "lng": 32.875154
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kemalpaşa Şubesi",
-      "adres": "Mehmet Akif Ersoy Mahallesi, Atatürk Blv. No:51/1A",
-      "lat": 38.426796,
-      "lng": 27.41987
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kemer Şubesi",
-      "adres": "Yeni Mahalle Dörtyol Bulvarı No:25/B ",
-      "lat": 36.600645,
-      "lng": 30.553929
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kepez Şubesi",
-      "adres": "Teomanpaşa Mah. Yeşilırmak Cad. 34/2 ",
-      "lat": 36.919975,
-      "lng": 30.715219
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kestel Şubesi",
-      "adres": "Ahmet Vefik Paşa Mah. Gazi Cad. No: 6/A",
-      "lat": 40.197908,
-      "lng": 29.211872
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Keşan Şubesi",
-      "adres": "Büyük Cami Mah. Cumhuriyet Meydanı No: 8",
-      "lat": 40.854421,
-      "lng": 26.630535
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kıraç Şubesi",
-      "adres": "Çakmaklı Mah.Hadımköy Yolu Cad. Ufuk Plaza No:57B",
-      "lat": 41.041486,
-      "lng": 28.626614
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kırıkkale Şubesi",
-      "adres": "Yenidoğan Mah.Cumhuriyet Cad.No:8/A ",
-      "lat": 39.841167,
-      "lng": 33.506536
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kırklareli Şubesi",
-      "adres": "Karakaş Mah. 100.Yıl Cad. Gençoğlu Apt. Sitesi No:10C",
-      "lat": 41.736109,
-      "lng": 27.219055
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kırşehir Şubesi",
-      "adres": "Medrese Mahallesi M.Kemal Hotamaroğlu Sok.No:2",
-      "lat": 39.145157,
-      "lng": 34.162073
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kızılay Şubesi",
-      "adres": "Gazi Mustafa Kemal Bulvarı No:7/A Kızılay",
-      "lat": 39.921189,
-      "lng": 32.852321
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kocasinan Kayseri Şubesi",
-      "adres": "Sahabiye Mah. Ahmet Paşa Cad. No: 31-B No: 31-B-31-C- 31-D- ",
-      "lat": 38.724623,
-      "lng": 35.490801
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Konya Ereğli Şubesi",
-      "adres": "Selçuklu Mahallesi Atatürk Caddesi Necip Pala Apt. Sit. No:4",
-      "lat": 37.511406,
-      "lng": 34.05045
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Konya Şubesi",
-      "adres": "Musalla Bağları Mah. Ahmet Hilmi Nalçacı Cad. Cengizhan No:1",
-      "lat": 37.892938,
-      "lng": 32.498391
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Konyaaltı Şubesi",
-      "adres": "Bahçelievler Mahallesi Konyaaltı Caddesi Sıtkı Göksoy Apt No",
-      "lat": 36.885273,
-      "lng": 30.690781
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Koşuyolu Şubesi",
-      "adres": "Koşuyolu Mahallesı, Koşuyolu Cad. No:72 A",
-      "lat": 41.009769,
-      "lng": 29.037069
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kozyatağı Şubesi",
-      "adres": "Sahrayıcedıt Mah. Atatürk Cad. No:67/A",
-      "lat": 40.981164,
-      "lng": 29.090979
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Körfez Şubesi",
-      "adres": "Kuzey Mahallesi Cahit Zarifoğlu Caddesi No:53/B",
-      "lat": 40.759994,
-      "lng": 29.790706
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kumluca Şubesi",
-      "adres": "Merkez Mahallesi Gödene Caddesi No: 18 ",
-      "lat": 36.368033,
-      "lng": 30.286236
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kurtköy Şubesi",
-      "adres": "Şeyhli Mahallesi Ankara Caddesi No:217 A ",
-      "lat": 40.906011,
-      "lng": 29.286671
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kuşadası Şubesi",
-      "adres": "Türkmen Mah. İsmet İnönü Bulvarı Teb No:37",
-      "lat": 37.860927,
-      "lng": 27.260841
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kuyubaşı Şubesi",
-      "adres": "Fahrettin Kerim Gökay Cad. No.122/1 Zemin Kat A Kısım Göztep",
-      "lat": 40.984539,
-      "lng": 29.05403
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kuyumcukent Şubesi",
-      "adres": "Yenibosna Merkez Mahallesi Kuyumcukent Sk. Kuyumcukent No:4 ",
-      "lat": 41.003804,
-      "lng": 28.818823
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Küçükbakkalköy Şubesi",
-      "adres": "Küçükbakkalköy Mah. Serdar Sok. No:1 D:3 ",
-      "lat": 40.978338,
-      "lng": 29.121853
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Küçüksu Şubesi",
-      "adres": "İnkılap Mah. Küçüksu Cad. Oryapark Sitesi C Blok No:60/1B ",
-      "lat": 41.031901,
-      "lng": 29.109587
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Kütahya Şubesi",
-      "adres": "Gazi Kemal Mahallesi Cumhuriyet Caddesi No:77/B",
-      "lat": 39.418964,
-      "lng": 29.981851
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Laleli Şubesi",
-      "adres": "Mimar Kemalettin Mahallesi Mesih Paşa Cad. No:54 Daire : 1 L",
-      "lat": 41.008097,
-      "lng": 28.957611
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Lara Şubesi",
-      "adres": "Yeşilbahçe Mahallesi Metin Kasapoğlu Caddesi Armada Apt. Sit",
-      "lat": 36.868098,
-      "lng": 30.722779
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Levent Çarşı Şubesi",
-      "adres": "Çarşı Cad. No: 22 1.Levent ",
-      "lat": 41.076031,
-      "lng": 29.016082
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Lüleburgaz Şubesi",
-      "adres": "Yeni Mahallesi Emrullah Efendi Caddesi No: 8A",
-      "lat": 41.406266,
-      "lng": 27.354713
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Maçka Şubesi",
-      "adres": "Harbiye Mah. Kadırgalar Cad. No:13A ",
-      "lat": 41.049274,
-      "lng": 28.991637
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Malatya Çarşı Şubesi",
-      "adres": "Büyük Hüseyin Bey Mahallesi Atatürk Caddesi No:63A",
-      "lat": 38.348919,
-      "lng": 38.323679
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Malatya Şubesi",
-      "adres": "Niyazi Mahallesi Çevre Yolu Sokak (Buhara Bulvarı) Cad. No:1",
-      "lat": 38.350506,
-      "lng": 38.308638
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Malkara Şubesi",
-      "adres": "Cami Atik Mahallesi Hürriyet Caddesi No:23A",
-      "lat": 40.892178,
-      "lng": 26.903012
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Maltepe E-5 Şubesi",
-      "adres": "Altayçeşme Mahallesı Çam Sokak No:25A",
-      "lat": 40.938924,
-      "lng": 29.134425
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Maltepe İstanbul Şubesi",
-      "adres": "Bağlarbaşı Mah. İnönü Cad. Halil Yılmaz İş Merkezi No:11A",
-      "lat": 40.922009,
-      "lng": 29.134326
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Manavgat Sanayi Şubesi",
-      "adres": "Aşağı Pazarcı Mah. Zübeyde Hanım Cad. No: 19/Z01",
-      "lat": 36.784276,
-      "lng": 31.456885
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Manavgat Şubesi",
-      "adres": "Eski Hisar Mahallesi Demokrasi Bulvarı Öğrekçi Plaza No: 73/",
-      "lat": 36.779958,
-      "lng": 31.437919
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Manavkuyu Şubesi",
-      "adres": "Adalet Mah. Manas Bulvarı No: 20/A ",
-      "lat": 38.452039,
-      "lng": 27.178921
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Manisa Sanayi Şubesi",
-      "adres": "75. Yıl Mahallesi Bahri Sarıtepe Caddesi No:53/A",
-      "lat": 38.616992,
-      "lng": 27.381891
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Manisa Şubesi",
-      "adres": "1. Anafartalar Mahallesi Mustafa Kemal Paşa Caddesi No : 40/",
-      "lat": 38.614087,
-      "lng": 27.430607
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Mardin Şubesi",
-      "adres": "13 Mart Mahallesı Valı Ozan Cad. 82/B",
-      "lat": 37.325449,
-      "lng": 40.717803
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Marmara Kurumsal Şubesi",
-      "adres": "23 Nisan Mahallesi, 75.Yıl Caddesi, No:5A/15 Durmazlar İş Me",
-      "lat": 40.221705,
-      "lng": 28.95011
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Marmaris Şubesi",
-      "adres": "Tepe Mah. Ulusal Egemenlik Cad. No:24 ",
-      "lat": 36.857081,
-      "lng": 28.270955
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Maslak Sanayi Şubesi",
-      "adres": "Maslak Mah. Büyükdere Cad. Nurol Plaza Sitesi No:255 İç Kapı",
-      "lat": 41.114354,
-      "lng": 29.023402
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Maslak Şubesi",
-      "adres": "Reşitpaşa Mahallesi Büyükdere Caddesi Park Plaza Blok No:223",
-      "lat": 41.108098,
-      "lng": 29.018125
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Mecidiyeköy Şubesi",
-      "adres": "Gayrettepe Mah. Yener Sk. Türk Ekonomi Bankası No:1 İç Kapı ",
-      "lat": 41.066969,
-      "lng": 29.002561
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Mega Center Şubesi",
-      "adres": "Kocatepe Mahallesı Yağ İskelesı Caddesı Mega Center No:51 Bl",
-      "lat": 41.053217,
-      "lng": 28.892213
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Menemen Şubesi",
-      "adres": "Mermerli Mahallesi  Mithatpaşa Caddesi No : 55",
-      "lat": 38.609879,
-      "lng": 27.069812
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Mersin Çamlıbel Şubesi",
-      "adres": "Kültür Mah. Atatürk 8 Cad. Teb Çamlıbel Şubesi Blok No:62A",
-      "lat": 36.790959,
-      "lng": 34.622576
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Mersin Liman Şubesi",
-      "adres": "Cami Şerif Mahallesi, İsmet İnönü Bulvarı, Anadolu Hayat Sig",
-      "lat": 36.798541,
-      "lng": 34.632029
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Mersin Pozcu Şubesi",
-      "adres": "İnönü Mah. Gazi Mustafa Kemal Bul. Emel Sitesi C Blk. Blok N",
-      "lat": 36.781957,
-      "lng": 34.591696
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Mersin Şubesi",
-      "adres": "Camişerif Mahallesi İsmet İnönü Bulvarı No:94A",
-      "lat": 36.79863,
-      "lng": 34.632053
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Mersin Toptancılar Sitesi Şubesi",
-      "adres": "Mersin Toptancılar Sitesi(Mertoç) Hal Mah.Turgut Özal Bulvar",
-      "lat": 36.824097,
-      "lng": 34.655245
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Merter Şubesi",
-      "adres": "Mehmet Nesih Özmen Mahallesi Fatih Cad. No:21 A",
-      "lat": 41.012104,
-      "lng": 28.883935
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Merzifon Şubesi",
-      "adres": "Hoca Süleyman Mah. Yokuşbaşı Caddesı No:13",
-      "lat": 40.873201,
-      "lng": 35.463938
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Metropol Mersin Şubesi",
-      "adres": "Mesudıye Mahallesı Kuvayı Mıllıye Cad. No: 84/B",
-      "lat": 36.803822,
-      "lng": 34.624432
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Mevlana Şubesi",
-      "adres": "Azızıye Mahallesı, Mevlana Caddesı, No:63 D:1",
-      "lat": 37.871434,
-      "lng": 32.502166
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Mezitli Şubesi",
-      "adres": "Menderes Mahallesi Gazi Mustafa Kemal Blv. Doğaner Yapı Koop",
-      "lat": 36.749056,
-      "lng": 34.530089
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Milas Şubesi",
-      "adres": "Hacıilyas Mahallesi Menteşe Caddesi Özler İş Hanı Karşısı No",
-      "lat": 37.314344,
-      "lng": 27.778189
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Muğla Şubesi",
-      "adres": "Şeyh Mahallesi İsmet İnönü Caddesi No:17/1",
-      "lat": 37.215269,
-      "lng": 28.365042
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Mut Şubesi",
-      "adres": "Doğancı Mahallesi Atatürk Blv. No:48 A-B",
-      "lat": 36.643187,
-      "lng": 33.439292
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Narlıdere Şubesi",
-      "adres": "Çamtepe Mah. Mithatpaşa Cad. No: 277-279 ",
-      "lat": 38.394171,
-      "lng": 27.007911
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Nato Yolu Şubesi",
-      "adres": "Tuzluçayır Mahallesi Nato Yolu Caddesi 294. Sokak No:1/A",
-      "lat": 39.918449,
-      "lng": 32.910738
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Nazilli Şubesi",
-      "adres": "Altıntaş Mah. 129 Sok. No:2 ",
-      "lat": 37.917208,
-      "lng": 28.325633
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Necatibey Şubesi",
-      "adres": "Kızılay Mahallesı Necatıbey Cad Günay Apt. No:25 B",
-      "lat": 39.924367,
-      "lng": 32.851029
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Nevşehir Şubesi",
-      "adres": "Karasoku Mah. Atatürk Caddesi No:16/B ",
-      "lat": 38.624712,
-      "lng": 34.713747
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Niğde Şubesi",
-      "adres": "İnönü Mah. Ayhan Şahenk Bul. No:15 İç Kapı No: A ",
-      "lat": 37.970973,
-      "lng": 34.677253
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Nilüfer Şubesi",
-      "adres": "İhsaniye Mah. İzmir Yolu Cad. No:118 A ",
-      "lat": 40.211849,
-      "lng": 28.98123
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Nuruosmaniye Şubesi",
-      "adres": "Alemdar Mah. Nuruosmanıye Cad No:12/1",
-      "lat": 41.010394,
-      "lng": 28.974641
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ordu Şubesi",
-      "adres": "Şarkiye Mah.Süleyman Felek Cad. No:93/C",
-      "lat": 40.983811,
-      "lng": 37.881354
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ortaklar Caddesi Şubesi",
-      "adres": "Büyükdere Cad. 60/A Mecidiyeköy",
-      "lat": 41.066332,
-      "lng": 28.996421
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ortaköy Şubesi",
-      "adres": "Yıldız Mah.Çırağan Cad. No:97 Ortaköy",
-      "lat": 41.048186,
-      "lng": 29.024401
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Osmanbey Şubesi",
-      "adres": "Cumhurıyet Mah. Halaskargazı Cad. No: 103B",
-      "lat": 41.053985,
-      "lng": 28.986996
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Osmaniye Şubesi",
-      "adres": "Alibeyli Mah. Dr.Ahmet Alkan Cad.No:17/A ",
-      "lat": 37.073621,
-      "lng": 36.247914
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ostim Şubesi",
-      "adres": "Ostım Sanayı Sıtesı 100.Yıl Bulvarı No:9 ",
-      "lat": 39.965384,
-      "lng": 32.747119
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ödemiş Şubesi",
-      "adres": "Akıncılar Mahallesi Gazi Caddesi No: 32/1",
-      "lat": 38.230058,
-      "lng": 27.970856
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Özel Bankacılık Merkezi Şubesi",
-      "adres": "Nispetiye Cad. Dilhayat Sok. No:8 Zemin Kat Etiler",
-      "lat": 41.079679,
-      "lng": 29.033633
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Özlüce Şubesi",
-      "adres": "Altınşehir Mah. Özlüce Bul. Altuntaş Park Sitesi A Blok No:3",
-      "lat": 40.223217,
-      "lng": 28.914994
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Pamukkale Şubesi",
-      "adres": "Saraylar Mahallesi İzmir Bul. Teb Sitesi Teb Blok No:57",
-      "lat": 37.787204,
-      "lng": 29.088833
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Pendik E-5 Şubesi",
-      "adres": "Yeşilbağlar Mahallesi Kaptan Sokak No:17/1 İç Kapı No:7",
-      "lat": 40.890595,
-      "lng": 29.235496
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Pendik Şubesi",
-      "adres": "Batı Mah. Erol Kaya Cad. Teb Blok No:102 İç Kapı No:1",
-      "lat": 40.876713,
-      "lng": 29.234668
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Perpa Şubesi",
-      "adres": "Halil Rıfat Paşa Mah. Yüzer Havuz Sok. No: 1/922",
-      "lat": 41.060181,
-      "lng": 28.969573
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Pınarbaşı Şubesi",
-      "adres": "Ümit Mah. Kemalpaşa Cad. No:333 B Pınarbaşı",
-      "lat": 38.438947,
-      "lng": 27.249713
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Polatlı Şubesi",
-      "adres": "Cumhuriyet Mahallesi Ankara Caddesi No:5 ",
-      "lat": 39.585275,
-      "lng": 32.142717
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Rize Şubesi",
-      "adres": "Yeniköy Mah.Tevfik İleri Cad. No:18",
-      "lat": 41.025453,
-      "lng": 40.520384
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Salihli Şubesi",
-      "adres": "Atatürk Mahallesi Belediye Cad. No:93-95 ",
-      "lat": 38.486659,
-      "lng": 28.139406
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Samsun 19 Mayıs Şubesi",
-      "adres": "Şabanoğlu Mahallesi 61.Sokak No:32A",
-      "lat": 41.236914,
-      "lng": 36.420219
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Samsun Sanayi Şubesi",
-      "adres": "Yenimahalle Mahallesi 28. Sokak No:23/1",
-      "lat": 41.274843,
-      "lng": 36.354599
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Samsun Şubesi",
-      "adres": "Kale Mahallesi Kaptanağa Sok. No: 4/B",
-      "lat": 41.290856,
-      "lng": 36.333899
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Sancaktepe Şubesi",
-      "adres": "İnönü Mah. Ankara Cad. No:63/A",
-      "lat": 41.009442,
-      "lng": 29.212817
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Santral Ümraniye Şubesi",
-      "adres": "Atatürk Mah. Sütçü İmam Cad. Kardeşler Apt. No:51/A Dükkan N",
-      "lat": 41.023983,
-      "lng": 29.088816
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Sarıyer Şubesi",
-      "adres": "Sarıyer Merkez Mah.Yeni Mahalle Cad. No:19",
-      "lat": 41.168846,
-      "lng": 29.057442
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Sefaköy Şubesi",
-      "adres": "Kartaltepe Mahallesi, Halkalı Caddesi No:62A/1 ",
-      "lat": 41.000935,
-      "lng": 28.797504
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Serik Şubesi",
-      "adres": "Yeni Mah. Hürriyet Cad. Mehmet Iltar Apt. Blok No:8C",
-      "lat": 36.917634,
-      "lng": 31.106029
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Seydikemer Şubesi",
-      "adres": "Cumhurıyet Mahallesı İnönü Caddesı No:40 İç Kapı No:1",
-      "lat": 36.645048,
-      "lng": 29.364021
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Seyrantepe Şubesi",
-      "adres": "Seyrantepe Mahallesi İbrahim Karaoğlanoğlu Cad. No:111A/1",
-      "lat": 41.099356,
-      "lng": 28.996871
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Siirt Şubesi",
-      "adres": "Bahçelıevler Mahallesı Hükümet Bulvarı No:26",
-      "lat": 37.928419,
-      "lng": 41.941161
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Silifke Şubesi",
-      "adres": "Mukaddem Mahallesi İnönü Bulvarı No:20 A ",
-      "lat": 36.376084,
-      "lng": 33.926267
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Silivri Şubesi",
-      "adres": "Piri Mehmet Paşa Mah. Başkomutan Cad. No:4",
-      "lat": 41.074922,
-      "lng": 28.243951
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Sincan Şubesi",
-      "adres": "Atatürk Mah. Ankara Cad. No: 44/A ",
-      "lat": 39.962065,
-      "lng": 32.580523
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Sinop Şubesi",
-      "adres": "Meydankapı Mah. Sakarya Cad. No:13B",
-      "lat": 42.026507,
-      "lng": 35.149958
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Siteler Şubesi",
-      "adres": "Ulubey Mahallesı Demırhendek Caddesı No:69",
-      "lat": 39.956909,
-      "lng": 32.897763
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Sivas Şubesi",
-      "adres": "Atatürk Cad.No.15 ",
-      "lat": 39.750224,
-      "lng": 37.018112
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Soğanlık Şubesi",
-      "adres": "Atatürk Cad. No:119 ",
-      "lat": 40.915409,
-      "lng": 29.204036
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Soma Şubesi",
-      "adres": "Kurtuluş Mahallesi Fatih Caddesi No:10",
-      "lat": 39.182274,
-      "lng": 27.606469
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Sorgun Şubesi",
-      "adres": "Çay Mahallesi Cumhuriyet Caddesi No:71/A",
-      "lat": 39.809926,
-      "lng": 35.188617
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Söğütözü Şubesi",
-      "adres": "Platin Tower Söğütözü Mah. Dumlupınar Bulvarı No:94/G",
-      "lat": 39.909555,
-      "lng": 32.798057
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Söke Şubesi",
-      "adres": "Konak Mah. Aydın Cad. No:13 A",
-      "lat": 37.753547,
-      "lng": 27.404581
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Suadiye Şubesi",
-      "adres": "Bağdat Cad.German Apt No: 456 Suadiye",
-      "lat": 40.957484,
-      "lng": 29.086411
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Suburcu Şubesi",
-      "adres": "Alaybey Mah. Suburcu Cad. Suburcu İş Merkezi No:11A",
-      "lat": 37.063294,
-      "lng": 37.380746
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Sultanbeyli Şubesi",
-      "adres": "Mehmet Akıf Mah. Fatıh Bulvarı No:244/B",
-      "lat": 29.271093,
-      "lng": 29.271093
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Sultangazi Şubesi",
-      "adres": "Cebeci Mah.Eski Edirne Asfaltı No: 748 Sultançifliği",
-      "lat": 41.112241,
-      "lng": 28.857868
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Şanlıurfa Sarayönü Caddesi Şubesi",
-      "adres": "Atatürk Mah. Bul. Teb Bankası Blok  No :82",
-      "lat": 37.156231,
-      "lng": 38.791361
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Şanlıurfa Şubesi",
-      "adres": "Atatürk Bulvarı Numune Pasajı No:16/2-3",
-      "lat": 37.159372,
-      "lng": 38.792049
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Şaşmaz Şubesi",
-      "adres": "Bahçekapı Mah. Sanayi Bul. No:4A",
-      "lat": 39.943146,
-      "lng": 32.711816
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Şehitkamil Gaziantep Şubesi",
-      "adres": "Mücahitler Mah. Gazi Muhtar Paşa Bul. Vakıfbank Sitesi Yasem",
-      "lat": 37.073494,
-      "lng": 37.365976
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Şirehanı Şubesi",
-      "adres": "İsmetpaşa Mahallesi, İnönü Caddesi, No: 217/7",
-      "lat": 37.058232,
-      "lng": 37.386126
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Şirinevler Şubesi",
-      "adres": "Meriç Sok. Ünal İş Merkezi No:13/3 Şirinevler",
-      "lat": 40.992337,
-      "lng": 28.844323
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Şirinyalı Şubesi",
-      "adres": "Şirinyalı Mahallesi İsmet Gökşen Caddesi No:80/1",
-      "lat": 36.858542,
-      "lng": 30.739417
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Şirinyer Şubesi",
-      "adres": "Güven Mahallesı, Menderes Caddesı No: 318",
-      "lat": 38.394807,
-      "lng": 27.148431
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Şişli Şubesi",
-      "adres": "Merkez Mahalles Büyükdere Caddesı Cem İş Merkezi No:23/B",
-      "lat": 41.062889,
-      "lng": 28.989735
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Tahtakale Şubesi",
-      "adres": "Süleymanıye Mahallesı Şahende Sokak Keleşler İşhanı No:7A",
-      "lat": 41.015634,
-      "lng": 28.966835
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Taksim Şubesi",
-      "adres": "Gümüşsuyu Mah. Mete Cad. No: 12A",
-      "lat": 41.0375,
-      "lng": 28.988
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Tarsus Şubesi",
-      "adres": "Şehitmustafa Mah. Muvaffak Uygur Bulvarı No:3A ",
-      "lat": 36.916778,
-      "lng": 34.887689
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Tatvan Şubesi",
-      "adres": "Tuğ Mahallesi Cumhuriyet Bul. Şimşek Center Blok No:226A",
-      "lat": 38.494159,
-      "lng": 42.286962
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Tekirdağ Şubesi",
-      "adres": "Aydoğdu Mahallesı Hükümet Caddesı No:94 ",
-      "lat": 40.977754,
-      "lng": 27.510223
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Tire Şubesi",
-      "adres": "Cumhuriyet Meydanı, No:05",
-      "lat": 38.089887,
-      "lng": 27.731335
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Tokat Şubesi",
-      "adres": "Kabe-İ Mescid Mah.Gaziosmanpaşa Bulvarı No:168/A",
-      "lat": 40.315535,
-      "lng": 36.551403
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Topçular Şubesi",
-      "adres": "Rami Kışla Cad. Koçbay İş Merkezi No 25/B 7-8 Topçular",
-      "lat": 41.040061,
-      "lng": 28.921086
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Topkapı Sanayi Şubesi",
-      "adres": "Maltepe Mah. Gümüşsuyu Cad. No:53 Dk:21-22",
-      "lat": 41.029708,
-      "lng": 28.910629
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Torbalı Şubesi",
-      "adres": "Tepeköy Mahallesı Ağlar Caddesı No:16",
-      "lat": 38.150112,
-      "lng": 27.364081
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Trabzon Şubesi",
-      "adres": "Kemerkaya Mah. Kahramanmaraş Caddesi No:35A",
-      "lat": 41.006126,
-      "lng": 39.726185
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Trakya Kurumsal Şubesi",
-      "adres": "Nur Yıldız Plaza 15 Temmuz Mahallesi Gülbahar Caddesi No:7A ",
-      "lat": 41.031252,
-      "lng": 28.814677
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Trakya Üniversitesi Şubesi",
-      "adres": "Kocasinan Mahallesi, E5 Karayolu Caddesi No:76/13",
-      "lat": 41.637917,
-      "lng": 26.611799
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Tunalı Hilmi Şubesi",
-      "adres": "Remzi Oğuz Mah. Tunalı Hilmi Cad. No.68/A Kavaklıdere",
-      "lat": 39.907728,
-      "lng": 32.861375
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Turgutlu Şubesi",
-      "adres": "Altay Mah. Atatürk Bulvarı No: 163 ",
-      "lat": 38.498785,
-      "lng": 27.707652
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Tuzla Osb Şubesi",
-      "adres": "Aydınlı-İstanbul Ayosb Mah.5.Sok İstanbul Anadolu Yakası Osb",
-      "lat": 40.884482,
-      "lng": 29.388344
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Tuzla Şubesi",
-      "adres": "İçmeler Mah .Mazhar Sokak No.21/A",
-      "lat": 40.848113,
-      "lng": 29.300121
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Uludağ Üniversitesi Şubesi",
-      "adres": "Görükle Mahallesi Üniversite 1.Cadde No:326/2A",
-      "lat": 40.223388,
-      "lng": 28.869611
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ulus Ankara Şubesi",
-      "adres": "Hacı Bayram Mah. Sanayi Cad. Teb No:15/1",
-      "lat": 39.939464,
-      "lng": 32.855614
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Uncalı Şubesi",
-      "adres": "Uncalı Mahallesi Uncalı Caddesi No:63 ",
-      "lat": 36.88843,
-      "lng": 30.625024
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Urla Şubesi",
-      "adres": "Hacı İsa Mah. 75.Yıl Cumhuriyet Cad. Ege Plaza No:1B",
-      "lat": 38.323923,
-      "lng": 26.768209
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Uşak Çarşı Şubesi",
-      "adres": "İslıce Mahallesı İslıce Sokak, No:12/A",
-      "lat": 38.678881,
-      "lng": 29.40569
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Uşak Şubesi",
-      "adres": "İslice Mah. İsmetpaşa Cad. No: 67/B",
-      "lat": 38.674602,
-      "lng": 29.40599
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Üçevler Şubesi",
-      "adres": "Üçevler Mh Ahıska Cad No:10/1",
-      "lat": 40.210664,
-      "lng": 28.952328
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ümitköy Şubesi",
-      "adres": "Mutlukent Mah. Doğan Taşdelen Bul. No:45 İç Kapı No:1",
-      "lat": 39.899302,
-      "lng": 32.706257
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ümraniye Sanayi Şubesi",
-      "adres": "Çakmak Mahallesi Alemdağ Caddesi  No:422 ",
-      "lat": 41.021928,
-      "lng": 29.116341
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ümraniye Şubesi",
-      "adres": "Alemdağ Cad. 194/2 ",
-      "lat": 41.024958,
-      "lng": 29.099833
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Ünye Şubesi",
-      "adres": "Kaledere Mahallesi Akkuş Niksar Caddesi No:6/A",
-      "lat": 41.127116,
-      "lng": 37.288003
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Üsküdar Şubesi",
-      "adres": "Aziz Mahmut Hüdayi Mah. Hakimiyeti Milliye Cad. No: 50 Kat :",
-      "lat": 41.023408,
-      "lng": 29.015497
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Valikonağı Şubesi",
-      "adres": "Teşvikiye Mahallesi Valikonağı Cad. No: 66",
-      "lat": 41.053041,
-      "lng": 28.993148
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Van Şubesi",
-      "adres": "Şerefiye Mahallesi M. Fevzi Çakmak Cad. Lütfü Savur İş Merke",
-      "lat": 38.498205,
-      "lng": 43.396111
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Yalıkavak Şubesi",
-      "adres": "İnönü Caddesi No:101/A-E Yalıkavak ",
-      "lat": 37.112617,
-      "lng": 27.323398
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Yalova Şubesi",
-      "adres": "Rüstempaşa Mahallesı, Çeşme Sokak No:2/1",
-      "lat": 40.655847,
-      "lng": 29.270666
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Yeditepe Kurumsal Şubesi",
-      "adres": "İnkılap Mahallesi Sokullu Cad. No: 7 A",
-      "lat": 41.0631,
-      "lng": 29.0109
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Yeni Adana Şubesi",
-      "adres": "Güzelyalı Mah. Uğur Mumcu Bul. No:13/1E ",
-      "lat": 37.049448,
-      "lng": 35.300512
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Yenibosna Şubesi",
-      "adres": "Yenibosna Merkez Mahallesi Yıldırım Beyazıt Caddesi No: 210A",
-      "lat": 41.010171,
-      "lng": 28.830243
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Yeniköy Antalya Şubesi",
-      "adres": "Yeniköy Mahallesi Atatürk Caddesi No:476",
-      "lat": 37.025968,
-      "lng": 30.600982
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Yeniköy Şubesi",
-      "adres": "Yeniköy Mahallesi Köybaşı Caddesi No:51 Yeniköy",
-      "lat": 41.122611,
-      "lng": 29.071025
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Yeşilköy Şubesi",
-      "adres": "İstasyon Cad.Orhan Gazi Sok. No:1 Zemin Kat Kısım A Yeşilköy",
-      "lat": 40.960482,
-      "lng": 28.823756
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Yıldırım Şubesi",
-      "adres": "Duaçınarı Mahallesi Ankarayolu Cad. B Blok Apt. No:171-173B",
-      "lat": 40.191746,
-      "lng": 29.095571
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Yıldız Şubesi",
-      "adres": "Turan Güneş Bulvarı No:17 ",
-      "lat": 39.875537,
-      "lng": 32.863582
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Yüreğir Şubesi",
-      "adres": "Cumhuriyet Mah. 770  Sokak. No:11/A ",
-      "lat": 36.986291,
-      "lng": 35.338769
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Zekeriyaköy Şubesi",
-      "adres": "Zekerıyaköy Mahallesı 4. Cad. Kültür Merkezı Apt. No:4/1/2",
-      "lat": 41.208343,
-      "lng": 29.021506
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Zeytinburnu Bulvar Şubesi",
-      "adres": "Gökalp Mah. Prof. Muammer Aksoy Cad. No:85A",
-      "lat": 40.991474,
-      "lng": 28.903914
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Zeytinburnu Şubesi",
-      "adres": "Gökalp Mah. Prof. Muammer Aksoy Cad. No:85",
-      "lat": 40.994187,
-      "lng": 28.904513
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Zonguldak Şubesi",
-      "adres": "Meşrutiyet Mah. Gazipaşa Cad. No:31 ",
-      "lat": 41.454297,
-      "lng": 31.789088
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
-      "adi": "Arnavutköy Şubesi",
-      "adres": "Mustafa Kemalpaşa Mah. Fatih Cad. No:41A",
-      "lat": 41.186447,
-      "lng": 28.738485
-    },
-    {
-      "bank_no": 28,
-      "bank_name": "TEB",
       "adi": "Etıler Sube",
       "adres": "Etıler Mah. Nıspetıye Cad. No:97 Kat:1",
       "lat": 41.080938,
@@ -251789,6 +248429,3366 @@
       "adres": "Cumhurıyet Mah. Güllece Cad.Oto Termınal Gırısı Dolmus Durag",
       "lat": 38.630558,
       "lng": 34.912384
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "4. Levent Şubesi",
+      "adres": "Emniyet Evleri Mahallesi Eski Büyükdere Cad No :11 / A",
+      "lat": 41.087977,
+      "lng": 29.006117
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "4. Sanayi Şubesi",
+      "adres": "129 Sokak No:1/E 4. Sanayi Sitesi ",
+      "lat": 38.459603,
+      "lng": 27.251411
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "A.O.S.B. İzmir Şubesi",
+      "adres": "M. Kemal Atatürk Bulvarı No: 42 / 19 ",
+      "lat": 38.492473,
+      "lng": 27.039389
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Acıbadem Şubesi",
+      "adres": "Acıbadem Caddesi No: 164/4 ",
+      "lat": 41.008503,
+      "lng": 29.050342
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Adana Atikop Şubesi",
+      "adres": "Yeşiloba Mahallesi Turhan Cemal Beriker Bulvarı Adana İş Mer",
+      "lat": 36.996455,
+      "lng": 35.253522
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Adana Çarşı Şubesi",
+      "adres": "Karasoku Mah. Kızılay Cad.No:14 ",
+      "lat": 36.985708,
+      "lng": 35.326561
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Adana Çukurova Şubesi",
+      "adres": "Çınarlı Mah.Atatürk Cad.No:15 ",
+      "lat": 36.992606,
+      "lng": 35.325203
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Adana Mobilyacılar Şubesi",
+      "adres": "Güzelevler Mah. Mobilyacılar Sitesi Meşe Cad. No:18 A Kısım",
+      "lat": 36.982621,
+      "lng": 35.396382
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Adana Toros Şubesi",
+      "adres": "Toros Mah. Şehitler Blv. No:11/C Okumuşlar Apt.",
+      "lat": 37.032333,
+      "lng": 35.308852
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Adapazarı Çarşı Şubesi",
+      "adres": "Orta Mah. Soğan Pazarı Cad. No:8 ",
+      "lat": 40.777972,
+      "lng": 30.403675
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Adapazarı Şubesi",
+      "adres": "Tığcılar Mah. Atatürk Bulvarı  No:27 ",
+      "lat": 40.775974,
+      "lng": 30.402127
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Adıyaman Şubesi",
+      "adres": "Yenıpınar Mah, Atatürk Cad. No:31",
+      "lat": 37.760657,
+      "lng": 38.277453
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Afyon Şubesi",
+      "adres": "Dumlupınar Mahallesi Kadınana Caddesi Davulcuoğlu İş Merkezi",
+      "lat": 38.755094,
+      "lng": 30.540854
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Akdeniz Sanayi Şubesi",
+      "adres": "Şafak Mahallesi 5009 Sok. Akdeniz Sanayi Sitesi 36. Blok No:",
+      "lat": 36.922981,
+      "lng": 30.639485
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Akdeniz Üniversitesi Şubesi",
+      "adres": "Akdeniz Üniversitesi Dumlupınar Bulvarı Olbia Çarşısı Kampüs",
+      "lat": 36.899071,
+      "lng": 30.661879
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Akdeniz Üniversitesi Tıp Fakültesi Şubesi",
+      "adres": "Dumlupınar Bulvarı Pınarbaşı Mah Akdeniz Üni.Hastanesi H Blo",
+      "lat": 36.899071,
+      "lng": 30.661879
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Akhisar Şubesi",
+      "adres": "Şehit Teğmen Ün Cad. Paşa Mahallesi No: 78",
+      "lat": 38.921353,
+      "lng": 27.839216
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Aksaray İstanbul Şubesi",
+      "adres": "Mesihpaşa Mah. Ordu Cad. No: 107",
+      "lat": 41.009252,
+      "lng": 28.954505
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Aksaray Şubesi",
+      "adres": "Hamıdıye Mahallesı 761/Şehıt Alı Mutlu Alı Mutlu Sokak No:1/",
+      "lat": 38.371465,
+      "lng": 34.027928
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Alanya Mahmutlar Şubesi",
+      "adres": "Mahmutlar Mahallesi Barbaros Caddesi No:98B/A",
+      "lat": 36.486355,
+      "lng": 32.098043
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Alanya Sanayi Şubesi",
+      "adres": "Cumhuriyet Mahallesi Keykubat Blv. No:218",
+      "lat": 36.544954,
+      "lng": 32.024553
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Alanya Şubesi",
+      "adres": "Atatürk Cad. Cad No: 42/A ",
+      "lat": 36.544358,
+      "lng": 31.996375
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Alaşehir Şubesi",
+      "adres": "Soğuksu Mahallesi Sekine Evren Caddesi No:87",
+      "lat": 38.350237,
+      "lng": 28.513624
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Alemdar Şubesi",
+      "adres": "Ömerağa Mahallesi, Alemdar Caddesi No: 15A",
+      "lat": 40.762994,
+      "lng": 29.928449
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Aliağa Şubesi",
+      "adres": "Kültür Mah. İstiklal Cad.No:50A",
+      "lat": 38.800671,
+      "lng": 26.971819
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Alibeyköy Şubesi",
+      "adres": "Alibeyköy Mah.Namık Kemal Cad. 30/A ",
+      "lat": 41.077296,
+      "lng": 28.945677
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Alsancak Şubesi",
+      "adres": "1382 Sk. 33/A Bodrum Kat Alsancak",
+      "lat": 38.431121,
+      "lng": 27.141898
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Altıyol Şubesi",
+      "adres": "Osmanağa Mah. Söğütlüçeşme Cad. No:124A",
+      "lat": 40.991298,
+      "lng": 29.03115
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Altunizade Şubesi",
+      "adres": "Kısıklı Cad. No:19 Altunizade",
+      "lat": 41.023667,
+      "lng": 29.041118
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Amasya Şubesi",
+      "adres": "Yüzevler Mah. Mustafa Kemal Paşa Cad. No:76/A-B-1",
+      "lat": 40.650123,
+      "lng": 35.828828
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Anamur Şubesi",
+      "adres": "Esentepe Mah. Atatürk Bulvarı No:8/B ",
+      "lat": 36.078402,
+      "lng": 32.830314
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ankara 4. Kolordu Şubesi",
+      "adres": "4. Kolordu Komutanlığı  Samsun Yolu Üzeri",
+      "lat": 39.951593,
+      "lng": 32.913492
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ankara Mustafa Kemal Şubesi",
+      "adres": "Mustafa Kemal Mah. 2159 Cadde No:2A",
+      "lat": 39.910149,
+      "lng": 32.77063
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ankara Şubesi",
+      "adres": "Mustafa Kemal Mah. Şehit Öğretmen Şenay Aybüke Yalçın Cad. N",
+      "lat": 39.91017,
+      "lng": 32.765605
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Antakya Mustafa Kemal Şubesi",
+      "adres": "Kuzeytepe Mah.Uğur Mumcu Bul.No:237 İç Kapı",
+      "lat": 36.242553,
+      "lng": 36.172889
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Antakya Şubesi",
+      "adres": "Çekmece Mah. Çevre Yolu Cad. No:11D",
+      "lat": 36.214307,
+      "lng": 36.124305
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Antalya Etiler Şubesi",
+      "adres": "Etiler Mahallesi 851 Sokak No:2",
+      "lat": 36.899645,
+      "lng": 30.706873
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Antalya Muratpaşa Şubesi",
+      "adres": "Tahıl Pazarı Mah.Şarampol Cad. Ömer Melli İş Hanı No:86A",
+      "lat": 36.891552,
+      "lng": 30.703364
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Antalya Sanayi Şubesi",
+      "adres": "Yükseliş Mah.Gazi Bulvarı No:123/1 ",
+      "lat": 36.909533,
+      "lng": 30.69255
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Antalya Şubesi",
+      "adres": "Etiler Mahallesi Adnan Menderes Bulvarı Birlik Apartmanı No:",
+      "lat": 36.896075,
+      "lng": 30.709359
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Antalya Toptancı Hali Şubesi",
+      "adres": "Güneş Mah. Yeni Toptancı Hal Kompleksi B2/1 Blok No: 1",
+      "lat": 36.922484,
+      "lng": 30.745369
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Aspendos Kurumsal Şubesi",
+      "adres": "Etiler Mahallesi Adnan Menderes Bulvarı Birlik Apartmanı No:",
+      "lat": 36.896043,
+      "lng": 30.709427
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Atakum Şubesi",
+      "adres": "Mimar Sinan Mahallesi 162 Sok. No:17/E",
+      "lat": 41.332829,
+      "lng": 36.272249
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ataşehir Finans Merkezi Şubesi",
+      "adres": "Barbaros Mahallesi Halk Caddesi Teb Blok No:47 İç Kapı No: 1",
+      "lat": 40.986462,
+      "lng": 29.099094
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ataşehir Şubesi",
+      "adres": "Atatürk Mahallesi Ataşehir Bulvarı No:14/F Özel İşyeri:1",
+      "lat": 40.992802,
+      "lng": 29.124732
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Atatürk Caddesi Adana Şubesi",
+      "adres": "Kurtuluş Mahallesi Atatürk Caddesi Meryem Gizer Apartmanı No",
+      "lat": 36.999302,
+      "lng": 35.323671
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Atrium Şubesi",
+      "adres": "Ataköy 7.8.9.10 Kısım Mahallesı Karanfıl Sokak Atrıum Avm No",
+      "lat": 40.988661,
+      "lng": 28.845784
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Avcılar Çarşı Şubesi",
+      "adres": "Merkez Mah. Reşitpaşa Cad. No: 41 ",
+      "lat": 40.97961,
+      "lng": 28.723974
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Avcılar Şubesi",
+      "adres": "Firuzköy Mah. Firuzköy Bulvarı Bul. Collet Avcılar Sitesi No",
+      "lat": 41.011772,
+      "lng": 28.699671
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Aydın Çarşı Şubesi",
+      "adres": "Hasan Efendi - Ramazan Paşa Mah. Hükümet Bulvarı No: 19A",
+      "lat": 37.849505,
+      "lng": 27.843779
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Aydın Şubesi",
+      "adres": "Kurtuluş Mah.Adnan Menderes Bulvarı 42/B",
+      "lat": 37.843993,
+      "lng": 27.844203
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ayvalık Şubesi",
+      "adres": "İsmetpaşa Mah. Atatürk Bul. Teb Bankası No:151",
+      "lat": 39.320056,
+      "lng": 26.692659
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bafra Şubesi",
+      "adres": "Hacınabı Mahallesı, Tekel Caddesı No:40",
+      "lat": 41.565686,
+      "lng": 35.901561
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bağcılar Şubesi",
+      "adres": "İstanbul Cad No 12/B ",
+      "lat": 41.034307,
+      "lng": 28.858865
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bahçelievler İstanbul Şubesi",
+      "adres": "İzzettin Çalışlar Cad.  No.40 ",
+      "lat": 41.000812,
+      "lng": 28.870371
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bahçeşehir Şubesi",
+      "adres": "Bahçeşehir 2. Kısım Mah. Süzer Bulvarı No : 13",
+      "lat": 41.062559,
+      "lng": 28.686833
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bakırköy Meydan Şubesi",
+      "adres": "Kartaltepe Mahallesi İncirli Caddesi No:12/14",
+      "lat": 40.983119,
+      "lng": 28.872937
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bakırköy Şubesi",
+      "adres": "Cevizlik Mahallesi Hallaç Hüseyin Sokak No:5B",
+      "lat": 40.979331,
+      "lng": 28.874642
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Balçova Şubesi",
+      "adres": "Onur Mah. Ata Cad. No:48/A ",
+      "lat": 38.392908,
+      "lng": 27.057929
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Balgat Şubesi",
+      "adres": "Ceyhun Atıf Kansu Cad. No : 80 Balgat",
+      "lat": 39.899636,
+      "lng": 32.817365
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Balıkesir Çarşı Şubesi",
+      "adres": "Altı Eylül Mahallesi, Anafartalar Caddesi Metinler Otelleri ",
+      "lat": 39.645587,
+      "lng": 27.880055
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Balıkesir Şubesi",
+      "adres": "Hisariçi Mah. Örücüler Cad. No:14/B",
+      "lat": 39.648849,
+      "lng": 27.881341
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Balmumcu Şubesi",
+      "adres": "Gayrettepe Mah. Yener Sok. Türk Ekonomi Bankası Blok No:1A",
+      "lat": 41.063061,
+      "lng": 29.010881
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bandırma Şubesi",
+      "adres": "Haydar Çavuş Mah. İsmet İnönü Cad. No:56A",
+      "lat": 40.353491,
+      "lng": 27.970653
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bartın Şubesi",
+      "adres": "Kırtepe Mahallesi Hamam Caddesi No:5 ",
+      "lat": 41.633568,
+      "lng": 32.336679
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Başkent Ankara Şubesi",
+      "adres": "Ostim Osb Mahallesi 100.Yıl Bul. No:9",
+      "lat": 39.96535,
+      "lng": 32.74708
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Başkent Kurumsal Şubesi",
+      "adres": "Simon Bolivar Cad. No:17 Kat:1-2",
+      "lat": 39.883676,
+      "lng": 32.856781
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Batı Ataşehir Şubesi",
+      "adres": "Barbaros Mahallesi Halk Caddesi No:47/1 ",
+      "lat": 40.986462,
+      "lng": 29.099094
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Batman Şubesi",
+      "adres": "Gap Mah. Turgut Özal Bulvarı Babıl Plaza No:90 C",
+      "lat": 37.902171,
+      "lng": 41.131835
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bayındır Şubesi",
+      "adres": "Mithatpaşa Mah. Fevzi Paşa Cad. No:23/A ",
+      "lat": 38.222044,
+      "lng": 27.646458
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bayraklı Şubesi",
+      "adres": "Çınarlı Mahallesi Ankara Asfaltı Caddesi No:15 İç Kapı No: 2",
+      "lat": 38.44799,
+      "lng": 27.17918
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bayrampaşa Şubesi",
+      "adres": "Yenıdoğan Mahallesı, Abdı İpekçı Cad. No:4D",
+      "lat": 41.035411,
+      "lng": 28.912084
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bayramyeri Şubesi",
+      "adres": "Saraylar Mahallesi Enverpaşa Caddesi Katrancı İşh. No:26/1 ",
+      "lat": 37.782536,
+      "lng": 29.084374
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bebek Şubesi",
+      "adres": "Cevdet Paşa Cad. No:55 Bebek ",
+      "lat": 41.077714,
+      "lng": 29.043719
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bergama Şubesi",
+      "adres": "Ertuğrul Mahallesi Park Otel Sokak No:10 ",
+      "lat": 39.114452,
+      "lng": 27.176678
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Beşevler Sanayi Şubesi",
+      "adres": "Üçevler Mah. Nilüfer Cad. 4 ",
+      "lat": 40.210459,
+      "lng": 28.938925
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Beşiktaş Çarşı Şubesi",
+      "adres": "Cihannuma Mahallesi Salih Efendi Sok. No:7",
+      "lat": 41.043287,
+      "lng": 29.006561
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Beşiktaş Şubesi",
+      "adres": "Sinanpaşa Mah. Ortabahçe Cad. No:2",
+      "lat": 41.042013,
+      "lng": 29.005014
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Beşyüzevler Şubesi",
+      "adres": "Barbaros Hayrettın Paşa Mah. Eskı Edırne Asfaltı Cad.  No:22",
+      "lat": 41.070626,
+      "lng": 28.892175
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Beyazıt Şubesi",
+      "adres": "Mimar Hayrettin Mahallesi Yeniçeriler Caddesi No:29 K:1 Baya",
+      "lat": 41.008557,
+      "lng": 28.968998
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Beykent Şubesi",
+      "adres": "Cumhurıyet Mah.Gürpınar Yolu Beylıkdüzü San.Sıtesı B2 Blok N",
+      "lat": 41.017598,
+      "lng": 28.627393
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Beylikdüzü Şubesi",
+      "adres": "Beylikdüzü Osb Mah. Açelya Cad. No:1/8",
+      "lat": 41.006939,
+      "lng": 28.660087
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Beyoğlu Şubesi",
+      "adres": "Hüseyınağa Mahallesı Hamalbaşı Caddesı No:6/A",
+      "lat": 41.034196,
+      "lng": 28.976619
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Biga Şubesi",
+      "adres": "İstıklal Mahallesı İstıklar Caddesı No:106-108 İç Kapı No:1",
+      "lat": 40.228355,
+      "lng": 27.242584
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bodrum Bitez Şubesi",
+      "adres": "Merkez Mahallesi, Atatürk Bulvarı No: 203/A1-A3  Konacık",
+      "lat": 37.051701,
+      "lng": 27.382443
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bodrum Şubesi",
+      "adres": "Türk Kuyusu Mahallesı, Kıbrıs Şehıtlerı Caddesı, No:65/A-65/",
+      "lat": 37.042041,
+      "lng": 27.429852
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bolu Şubesi",
+      "adres": "Aktaş Mah. İzzet Baysal Cad. Abak İş Merkezı No:118E",
+      "lat": 40.732825,
+      "lng": 31.60935
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bornova Çarşı Şubesi",
+      "adres": "Mustafa Kemal Cad. No: 11-A/B",
+      "lat": 38.465469,
+      "lng": 27.217703
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bornova Şubesi",
+      "adres": "Mansuroğlu Mahallesi 286/4 Sokak No:13A",
+      "lat": 38.45281,
+      "lng": 27.187168
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bostancı E-5 Tekno Şubesi",
+      "adres": "İçerenköy Mah. Değirmen Yolu Cad. No:31/1A",
+      "lat": 40.962323,
+      "lng": 29.108581
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bostancı Şubesi",
+      "adres": "Bostancı Mahallesı, Emın Alı Paşa Cad. No:116 A/14",
+      "lat": 40.957099,
+      "lng": 29.097501
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bostanlı Şubesi",
+      "adres": "Bostanlı Mah. Cemal Gürsel Cad. No:526/B ",
+      "lat": 38.458251,
+      "lng": 27.096079
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bozüyük Şubesi",
+      "adres": "Yeni Mahalle İsmet İnönü Caddesi No:67 ",
+      "lat": 39.905516,
+      "lng": 30.042799
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Buca Şubesi",
+      "adres": "Kozağaç Mah. Uğur Mumcu Caddesi No: 96 ",
+      "lat": 38.382983,
+      "lng": 27.167349
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Burdur Şubesi",
+      "adres": "Özgür Mahallesı, Gazı Caddesı,No:79/A ",
+      "lat": 37.720811,
+      "lng": 30.288721
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bursa Balat Şubesi",
+      "adres": "Ahmet Yesevi Mah. Sanayi Cad. Üründül Plaza Sitesi Üründül P",
+      "lat": 40.189589,
+      "lng": 29.060925
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bursa Organize Sanayi Şubesi",
+      "adres": "Organize San Böl.Ali Osman Sönmez Bulvarı Bankalar Cad.",
+      "lat": 40.249986,
+      "lng": 28.955188
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bursa Serbest Bölge Şubesi",
+      "adres": "Ata Mah. Serbest Bölge Orkide Cad. No:13/1",
+      "lat": 40.36389,
+      "lng": 29.034889
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bursa Şubesi",
+      "adres": "Doğanbey Mah. Fevzi Çakmak Cad. No.52/B ",
+      "lat": 40.189589,
+      "lng": 29.060925
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Bursa Uludağ Şubesi",
+      "adres": "Balatosb Mahallesi Ali Osman Sönmez Bulvarı No:41",
+      "lat": 40.25019,
+      "lng": 28.95459
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Büsan Sanayi Sitesi Şubesi",
+      "adres": "Fevzi Çakmak Mah. Kosgeb Cad. No:1/1 ",
+      "lat": 37.924388,
+      "lng": 32.528367
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Büyükçekmece Şubesi",
+      "adres": "19 Mayıs Mahallesı Nutuk Caddesı No:48A/ No:48A/1",
+      "lat": 41.022861,
+      "lng": 28.580743
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Caddebostan Şubesi",
+      "adres": "Caddebostan Mah.Bağdat Cad. No:265A/1",
+      "lat": 40.969045,
+      "lng": 29.064659
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Cevizli Şubesi",
+      "adres": "Orhantepe Mah.Üsküdar Cad Breeze Tower Apt.No:155 A",
+      "lat": 40.907823,
+      "lng": 29.158932
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ceyhan Şubesi",
+      "adres": "Türlübaş Mahallesi Atatürk Caddesi No:260",
+      "lat": 37.026602,
+      "lng": 35.811656
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Cumhuriyet Caddesi Esenyurt Şubesi",
+      "adres": "Barbaros Hayrettın Paşa Mah. Şehıtler Cad. Beymahall Sıt.  N",
+      "lat": 41.018311,
+      "lng": 28.644239
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çağlayan Şubesi",
+      "adres": "Çağlayan Mahallesı Kağıthane Caddesı No:141 C",
+      "lat": 41.071403,
+      "lng": 28.978578
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çanakkale Şubesi",
+      "adres": "Kemalpaşa Mahallesi Değirmenlik Sokak. No:49 / 1",
+      "lat": 40.147158,
+      "lng": 26.402806
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çankaya Ankara Şubesi",
+      "adres": "Simon Bolivar Cad. No: 17",
+      "lat": 39.892932,
+      "lng": 32.869655
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çankırı Şubesi",
+      "adres": "Yunus Avm, Buğday Pazarı Mah. Çarşamba Pazarı Cad. No:4/B116",
+      "lat": 40.598487,
+      "lng": 33.621382
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çarşı İzmir Şubesi",
+      "adres": "1203/1 Sokak No:7 Yenişehir ",
+      "lat": 38.427881,
+      "lng": 27.165963
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çarşı İzmit Şubesi",
+      "adres": "Karabaş Mahallesı Leyla Atakan Cad No: 27 A/0",
+      "lat": 40.763954,
+      "lng": 29.934507
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çayyolu Şubesi",
+      "adres": "Prof. Dr. Ahmet Taner Kışlalı Mah. S. Saltoğlu Bulvarı  No:3",
+      "lat": 39.873767,
+      "lng": 32.689145
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çekmeköy Şubesi",
+      "adres": "Madenler Mahallesi Serencebey Caddesi No: 58A",
+      "lat": 41.013832,
+      "lng": 29.190151
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çengelköy Şubesi",
+      "adres": "Çengelköy Mah. Çengelköy Caddesi Teb Bankası Blok No:57 İç K",
+      "lat": 41.049058,
+      "lng": 29.054509
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çerkezköy Şubesi",
+      "adres": "Gazi Osman Paşa Mah. Atatürk Cad. No:5-7A",
+      "lat": 41.283605,
+      "lng": 28.000538
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çeşme Şubesi",
+      "adres": "İsmet İnönü Mah.2001 Sokak No:74/A",
+      "lat": 38.325711,
+      "lng": 26.306945
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çınar Şubesi",
+      "adres": "15 Mayıs Mahallesi Gazi Mustafa Kemal Bulvarı No:145/B",
+      "lat": 37.774741,
+      "lng": 29.086768
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çiftehavuzlar Şubesi",
+      "adres": "Bağdat Cad. Aziz Kaya İş Merkezi No:193/A Zemin Kat A Kısım ",
+      "lat": 40.974314,
+      "lng": 29.054694
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çiğli Şubesi",
+      "adres": "Şirintepe Mah. Anadolu Cad. No:778/3A ",
+      "lat": 38.491587,
+      "lng": 27.066189
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çine Şubesi",
+      "adres": "Hamitabat Mah. Mehmet Yavaş Cad. No:83A",
+      "lat": 37.613197,
+      "lng": 28.061537
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çok Uluslu Firmalar Kurumsal Şubesi",
+      "adres": "Kozyatağı Mahallesi Değirmen Sokak Nida Kule A Blok No:18 İç",
+      "lat": 40.974114,
+      "lng": 29.098655
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çorlu Çarşı Şubesi",
+      "adres": "Cemaliye Mahallesi Saray Caddesi No :2",
+      "lat": 41.162218,
+      "lng": 27.799919
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çorlu Şubesi",
+      "adres": "Kazimiye Mah. Salih Omurtak Caddesi No :22 / B",
+      "lat": 41.152411,
+      "lng": 27.832865
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çorum Şubesi",
+      "adres": "Çepni Mah. İnönü Cad. No:4",
+      "lat": 40.548872,
+      "lng": 34.952974
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çukurambar Şubesi",
+      "adres": "Kızılırmak Mah. Ufuk Üniversitesi Caddesi No: 1/A",
+      "lat": 39.909294,
+      "lng": 32.813707
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Çukurova Kurumsal Şubesi",
+      "adres": "Çınarlı Mahallesi Atatürk Caddesi  No: 15 Kat: 1 A Kısım",
+      "lat": 36.992622,
+      "lng": 35.325213
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Darıca Şubesi",
+      "adres": "Kazımkarabekir Mahallesi İstasyon Caddesi No:467/A",
+      "lat": 40.776884,
+      "lng": 29.404348
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Davutpaşa Şubesi",
+      "adres": "Maltepe Mah. Davutpaşa Cad. No :101 Dk: 230-231-232-352 Topk",
+      "lat": 41.020921,
+      "lng": 28.914061
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Değirmendere Trabzon Şubesi",
+      "adres": "Sanayi Mah. Niyazi Sürmen Bul. No:89B",
+      "lat": 40.997956,
+      "lng": 39.751397
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Demetevler Şubesi",
+      "adres": "Demetgül Mah. Prof.Dr.Haydar Baş Cad.Mermer Apt. No:11A",
+      "lat": 39.966283,
+      "lng": 32.792724
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Demirciler Sitesi Şubesi",
+      "adres": "Seyitnizam Mah.  Demirciler Sitesi 2. Cd No: 81",
+      "lat": 41.006827,
+      "lng": 28.900924
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Demirtaş Organize Sanayi Şubesi",
+      "adres": "Demirtaş Dumlu Pınar Osb Mah. Mustafa Karaer Cad. No:18 İç K",
+      "lat": 40.267535,
+      "lng": 29.067644
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Demirtaş Şubesi",
+      "adres": "Panayır Mah. Yeni Yalova Yolu Cad. No. 455/F",
+      "lat": 40.248608,
+      "lng": 29.063516
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Denizli Çivril Şubesi",
+      "adres": "Çatlar Mahallesi Cumhuriyet 6 Cad. Teb Blok No:264/1",
+      "lat": 38.299636,
+      "lng": 29.740221
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Denizli Saraylar Şubesi",
+      "adres": "Saraylar Mahallesi 459 Sokak No:3/1",
+      "lat": 37.783267,
+      "lng": 29.084932
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Denizli Şubesi",
+      "adres": "Saraylar Mah. İzmir Yolu Bulvarı No: 57 ",
+      "lat": 37.787204,
+      "lng": 29.088833
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Develi Şubesi",
+      "adres": "İbrahimağa Mahallesi Cumhuriyet Caddesi Belediye İş Merkezi ",
+      "lat": 38.388117,
+      "lng": 35.492367
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Diclekent Şubesi",
+      "adres": "Medya Mah. Mahabad Bul. No:18Bf",
+      "lat": 37.916254,
+      "lng": 40.217702
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Didim Şubesi",
+      "adres": "Efeler Mah. Atatürk Bul. No:111 A",
+      "lat": 37.372593,
+      "lng": 27.266547
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Dikmen Şubesi",
+      "adres": "Ş.Mevlüt Meriç Mahallesi Dikmen Cad.  No: 260/15 Dikmen",
+      "lat": 39.879866,
+      "lng": 32.838453
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Diyarbakır Kayapınar Şubesi",
+      "adres": "Selahattin Eyyubi Mahallesi Turgut Özal Bul. No:80Bb",
+      "lat": 37.933052,
+      "lng": 40.196743
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Diyarbakır Şubesi",
+      "adres": "Fırat Mah. Mahabad Bulvarı Mega Arslan Cadde-75 Sitesi B Blo",
+      "lat": 37.926671,
+      "lng": 40.151965
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Dokuz Eylül Üniversitesi Şubesi",
+      "adres": "Korutürk Mahallesi Mithatpaşa Caddesi No:285/1E",
+      "lat": 38.393692,
+      "lng": 27.03226
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Dudullu Şubesi",
+      "adres": "Necip Fazıl Bulvarı No: 7-9 ",
+      "lat": 41.014911,
+      "lng": 29.164221
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Düzce Şubesi",
+      "adres": "Camıkebır Mahallesı, 659.Bulvar No:8A",
+      "lat": 40.839316,
+      "lng": 31.158698
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Edirne Şubesi",
+      "adres": "Mithatpaşa Mah. Atatürk Bulvarı Teb Bankası Blok No:347 İç K",
+      "lat": 41.676743,
+      "lng": 26.551323
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Edremit Şubesi",
+      "adres": "Camivasat Mah.Menderes Bulvarı. No:11/2",
+      "lat": 39.59318,
+      "lng": 27.020453
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ege Kurumsal Şubesi",
+      "adres": "Cumhuriyet Bulvarı 66 Kat:2 ",
+      "lat": 38.423962,
+      "lng": 27.132075
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ege Üniversitesi Kampüsü Şubesi",
+      "adres": "Erzene Mah. Ankara Cad. Ege Ünıversıtesı D-Zıraat Fakültesı ",
+      "lat": 38.455068,
+      "lng": 27.226734
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ege Üniversitesi Şubesi",
+      "adres": "Kazım Dırık Mahallesı Ünıversıte Caddesı No:9/47A",
+      "lat": 38.456176,
+      "lng": 27.211706
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Elazığ Harput Şubesi",
+      "adres": "Nailbey Mahallesi Vali Fahribey Caddesi No:37B  İç Kapı No:0",
+      "lat": 38.673979,
+      "lng": 39.222242
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Elazığ Şubesi",
+      "adres": "Hürrıyet Cad. Mehmet Arslan İş Merkezı No:35/A",
+      "lat": 38.674551,
+      "lng": 39.226026
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Eminönü Şubesi",
+      "adres": "Hobyar Mahallesı Vakıf Hanı Sokak No:8 ",
+      "lat": 41.015643,
+      "lng": 28.971931
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Emirdağ Şubesi",
+      "adres": "Yenıdoğan Mahallesı Şehıt Er. Yüksel Yeşıldağ Caddesı No: 4 ",
+      "lat": 39.018813,
+      "lng": 31.150541
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Erdemli Şubesi",
+      "adres": "Merkez Mah. Alparslan Türkeş Bulvarı No: 561A",
+      "lat": 36.605519,
+      "lng": 34.309464
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Erenköy Şubesi",
+      "adres": "Caddebostan Mahallesı, Ethem Efendı Cad. No:13/1",
+      "lat": 40.967462,
+      "lng": 29.070709
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Erenler Sanayi Şubesi",
+      "adres": "Erenler Mah. Sakarya Cad. No.306/A ",
+      "lat": 40.750601,
+      "lng": 30.414682
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Erzincan Şubesi",
+      "adres": "Atatürk Mah. Nermi Tombul Cad. No:12B",
+      "lat": 39.747235,
+      "lng": 39.492685
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Erzurum Şubesi",
+      "adres": "Kazım Karabekir Paşa Mah. Orhan Şerifsoy Cad. Özlem İş Merke",
+      "lat": 39.912851,
+      "lng": 41.271719
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Esenler Şubesi",
+      "adres": "Menderes Mah.Atışalanı Cad.No:15 ",
+      "lat": 41.040002,
+      "lng": 28.881553
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Esenyurt Şubesi",
+      "adres": "Sultaniye Mah. Doğan Araslı Bul. Şelale Plaza Blok No:124C",
+      "lat": 41.028867,
+      "lng": 28.683673
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Eskişehir Anadolu Üniversitesi Şubesi",
+      "adres": "Yenibağlar Mah.İsmet İnönü-1 Bulvarı A Blok No:136 İç Kapı N",
+      "lat": 39.785452,
+      "lng": 30.501373
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Eskişehir İki Eylül Caddesi Şubesi",
+      "adres": "İstıklal Mah. İkı Eylül Cad.No: 50/B",
+      "lat": 39.772572,
+      "lng": 30.517202
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Eskişehir Osmangazi Üniversitesi Şubesi",
+      "adres": "Vişnelik Mahallesi Vali Ali Fuat Güven Caddesi No:41B",
+      "lat": 39.768478,
+      "lng": 30.501612
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Eskişehir Sanayi Şubesi",
+      "adres": "75. Yıl (Sultandere) Mah. 1.Cadde (Küçük Org. Sanayi) Cad. N",
+      "lat": 39.739226,
+      "lng": 30.627979
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Eskişehir Şubesi",
+      "adres": "İstıklal Mahallesı, İkı Eylül Caddesı No: 2/1",
+      "lat": 39.775178,
+      "lng": 30.517851
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Etiler Şubesi",
+      "adres": "Etıler Mahallesı Nısbetıye Cad. No:97 Kat:1",
+      "lat": 41.080938,
+      "lng": 29.034658
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Etimesgut Şubesi",
+      "adres": "İstasyon Mah. İstasyon Cad. Tüzün Sok. No:8/7",
+      "lat": 39.947979,
+      "lng": 32.666869
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Fatih Karagümrük Şubesi",
+      "adres": "Derviş Ali Mah. Fevzipaşa Cad.No:150 İç Kapı No:1",
+      "lat": 41.02577,
+      "lng": 28.94034
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Fatsa Şubesi",
+      "adres": "Mustafa Kemal Paşa Mah. Reşadiye Cad. No.14/A",
+      "lat": 41.030528,
+      "lng": 37.500164
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Fethiye Likya Şubesi",
+      "adres": "Taşyaka Mah. İnönü Bul. No:4  4/A - 4/B",
+      "lat": 36.621575,
+      "lng": 29.121186
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Fethiye Şubesi",
+      "adres": "Cumhuriyet Mahallesi Çarşı Caddesi No:25 ",
+      "lat": 36.621207,
+      "lng": 29.109358
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Fındıkzade Şubesi",
+      "adres": "Haseki Sultan Mahallesi Kızılelma Caddesi No:15",
+      "lat": 41.011275,
+      "lng": 28.938729
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Florya Şubesi",
+      "adres": "Şenlik Mah. Florya Asfaltı No:86 Zemin Kat Kısım A Florya",
+      "lat": 40.985831,
+      "lng": 28.796639
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Gayrettepe Şubesi",
+      "adres": "Gayrettepe Mah., Yener Sok., No:1 ",
+      "lat": 41.063061,
+      "lng": 29.010881
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Gaziantep Şubesi",
+      "adres": "Değirmiçem Mahallesi Kıbrıs Caddesi Zeugma İş Merkezi No:2A",
+      "lat": 37.068992,
+      "lng": 37.373131
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Gaziemir Şubesi",
+      "adres": "Akçay Cad. No:169/A ",
+      "lat": 38.327393,
+      "lng": 27.136591
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Gaziosmanpaşa Ankara Şubesi",
+      "adres": "Uğur Mumcu Cad. No:76/A Gaziosmanpaşa",
+      "lat": 39.894521,
+      "lng": 32.877922
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Gaziosmanpaşa İstanbul Şubesi",
+      "adres": "Merkez Mahallesi Eyüp Yolu No :4 ",
+      "lat": 41.057104,
+      "lng": 28.914196
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Gebze Çarşı Şubesi",
+      "adres": "Hacı Halil Mah.Cumhuriyet Meydanı No:3/2 ",
+      "lat": 40.798204,
+      "lng": 29.432989
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Gebze E5 Şubesi",
+      "adres": "Osman Yılmaz Mahallesi İstanbul Caddesi No:74/A",
+      "lat": 40.792645,
+      "lng": 29.428261
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Gebze Organize Sanayi Bölgesi Şubesi",
+      "adres": "Gebze Organize Sanayi Bölgesi, Bankalar Ve Çarşı Merkezi, 16",
+      "lat": 40.84773,
+      "lng": 29.425024
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Gebze Şubesi",
+      "adres": "Hacıhalil Mahallesi Cumhuriyet Caddesi No:14B",
+      "lat": 40.7992,
+      "lng": 29.4348
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Gemlik Şubesi",
+      "adres": "Hamidiye Mahallesi, İstiklal Caddesi, No: 31",
+      "lat": 40.430067,
+      "lng": 29.156057
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Gimat Şubesi",
+      "adres": "Mehmet Emin Erdoğan İşmerkezi Macun Mah. Bağdat Cad.No.93/25",
+      "lat": 39.961141,
+      "lng": 32.769845
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Giresun Şubesi",
+      "adres": "Şeyhkeramettin Mahallesi Gazi Caddesi No:2",
+      "lat": 40.917406,
+      "lng": 38.384834
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Girne Bulvarı Şubesi",
+      "adres": "Bahrıye Üçok Mahallesı Atatürk Bulvarı No:56/B",
+      "lat": 38.463058,
+      "lng": 27.109098
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Göktürk Şubesi",
+      "adres": "Göktürk Merkez Mah. İstanbul Cad. No:30-32",
+      "lat": 41.178573,
+      "lng": 28.884462
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Gölcük Şubesi",
+      "adres": "Amiral Sağlam Cad. No:12/B ",
+      "lat": 40.719784,
+      "lng": 29.820754
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Gönen Şubesi",
+      "adres": "Akçaali Mah. Atatürk Cad.No:27 ",
+      "lat": 40.106612,
+      "lng": 27.650351
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Göztepe İstanbul Şubesi",
+      "adres": "Göztepe Mahallesi Tütüncü Mehmet Efendi Cad. No: 93/A",
+      "lat": 40.979705,
+      "lng": 29.06709
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Gündoğdu Şubesi",
+      "adres": "Kültür Mahallesi Plevne Bulvarı Dr. Rıfat Bey Apartmanı Zemi",
+      "lat": 38.434698,
+      "lng": 27.140627
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Güneşli Çarşı Şubesi",
+      "adres": "Hürrıyet Mahallesı Atatürk Caddesı No:3-5C",
+      "lat": 41.031026,
+      "lng": 28.827166
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Güneşli Şubesi",
+      "adres": "15 Temmuz Mahallesi Koçman Caddesi No:36B",
+      "lat": 41.031423,
+      "lng": 28.818897
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Güneydoğu Anadolu Kurumsal Şubesi",
+      "adres": "Kayaönü Mah. 42146 No.Lu Cad. Koluman No:3 İç Kapı No:35",
+      "lat": 37.07555,
+      "lng": 37.366702
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Güngören Sanayi Şubesi",
+      "adres": "Sanayi Mahallesi Atatürk Cad. Real Merter Sit. No:51 /3/42",
+      "lat": 41.021256,
+      "lng": 28.880158
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Gürsu Şubesi",
+      "adres": "Zafer Mah. Şehit Cüneyt Yıldız Cad. No:11/A",
+      "lat": 40.218841,
+      "lng": 29.188301
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Hadımköy Şubesi",
+      "adres": "Akçaburgaz Mahallesı , Hadımköy Yolu Cad No:184 A/3",
+      "lat": 41.077073,
+      "lng": 28.624801
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Hasanpaşa Şubesi",
+      "adres": "Kurbağalıdere Cad. No:25 Söğütlüçeşme ",
+      "lat": 40.993488,
+      "lng": 29.035797
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Hatay İzmir Şubesi",
+      "adres": "İnönü Cad. No:229/B ",
+      "lat": 38.402152,
+      "lng": 27.11359
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Haznedar Bahçelievler Şubesi",
+      "adres": "Bahçelievler Mahallesi Naci Kasım Sokak No:2/1A",
+      "lat": 41.005853,
+      "lng": 28.870468
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Heykel Şubesi",
+      "adres": "Tuzpazarı Mah. Cumhuriyet Caddesi Teb No:114 İç Kapı No:1",
+      "lat": 40.185636,
+      "lng": 29.066541
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Iğdır Şubesi",
+      "adres": "Bağlar Mahallesi, İbrahim Bozyel Caddesi, No: 4/A",
+      "lat": 39.922397,
+      "lng": 44.044041
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ihlamurkuyu Şubesi",
+      "adres": "Ihlamurkuyu Mah. Alemdar Cad. No:249/A",
+      "lat": 41.018377,
+      "lng": 29.133196
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Isparta Demiralay Şubesi",
+      "adres": "Davraz Mah. 104. Cadde No:74 / 1 İç Kapı No:1",
+      "lat": 37.790544,
+      "lng": 30.573276
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Isparta Şubesi",
+      "adres": "Kutlubey Mahallesı 106 Cadde Halısarayı Apt G Blok Dış Kapı ",
+      "lat": 37.767238,
+      "lng": 30.554285
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İbrahimli Şubesi",
+      "adres": "Pancarlı Mah. Abdulkadir Aksu Bul. Lotus Sitesi B Blok No:10",
+      "lat": 37.071395,
+      "lng": 37.340101
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İçerenköy Şubesi",
+      "adres": "İçerenköy Mah. Çayır Cad. Özge Center İş Merkezı   No:3A/1",
+      "lat": 40.976427,
+      "lng": 29.103001
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İkitelli Organize Sanayi Şubesi",
+      "adres": "İkitelli Osb Mah.Bağcılar-Güngören Metro Avm B Blok Sok. Dış",
+      "lat": 41.076341,
+      "lng": 28.798927
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İkitelli Şubesi",
+      "adres": "İkitelli Osb Mahllesi Atatürk Bulvarı Dışkapı No :52",
+      "lat": 41.071558,
+      "lng": 28.810712
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İlkadım Şubesi",
+      "adres": "Hançerlı Mah. Çıfte Hamam Caddesı N O:2",
+      "lat": 41.296086,
+      "lng": 36.332625
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İmes Sanayi Sitesi Şubesi",
+      "adres": "Dudullu Osb Mah. 1 Cadde No:17",
+      "lat": 40.997495,
+      "lng": 29.175181
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İmsan Şubesi",
+      "adres": "İkitelli Cd.İmsan Küçük San.Sit. E Blok No.10 İkitelli",
+      "lat": 41.062095,
+      "lng": 28.787981
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İnegöl Şubesi",
+      "adres": "Sinanbey Mah.Nuri Doğrul Cad. No :19 ",
+      "lat": 40.079317,
+      "lng": 29.511675
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İnönü Caddesi Malatya Şubesi",
+      "adres": "İnönü Mah. Çevre Sk. Malatya Life Sitesi G No:4/9 İç Kapı No",
+      "lat": 38.350706,
+      "lng": 38.298726
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İskenderun Şubesi",
+      "adres": "Çay Mahallesi Ulu Camii Caddesi No:108/3",
+      "lat": 36.591561,
+      "lng": 36.172161
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İstanbul Anadolu Kurumsal Şubesi",
+      "adres": "Esentepe Mahallesi Cevizli D-100 Güney Yanyol Caddesi Dumank",
+      "lat": 40.909723,
+      "lng": 29.199343
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İstanbul Kurumsal Şubesi",
+      "adres": "Gayrettepe Mahallesi Yener Sokak No:1 Kat:1/A",
+      "lat": 41.063054,
+      "lng": 29.010847
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İstanbul Ulus Şubesi",
+      "adres": "Nispetiye Mahallesi Ahmet Adnan Saygun Caddesi No:22D",
+      "lat": 41.072282,
+      "lng": 29.028635
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İstoç Şubesi",
+      "adres": "Mahmutbey Mah. 2434.Sokak Aslan Plaza Blok No:132A",
+      "lat": 41.066088,
+      "lng": 28.820704
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İvedik Şubesi",
+      "adres": "İvedik Org.San.Sit. Melih Gökçek Bulvarı Halk Yapı Koop. No:",
+      "lat": 39.989717,
+      "lng": 32.739331
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İzmir 1. Sanayi Şubesi",
+      "adres": "Mersinli Mahallesi  2822 Sokak No: 63 ",
+      "lat": 38.43109,
+      "lng": 27.17606
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İzmir Çankaya Şubesi",
+      "adres": "Fevzipaşa Bulvarı No:59/A-B Çankaya",
+      "lat": 38.422587,
+      "lng": 27.136338
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İzmir Göztepe Şubesi",
+      "adres": "Göztepe Mahallesi Mithatpaşa Caddesi Bulvar Apt. No:984 A",
+      "lat": 38.398227,
+      "lng": 27.08913
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İzmir Şubesi",
+      "adres": "Akdenız Mahallesı,Cumhurıyet Bulvarı, No 86/A,",
+      "lat": 38.425171,
+      "lng": 27.132574
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "İzmit Şubesi",
+      "adres": "Körfez Mah.Ankara Yolu No:123/3 ",
+      "lat": 40.762916,
+      "lng": 29.943607
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kadıköy Çarşı Şubesi",
+      "adres": "Caferağa Mah.Müdürdar Cad No:22",
+      "lat": 40.990303,
+      "lng": 29.024429
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kadirli Şubesi",
+      "adres": "Savrun Mahallesi Atatürk Caddesı No:46 ",
+      "lat": 37.370057,
+      "lng": 36.097876
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kağıthane Şubesi",
+      "adres": "Merkez Mahallesi Bağlar Cad. No:2D",
+      "lat": 41.081131,
+      "lng": 28.973053
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kahramanmaraş Çarşı Şubesi",
+      "adres": "Menderes Mah. Trabzon Bulvarı No:53/D ",
+      "lat": 37.576176,
+      "lng": 36.932338
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kahramanmaraş Şubesi",
+      "adres": "Şazibey Mahallesi, 6.Toptancılar Caddesi, No:21B",
+      "lat": 37.581377,
+      "lng": 36.927181
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kalamış Şubesi",
+      "adres": "Faruk Ayanoğlu Cad. Barış Apt. 19/1-2 Fenerbahçe",
+      "lat": 40.974182,
+      "lng": 29.046063
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Karabağlar Şubesi",
+      "adres": "Aşık Veysel Mah. Yeşillik Cad. No: 437-441/B",
+      "lat": 38.372911,
+      "lng": 27.135402
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Karabük Şubesi",
+      "adres": "Bayır Mahallesı, Menderes Caddesı, No:2/B",
+      "lat": 41.195113,
+      "lng": 32.617551
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Karacabey Şubesi",
+      "adres": "Tavşanlı Mahallesi Bursa Caddesi Necmi Akkuş Sitesi No:31A/5",
+      "lat": 40.214393,
+      "lng": 28.358467
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Karacadağ Şubesi",
+      "adres": "Bağcılar Mahallesi Urfa Bulvarı No:193 A",
+      "lat": 37.92009,
+      "lng": 40.143649
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Karadeniz Ereğli Şubesi",
+      "adres": "Orhanlar Mahallesi Yalı Cad. No:38",
+      "lat": 41.28067,
+      "lng": 31.419315
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Karaköy Şubesi",
+      "adres": "Kemankeş Karamustafa Mah  Necatıbey Cd Hacı Mahmut İş Merkez",
+      "lat": 41.025125,
+      "lng": 28.978398
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Karaman Şubesi",
+      "adres": "Mansurdede Mah  Atatürk Bulvarı No:24 D-E-F",
+      "lat": 37.181613,
+      "lng": 33.215344
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kars Şubesi",
+      "adres": "Merkez Mahallesı, Kazım Paşa Cad. No:66 ",
+      "lat": 40.607639,
+      "lng": 43.096215
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Karşıyaka Şubesi",
+      "adres": "Cemal Gürsel Cad. No: 200/A ",
+      "lat": 38.455831,
+      "lng": 27.120433
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kartal Çarşı Şubesi",
+      "adres": "Ankara Cad. Şimşek Han No: 82 Zemin Kat",
+      "lat": 40.888423,
+      "lng": 29.189112
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Karya Bodrum Şubesi",
+      "adres": "Kıbrıs Şehitleri Cad.Emniyet Müdürlüğü Yanı - Ataman İş Merk",
+      "lat": 37.041448,
+      "lng": 27.436713
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kastamonu Şubesi",
+      "adres": "Cebrail Mahallesi Plevne Caddesi No:52 A - B",
+      "lat": 41.380051,
+      "lng": 33.778806
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kavacık Şubesi",
+      "adres": "Rüzgarlıbahçe Mah. Cumhuriyet Cd. No :12",
+      "lat": 41.094929,
+      "lng": 29.098739
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kaynarca Şubesi",
+      "adres": "Fevzi Çakmak Mah. Tevfık İleri Cad. No:111",
+      "lat": 40.878112,
+      "lng": 29.262266
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kayseri Eski Sanayi Şubesi",
+      "adres": "Sanayı Mah. Osman Kavuncu Blv.No:90",
+      "lat": 38.723223,
+      "lng": 35.472879
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kayseri Osb Şubesi",
+      "adres": "Anbar Mahallesi 14. Cadde No:20 Zemin Kat",
+      "lat": 38.753186,
+      "lng": 35.370754
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kayseri Şubesi",
+      "adres": "Cumhurıyet Mahallesı Turan Cad No:3",
+      "lat": 38.718913,
+      "lng": 35.489004
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kazasker Şubesi",
+      "adres": "Şemsettin Günaltay Cad. No:109/A Erenköy ",
+      "lat": 40.966815,
+      "lng": 29.086581
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Keçiören Şubesi",
+      "adres": "Güçlükaya Mah. Kızlar Pınarı Cad. Dr. Nedım Gülkaya Apt.Blok",
+      "lat": 39.985339,
+      "lng": 32.875154
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kemalpaşa Şubesi",
+      "adres": "Mehmet Akif Ersoy Mahallesi, Atatürk Blv. No:51/1A",
+      "lat": 38.426796,
+      "lng": 27.41987
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kemer Şubesi",
+      "adres": "Yeni Mahalle Dörtyol Bulvarı No:25/B ",
+      "lat": 36.600645,
+      "lng": 30.553929
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kepez Şubesi",
+      "adres": "Teomanpaşa Mah. Yeşilırmak Cad. 34/2 ",
+      "lat": 36.919975,
+      "lng": 30.715219
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kestel Şubesi",
+      "adres": "Ahmet Vefik Paşa Mah. Gazi Cad. No: 6/A",
+      "lat": 40.197908,
+      "lng": 29.211872
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Keşan Şubesi",
+      "adres": "Büyük Cami Mah. Cumhuriyet Meydanı No: 8",
+      "lat": 40.854421,
+      "lng": 26.630535
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kıraç Şubesi",
+      "adres": "Çakmaklı Mah.Hadımköy Yolu Cad. Ufuk Plaza No:57B",
+      "lat": 41.041486,
+      "lng": 28.626614
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kırıkkale Şubesi",
+      "adres": "Yenidoğan Mah.Cumhuriyet Cad.No:8/A ",
+      "lat": 39.841167,
+      "lng": 33.506536
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kırklareli Şubesi",
+      "adres": "Karakaş Mah. 100.Yıl Cad. Gençoğlu Apt. Sitesi No:10C",
+      "lat": 41.736109,
+      "lng": 27.219055
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kırşehir Şubesi",
+      "adres": "Medrese Mahallesi M.Kemal Hotamaroğlu Sok.No:2",
+      "lat": 39.145157,
+      "lng": 34.162073
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kızılay Şubesi",
+      "adres": "Gazi Mustafa Kemal Bulvarı No:7/A Kızılay",
+      "lat": 39.921189,
+      "lng": 32.852321
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kocasinan Kayseri Şubesi",
+      "adres": "Sahabiye Mah. Ahmet Paşa Cad. No: 31-B No: 31-B-31-C- 31-D- ",
+      "lat": 38.724623,
+      "lng": 35.490801
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Konya Ereğli Şubesi",
+      "adres": "Selçuklu Mahallesi Atatürk Caddesi Necip Pala Apt. Sit. No:4",
+      "lat": 37.511406,
+      "lng": 34.05045
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Konya Şubesi",
+      "adres": "Musalla Bağları Mah. Ahmet Hilmi Nalçacı Cad. Cengizhan No:1",
+      "lat": 37.892938,
+      "lng": 32.498391
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Konyaaltı Şubesi",
+      "adres": "Bahçelievler Mahallesi Konyaaltı Caddesi Sıtkı Göksoy Apt No",
+      "lat": 36.885273,
+      "lng": 30.690781
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Koşuyolu Şubesi",
+      "adres": "Koşuyolu Mahallesı, Koşuyolu Cad. No:72 A",
+      "lat": 41.009769,
+      "lng": 29.037069
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kozyatağı Şubesi",
+      "adres": "Sahrayıcedıt Mah. Atatürk Cad. No:67/A",
+      "lat": 40.981164,
+      "lng": 29.090979
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Körfez Şubesi",
+      "adres": "Kuzey Mahallesi Cahit Zarifoğlu Caddesi No:53/B",
+      "lat": 40.759994,
+      "lng": 29.790706
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kumluca Şubesi",
+      "adres": "Merkez Mahallesi Gödene Caddesi No: 18 ",
+      "lat": 36.368033,
+      "lng": 30.286236
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kurtköy Şubesi",
+      "adres": "Şeyhli Mahallesi Ankara Caddesi No:217 A ",
+      "lat": 40.906011,
+      "lng": 29.286671
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kuşadası Şubesi",
+      "adres": "Türkmen Mah. İsmet İnönü Bulvarı Teb No:37",
+      "lat": 37.860927,
+      "lng": 27.260841
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kuyubaşı Şubesi",
+      "adres": "Fahrettin Kerim Gökay Cad. No.122/1 Zemin Kat A Kısım Göztep",
+      "lat": 40.984539,
+      "lng": 29.05403
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kuyumcukent Şubesi",
+      "adres": "Yenibosna Merkez Mahallesi Kuyumcukent Sk. Kuyumcukent No:4 ",
+      "lat": 41.003804,
+      "lng": 28.818823
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Küçükbakkalköy Şubesi",
+      "adres": "Küçükbakkalköy Mah. Serdar Sok. No:1 D:3 ",
+      "lat": 40.978338,
+      "lng": 29.121853
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Küçüksu Şubesi",
+      "adres": "İnkılap Mah. Küçüksu Cad. Oryapark Sitesi C Blok No:60/1B ",
+      "lat": 41.031901,
+      "lng": 29.109587
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Kütahya Şubesi",
+      "adres": "Gazi Kemal Mahallesi Cumhuriyet Caddesi No:77/B",
+      "lat": 39.418964,
+      "lng": 29.981851
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Laleli Şubesi",
+      "adres": "Mimar Kemalettin Mahallesi Mesih Paşa Cad. No:54 Daire : 1 L",
+      "lat": 41.008097,
+      "lng": 28.957611
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Lara Şubesi",
+      "adres": "Yeşilbahçe Mahallesi Metin Kasapoğlu Caddesi Armada Apt. Sit",
+      "lat": 36.868098,
+      "lng": 30.722779
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Levent Çarşı Şubesi",
+      "adres": "Çarşı Cad. No: 22 1.Levent ",
+      "lat": 41.076031,
+      "lng": 29.016082
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Lüleburgaz Şubesi",
+      "adres": "Yeni Mahallesi Emrullah Efendi Caddesi No: 8A",
+      "lat": 41.406266,
+      "lng": 27.354713
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Maçka Şubesi",
+      "adres": "Harbiye Mah. Kadırgalar Cad. No:13A ",
+      "lat": 41.049274,
+      "lng": 28.991637
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Malatya Çarşı Şubesi",
+      "adres": "Büyük Hüseyin Bey Mahallesi Atatürk Caddesi No:63A",
+      "lat": 38.348919,
+      "lng": 38.323679
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Malatya Şubesi",
+      "adres": "Niyazi Mahallesi Çevre Yolu Sokak (Buhara Bulvarı) Cad. No:1",
+      "lat": 38.350506,
+      "lng": 38.308638
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Malkara Şubesi",
+      "adres": "Cami Atik Mahallesi Hürriyet Caddesi No:23A",
+      "lat": 40.892178,
+      "lng": 26.903012
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Maltepe E-5 Şubesi",
+      "adres": "Altayçeşme Mahallesı Çam Sokak No:25A",
+      "lat": 40.938924,
+      "lng": 29.134425
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Maltepe İstanbul Şubesi",
+      "adres": "Bağlarbaşı Mah. İnönü Cad. Halil Yılmaz İş Merkezi No:11A",
+      "lat": 40.922009,
+      "lng": 29.134326
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Manavgat Sanayi Şubesi",
+      "adres": "Aşağı Pazarcı Mah. Zübeyde Hanım Cad. No: 19/Z01",
+      "lat": 36.784276,
+      "lng": 31.456885
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Manavgat Şubesi",
+      "adres": "Eski Hisar Mahallesi Demokrasi Bulvarı Öğrekçi Plaza No: 73/",
+      "lat": 36.779958,
+      "lng": 31.437919
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Manavkuyu Şubesi",
+      "adres": "Adalet Mah. Manas Bulvarı No: 20/A ",
+      "lat": 38.452039,
+      "lng": 27.178921
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Manisa Sanayi Şubesi",
+      "adres": "75. Yıl Mahallesi Bahri Sarıtepe Caddesi No:53/A",
+      "lat": 38.616992,
+      "lng": 27.381891
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Manisa Şubesi",
+      "adres": "1. Anafartalar Mahallesi Mustafa Kemal Paşa Caddesi No : 40/",
+      "lat": 38.614087,
+      "lng": 27.430607
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Mardin Şubesi",
+      "adres": "13 Mart Mahallesı Valı Ozan Cad. 82/B",
+      "lat": 37.325449,
+      "lng": 40.717803
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Marmara Kurumsal Şubesi",
+      "adres": "23 Nisan Mahallesi, 75.Yıl Caddesi, No:5A/15 Durmazlar İş Me",
+      "lat": 40.221705,
+      "lng": 28.95011
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Marmaris Şubesi",
+      "adres": "Tepe Mah. Ulusal Egemenlik Cad. No:24 ",
+      "lat": 36.857081,
+      "lng": 28.270955
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Maslak Sanayi Şubesi",
+      "adres": "Maslak Mah. Büyükdere Cad. Nurol Plaza Sitesi No:255 İç Kapı",
+      "lat": 41.114354,
+      "lng": 29.023402
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Maslak Şubesi",
+      "adres": "Reşitpaşa Mahallesi Büyükdere Caddesi Park Plaza Blok No:223",
+      "lat": 41.108098,
+      "lng": 29.018125
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Mecidiyeköy Şubesi",
+      "adres": "Gayrettepe Mah. Yener Sk. Türk Ekonomi Bankası No:1 İç Kapı ",
+      "lat": 41.066969,
+      "lng": 29.002561
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Mega Center Şubesi",
+      "adres": "Kocatepe Mahallesı Yağ İskelesı Caddesı Mega Center No:51 Bl",
+      "lat": 41.053217,
+      "lng": 28.892213
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Menemen Şubesi",
+      "adres": "Mermerli Mahallesi  Mithatpaşa Caddesi No : 55",
+      "lat": 38.609879,
+      "lng": 27.069812
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Mersin Çamlıbel Şubesi",
+      "adres": "Kültür Mah. Atatürk 8 Cad. Teb Çamlıbel Şubesi Blok No:62A",
+      "lat": 36.790959,
+      "lng": 34.622576
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Mersin Liman Şubesi",
+      "adres": "Cami Şerif Mahallesi, İsmet İnönü Bulvarı, Anadolu Hayat Sig",
+      "lat": 36.798541,
+      "lng": 34.632029
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Mersin Pozcu Şubesi",
+      "adres": "İnönü Mah. Gazi Mustafa Kemal Bul. Emel Sitesi C Blk. Blok N",
+      "lat": 36.781957,
+      "lng": 34.591696
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Mersin Şubesi",
+      "adres": "Camişerif Mahallesi İsmet İnönü Bulvarı No:94A",
+      "lat": 36.79863,
+      "lng": 34.632053
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Mersin Toptancılar Sitesi Şubesi",
+      "adres": "Mersin Toptancılar Sitesi(Mertoç) Hal Mah.Turgut Özal Bulvar",
+      "lat": 36.824097,
+      "lng": 34.655245
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Merter Şubesi",
+      "adres": "Mehmet Nesih Özmen Mahallesi Fatih Cad. No:21 A",
+      "lat": 41.012104,
+      "lng": 28.883935
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Merzifon Şubesi",
+      "adres": "Hoca Süleyman Mah. Yokuşbaşı Caddesı No:13",
+      "lat": 40.873201,
+      "lng": 35.463938
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Metropol Mersin Şubesi",
+      "adres": "Mesudıye Mahallesı Kuvayı Mıllıye Cad. No: 84/B",
+      "lat": 36.803822,
+      "lng": 34.624432
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Mevlana Şubesi",
+      "adres": "Azızıye Mahallesı, Mevlana Caddesı, No:63 D:1",
+      "lat": 37.871434,
+      "lng": 32.502166
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Mezitli Şubesi",
+      "adres": "Menderes Mahallesi Gazi Mustafa Kemal Blv. Doğaner Yapı Koop",
+      "lat": 36.749056,
+      "lng": 34.530089
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Milas Şubesi",
+      "adres": "Hacıilyas Mahallesi Menteşe Caddesi Özler İş Hanı Karşısı No",
+      "lat": 37.314344,
+      "lng": 27.778189
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Muğla Şubesi",
+      "adres": "Şeyh Mahallesi İsmet İnönü Caddesi No:17/1",
+      "lat": 37.215269,
+      "lng": 28.365042
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Mut Şubesi",
+      "adres": "Doğancı Mahallesi Atatürk Blv. No:48 A-B",
+      "lat": 36.643187,
+      "lng": 33.439292
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Narlıdere Şubesi",
+      "adres": "Çamtepe Mah. Mithatpaşa Cad. No: 277-279 ",
+      "lat": 38.394171,
+      "lng": 27.007911
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Nato Yolu Şubesi",
+      "adres": "Tuzluçayır Mahallesi Nato Yolu Caddesi 294. Sokak No:1/A",
+      "lat": 39.918449,
+      "lng": 32.910738
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Nazilli Şubesi",
+      "adres": "Altıntaş Mah. 129 Sok. No:2 ",
+      "lat": 37.917208,
+      "lng": 28.325633
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Necatibey Şubesi",
+      "adres": "Kızılay Mahallesı Necatıbey Cad Günay Apt. No:25 B",
+      "lat": 39.924367,
+      "lng": 32.851029
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Nevşehir Şubesi",
+      "adres": "Karasoku Mah. Atatürk Caddesi No:16/B ",
+      "lat": 38.624712,
+      "lng": 34.713747
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Niğde Şubesi",
+      "adres": "İnönü Mah. Ayhan Şahenk Bul. No:15 İç Kapı No: A ",
+      "lat": 37.970973,
+      "lng": 34.677253
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Nilüfer Şubesi",
+      "adres": "İhsaniye Mah. İzmir Yolu Cad. No:118 A ",
+      "lat": 40.211849,
+      "lng": 28.98123
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Nuruosmaniye Şubesi",
+      "adres": "Alemdar Mah. Nuruosmanıye Cad No:12/1",
+      "lat": 41.010394,
+      "lng": 28.974641
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ordu Şubesi",
+      "adres": "Şarkiye Mah.Süleyman Felek Cad. No:93/C",
+      "lat": 40.983811,
+      "lng": 37.881354
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ortaklar Caddesi Şubesi",
+      "adres": "Büyükdere Cad. 60/A Mecidiyeköy",
+      "lat": 41.066332,
+      "lng": 28.996421
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ortaköy Şubesi",
+      "adres": "Yıldız Mah.Çırağan Cad. No:97 Ortaköy",
+      "lat": 41.048186,
+      "lng": 29.024401
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Osmanbey Şubesi",
+      "adres": "Cumhurıyet Mah. Halaskargazı Cad. No: 103B",
+      "lat": 41.053985,
+      "lng": 28.986996
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Osmaniye Şubesi",
+      "adres": "Alibeyli Mah. Dr.Ahmet Alkan Cad.No:17/A ",
+      "lat": 37.073621,
+      "lng": 36.247914
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ostim Şubesi",
+      "adres": "Ostım Sanayı Sıtesı 100.Yıl Bulvarı No:9 ",
+      "lat": 39.965384,
+      "lng": 32.747119
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ödemiş Şubesi",
+      "adres": "Akıncılar Mahallesi Gazi Caddesi No: 32/1",
+      "lat": 38.230058,
+      "lng": 27.970856
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Özel Bankacılık Merkezi Şubesi",
+      "adres": "Nispetiye Cad. Dilhayat Sok. No:8 Zemin Kat Etiler",
+      "lat": 41.079679,
+      "lng": 29.033633
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Özlüce Şubesi",
+      "adres": "Altınşehir Mah. Özlüce Bul. Altuntaş Park Sitesi A Blok No:3",
+      "lat": 40.223217,
+      "lng": 28.914994
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Pamukkale Şubesi",
+      "adres": "Saraylar Mahallesi İzmir Bul. Teb Sitesi Teb Blok No:57",
+      "lat": 37.787204,
+      "lng": 29.088833
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Pendik E-5 Şubesi",
+      "adres": "Yeşilbağlar Mahallesi Kaptan Sokak No:17/1 İç Kapı No:7",
+      "lat": 40.890595,
+      "lng": 29.235496
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Pendik Şubesi",
+      "adres": "Batı Mah. Erol Kaya Cad. Teb Blok No:102 İç Kapı No:1",
+      "lat": 40.876713,
+      "lng": 29.234668
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Perpa Şubesi",
+      "adres": "Halil Rıfat Paşa Mah. Yüzer Havuz Sok. No: 1/922",
+      "lat": 41.060181,
+      "lng": 28.969573
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Pınarbaşı Şubesi",
+      "adres": "Ümit Mah. Kemalpaşa Cad. No:333 B Pınarbaşı",
+      "lat": 38.438947,
+      "lng": 27.249713
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Polatlı Şubesi",
+      "adres": "Cumhuriyet Mahallesi Ankara Caddesi No:5 ",
+      "lat": 39.585275,
+      "lng": 32.142717
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Rize Şubesi",
+      "adres": "Yeniköy Mah.Tevfik İleri Cad. No:18",
+      "lat": 41.025453,
+      "lng": 40.520384
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Salihli Şubesi",
+      "adres": "Atatürk Mahallesi Belediye Cad. No:93-95 ",
+      "lat": 38.486659,
+      "lng": 28.139406
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Samsun 19 Mayıs Şubesi",
+      "adres": "Şabanoğlu Mahallesi 61.Sokak No:32A",
+      "lat": 41.236914,
+      "lng": 36.420219
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Samsun Sanayi Şubesi",
+      "adres": "Yenimahalle Mahallesi 28. Sokak No:23/1",
+      "lat": 41.274843,
+      "lng": 36.354599
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Samsun Şubesi",
+      "adres": "Kale Mahallesi Kaptanağa Sok. No: 4/B",
+      "lat": 41.290856,
+      "lng": 36.333899
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Sancaktepe Şubesi",
+      "adres": "İnönü Mah. Ankara Cad. No:63/A",
+      "lat": 41.009442,
+      "lng": 29.212817
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Santral Ümraniye Şubesi",
+      "adres": "Atatürk Mah. Sütçü İmam Cad. Kardeşler Apt. No:51/A Dükkan N",
+      "lat": 41.023983,
+      "lng": 29.088816
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Sarıyer Şubesi",
+      "adres": "Sarıyer Merkez Mah.Yeni Mahalle Cad. No:19",
+      "lat": 41.168846,
+      "lng": 29.057442
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Sefaköy Şubesi",
+      "adres": "Kartaltepe Mahallesi, Halkalı Caddesi No:62A/1 ",
+      "lat": 41.000935,
+      "lng": 28.797504
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Serik Şubesi",
+      "adres": "Yeni Mah. Hürriyet Cad. Mehmet Iltar Apt. Blok No:8C",
+      "lat": 36.917634,
+      "lng": 31.106029
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Seydikemer Şubesi",
+      "adres": "Cumhurıyet Mahallesı İnönü Caddesı No:40 İç Kapı No:1",
+      "lat": 36.645048,
+      "lng": 29.364021
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Seyrantepe Şubesi",
+      "adres": "Seyrantepe Mahallesi İbrahim Karaoğlanoğlu Cad. No:111A/1",
+      "lat": 41.099356,
+      "lng": 28.996871
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Siirt Şubesi",
+      "adres": "Bahçelıevler Mahallesı Hükümet Bulvarı No:26",
+      "lat": 37.928419,
+      "lng": 41.941161
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Silifke Şubesi",
+      "adres": "Mukaddem Mahallesi İnönü Bulvarı No:20 A ",
+      "lat": 36.376084,
+      "lng": 33.926267
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Silivri Şubesi",
+      "adres": "Piri Mehmet Paşa Mah. Başkomutan Cad. No:4",
+      "lat": 41.074922,
+      "lng": 28.243951
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Sincan Şubesi",
+      "adres": "Atatürk Mah. Ankara Cad. No: 44/A ",
+      "lat": 39.962065,
+      "lng": 32.580523
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Sinop Şubesi",
+      "adres": "Meydankapı Mah. Sakarya Cad. No:13B",
+      "lat": 42.026507,
+      "lng": 35.149958
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Siteler Şubesi",
+      "adres": "Ulubey Mahallesı Demırhendek Caddesı No:69",
+      "lat": 39.956909,
+      "lng": 32.897763
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Sivas Şubesi",
+      "adres": "Atatürk Cad.No.15 ",
+      "lat": 39.750224,
+      "lng": 37.018112
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Soğanlık Şubesi",
+      "adres": "Atatürk Cad. No:119 ",
+      "lat": 40.915409,
+      "lng": 29.204036
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Soma Şubesi",
+      "adres": "Kurtuluş Mahallesi Fatih Caddesi No:10",
+      "lat": 39.182274,
+      "lng": 27.606469
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Sorgun Şubesi",
+      "adres": "Çay Mahallesi Cumhuriyet Caddesi No:71/A",
+      "lat": 39.809926,
+      "lng": 35.188617
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Söğütözü Şubesi",
+      "adres": "Platin Tower Söğütözü Mah. Dumlupınar Bulvarı No:94/G",
+      "lat": 39.909555,
+      "lng": 32.798057
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Söke Şubesi",
+      "adres": "Konak Mah. Aydın Cad. No:13 A",
+      "lat": 37.753547,
+      "lng": 27.404581
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Suadiye Şubesi",
+      "adres": "Bağdat Cad.German Apt No: 456 Suadiye",
+      "lat": 40.957484,
+      "lng": 29.086411
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Suburcu Şubesi",
+      "adres": "Alaybey Mah. Suburcu Cad. Suburcu İş Merkezi No:11A",
+      "lat": 37.063294,
+      "lng": 37.380746
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Sultanbeyli Şubesi",
+      "adres": "Mehmet Akıf Mah. Fatıh Bulvarı No:244/B",
+      "lat": 29.271093,
+      "lng": 29.271093
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Sultangazi Şubesi",
+      "adres": "Cebeci Mah.Eski Edirne Asfaltı No: 748 Sultançifliği",
+      "lat": 41.112241,
+      "lng": 28.857868
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Şanlıurfa Sarayönü Caddesi Şubesi",
+      "adres": "Atatürk Mah. Bul. Teb Bankası Blok  No :82",
+      "lat": 37.156231,
+      "lng": 38.791361
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Şanlıurfa Şubesi",
+      "adres": "Atatürk Bulvarı Numune Pasajı No:16/2-3",
+      "lat": 37.159372,
+      "lng": 38.792049
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Şaşmaz Şubesi",
+      "adres": "Bahçekapı Mah. Sanayi Bul. No:4A",
+      "lat": 39.943146,
+      "lng": 32.711816
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Şehitkamil Gaziantep Şubesi",
+      "adres": "Mücahitler Mah. Gazi Muhtar Paşa Bul. Vakıfbank Sitesi Yasem",
+      "lat": 37.073494,
+      "lng": 37.365976
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Şirehanı Şubesi",
+      "adres": "Alaybey Mah. İnönü Cad. Şirehan No:217G",
+      "lat": 37.058232,
+      "lng": 37.386126
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Şirinevler Şubesi",
+      "adres": "Meriç Sok. Ünal İş Merkezi No:13/3 Şirinevler",
+      "lat": 40.992337,
+      "lng": 28.844323
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Şirinyalı Şubesi",
+      "adres": "Şirinyalı Mahallesi İsmet Gökşen Caddesi No:80/1",
+      "lat": 36.858542,
+      "lng": 30.739417
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Şirinyer Şubesi",
+      "adres": "Güven Mahallesı, Menderes Caddesı No: 318",
+      "lat": 38.394807,
+      "lng": 27.148431
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Şişli Şubesi",
+      "adres": "Merkez Mahalles Büyükdere Caddesı Cem İş Merkezi No:23/B",
+      "lat": 41.062889,
+      "lng": 28.989735
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Tahtakale Şubesi",
+      "adres": "Süleymanıye Mahallesı Şahende Sokak Keleşler İşhanı No:7A",
+      "lat": 41.015634,
+      "lng": 28.966835
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Taksim Şubesi",
+      "adres": "Gümüşsuyu Mah. Mete Cad. No: 12A",
+      "lat": 41.0375,
+      "lng": 28.988
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Tarsus Şubesi",
+      "adres": "Şehitmustafa Mah. Muvaffak Uygur Bulvarı No:3A ",
+      "lat": 36.916778,
+      "lng": 34.887689
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Tatvan Şubesi",
+      "adres": "Tuğ Mahallesi Cumhuriyet Bul. Şimşek Center Blok No:226A",
+      "lat": 38.494159,
+      "lng": 42.286962
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Tekirdağ Şubesi",
+      "adres": "Aydoğdu Mahallesı Hükümet Caddesı No:94 ",
+      "lat": 40.977754,
+      "lng": 27.510223
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Tire Şubesi",
+      "adres": "Cumhuriyet Meydanı, No:05",
+      "lat": 38.089887,
+      "lng": 27.731335
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Tokat Şubesi",
+      "adres": "Kabe-İ Mescid Mah.Gaziosmanpaşa Bulvarı No:168/A",
+      "lat": 40.315535,
+      "lng": 36.551403
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Topçular Şubesi",
+      "adres": "Rami Kışla Cad. Koçbay İş Merkezi No 25/B 7-8 Topçular",
+      "lat": 41.040061,
+      "lng": 28.921086
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Topkapı Sanayi Şubesi",
+      "adres": "Maltepe Mah. Gümüşsuyu Cad. No:53 Dk:21-22",
+      "lat": 41.029708,
+      "lng": 28.910629
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Torbalı Şubesi",
+      "adres": "Tepeköy Mahallesı Ağlar Caddesı No:16",
+      "lat": 38.150112,
+      "lng": 27.364081
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Trabzon Şubesi",
+      "adres": "Kemerkaya Mah. Kahramanmaraş Caddesi No:35A",
+      "lat": 41.006126,
+      "lng": 39.726185
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Trakya Kurumsal Şubesi",
+      "adres": "Nur Yıldız Plaza 15 Temmuz Mahallesi Gülbahar Caddesi No:7A ",
+      "lat": 41.031252,
+      "lng": 28.814677
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Trakya Üniversitesi Şubesi",
+      "adres": "Kocasinan Mahallesi, E5 Karayolu Caddesi No:76/13",
+      "lat": 41.637917,
+      "lng": 26.611799
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Tunalı Hilmi Şubesi",
+      "adres": "Remzi Oğuz Mah. Tunalı Hilmi Cad. No.68/A Kavaklıdere",
+      "lat": 39.907728,
+      "lng": 32.861375
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Turgutlu Şubesi",
+      "adres": "Altay Mah. Atatürk Bulvarı No: 163 ",
+      "lat": 38.498785,
+      "lng": 27.707652
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Tuzla Osb Şubesi",
+      "adres": "Aydınlı-İstanbul Ayosb Mah.5.Sok İstanbul Anadolu Yakası Osb",
+      "lat": 40.884482,
+      "lng": 29.388344
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Tuzla Şubesi",
+      "adres": "İçmeler Mah .Mazhar Sokak No.21/A",
+      "lat": 40.848113,
+      "lng": 29.300121
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Uludağ Üniversitesi Şubesi",
+      "adres": "Görükle Mahallesi Üniversite 1.Cadde No:326/2A",
+      "lat": 40.223388,
+      "lng": 28.869611
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ulus Ankara Şubesi",
+      "adres": "Hacı Bayram Mah. Sanayi Cad. Teb No:15/1",
+      "lat": 39.939464,
+      "lng": 32.855614
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Uncalı Şubesi",
+      "adres": "Uncalı Mahallesi Uncalı Caddesi No:63 ",
+      "lat": 36.88843,
+      "lng": 30.625024
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Urla Şubesi",
+      "adres": "Hacı İsa Mah. 75.Yıl Cumhuriyet Cad. Ege Plaza No:1B",
+      "lat": 38.323923,
+      "lng": 26.768209
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Uşak Çarşı Şubesi",
+      "adres": "İslıce Mahallesı İslıce Sokak, No:12/A",
+      "lat": 38.678881,
+      "lng": 29.40569
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Uşak Şubesi",
+      "adres": "İslice Mah. İsmetpaşa Cad. No: 67/B",
+      "lat": 38.674602,
+      "lng": 29.40599
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Üçevler Şubesi",
+      "adres": "Üçevler Mh Ahıska Cad No:10/1",
+      "lat": 40.210664,
+      "lng": 28.952328
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ümitköy Şubesi",
+      "adres": "Mutlukent Mah. Doğan Taşdelen Bul. No:45 İç Kapı No:1",
+      "lat": 39.899302,
+      "lng": 32.706257
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ümraniye Sanayi Şubesi",
+      "adres": "Çakmak Mahallesi Alemdağ Caddesi  No:422 ",
+      "lat": 41.021928,
+      "lng": 29.116341
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ümraniye Şubesi",
+      "adres": "Alemdağ Cad. 194/2 ",
+      "lat": 41.024958,
+      "lng": 29.099833
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Ünye Şubesi",
+      "adres": "Kaledere Mahallesi Akkuş Niksar Caddesi No:6/A",
+      "lat": 41.127116,
+      "lng": 37.288003
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Üsküdar Şubesi",
+      "adres": "Aziz Mahmut Hüdayi Mah. Hakimiyeti Milliye Cad. No: 50 Kat :",
+      "lat": 41.023408,
+      "lng": 29.015497
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Valikonağı Şubesi",
+      "adres": "Teşvikiye Mahallesi Valikonağı Cad. No: 66",
+      "lat": 41.053041,
+      "lng": 28.993148
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Van Şubesi",
+      "adres": "Şerefiye Mahallesi M. Fevzi Çakmak Cad. Lütfü Savur İş Merke",
+      "lat": 38.498205,
+      "lng": 43.396111
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Yalıkavak Şubesi",
+      "adres": "İnönü Caddesi No:101/A-E Yalıkavak ",
+      "lat": 37.112617,
+      "lng": 27.323398
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Yalova Şubesi",
+      "adres": "Rüstempaşa Mahallesı, Çeşme Sokak No:2/1",
+      "lat": 40.655847,
+      "lng": 29.270666
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Yeditepe Kurumsal Şubesi",
+      "adres": "İnkılap Mahallesi Sokullu Cad. No: 7 A",
+      "lat": 41.0631,
+      "lng": 29.0109
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Yeni Adana Şubesi",
+      "adres": "Güzelyalı Mah. Uğur Mumcu Bul. No:13/1E ",
+      "lat": 37.049448,
+      "lng": 35.300512
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Yenibosna Şubesi",
+      "adres": "Yenibosna Merkez Mahallesi Yıldırım Beyazıt Caddesi No: 210A",
+      "lat": 41.010171,
+      "lng": 28.830243
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Yeniköy Antalya Şubesi",
+      "adres": "Yeniköy Mahallesi Atatürk Caddesi No:476",
+      "lat": 37.025968,
+      "lng": 30.600982
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Yeniköy Şubesi",
+      "adres": "Yeniköy Mahallesi Köybaşı Caddesi No:51 Yeniköy",
+      "lat": 41.122611,
+      "lng": 29.071025
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Yeşilköy Şubesi",
+      "adres": "İstasyon Cad.Orhan Gazi Sok. No:1 Zemin Kat Kısım A Yeşilköy",
+      "lat": 40.960482,
+      "lng": 28.823756
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Yıldırım Şubesi",
+      "adres": "Duaçınarı Mahallesi Ankarayolu Cad. B Blok Apt. No:171-173B",
+      "lat": 40.191746,
+      "lng": 29.095571
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Yıldız Şubesi",
+      "adres": "Turan Güneş Bulvarı No:17 ",
+      "lat": 39.875537,
+      "lng": 32.863582
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Yüreğir Şubesi",
+      "adres": "Cumhuriyet Mah. 770  Sokak. No:11/A ",
+      "lat": 36.986291,
+      "lng": 35.338769
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Zekeriyaköy Şubesi",
+      "adres": "Zekerıyaköy Mahallesı 4. Cad. Kültür Merkezı Apt. No:4/1/2",
+      "lat": 41.208343,
+      "lng": 29.021506
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Zeytinburnu Bulvar Şubesi",
+      "adres": "Gökalp Mah. Prof. Muammer Aksoy Cad. No:85A",
+      "lat": 40.991474,
+      "lng": 28.903914
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Zeytinburnu Şubesi",
+      "adres": "Gökalp Mah. Prof. Muammer Aksoy Cad. No:85",
+      "lat": 40.994187,
+      "lng": 28.904513
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Zonguldak Şubesi",
+      "adres": "Meşrutiyet Mah. Gazipaşa Cad. No:31 ",
+      "lat": 41.454297,
+      "lng": 31.789088
+    },
+    {
+      "bank_no": 28,
+      "bank_name": "TEB",
+      "adi": "Arnavutköy Şubesi",
+      "adres": "Mustafa Kemalpaşa Mah. Fatih Cad. No:41A",
+      "lat": 41.186447,
+      "lng": 28.738485
     },
     {
       "bank_no": 29,
@@ -423989,14 +423989,6 @@
       "adres": "Örnek Mahallesi Şehit Cahar (G-35 Dudayev) Caddesi No:36",
       "lat": 40.9955,
       "lng": 29.0787
-    },
-    {
-      "bank_no": 37,
-      "bank_name": "Yapı Kredi",
-      "adi": "Esertepe Şubesi",
-      "adres": "Esertepe Mahallesi 301 Sokak No:33/A-B",
-      "lat": 39.9959,
-      "lng": 32.8366
     },
     {
       "bank_no": 37,
