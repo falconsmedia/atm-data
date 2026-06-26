@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T06:53:11.219698Z",
+  "updated_at": "2026-06-26T06:59:47.096474Z",
   "total": 57309,
   "banks": {
     "Ziraat Bankası": 8477,
@@ -143866,7 +143866,7 @@
       "bank_no": 6,
       "bank_name": "Vakıfbank",
       "adi": "Bursa Küçük Sanayi Şubesi",
-      "adres": "Üçevler Mahallesi İzmir Yolu Caddesi No:271A",
+      "adres": "Üçevler Mahallesi Ersan Sokak No:12D",
       "lat": 40.211916,
       "lng": 28.935637
     },
@@ -144698,7 +144698,7 @@
       "bank_no": 6,
       "bank_name": "Vakıfbank",
       "adi": "Bulancak Şubesi",
-      "adres": "İhsaniye Mahallesi 15 Temmuz Caddesi No:87-93A",
+      "adres": "İhsaniye Mahallesi 15 Temmuz Caddesi No:87-93B",
       "lat": 40.93722,
       "lng": 38.23003
     },
