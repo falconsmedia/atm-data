@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-29T08:20:10.173167Z",
-  "total": 57309,
+  "updated_at": "2026-06-30T06:59:57.956580Z",
+  "total": 57302,
   "banks": {
     "Ziraat Bankası": 8477,
     "Halkbank": 5130,
@@ -18,7 +18,7 @@
     "Türk Ticaret Bankası": 16,
     "Garanti BBVA": 7283,
     "İş Bankası": 7492,
-    "Yapı Kredi": 6901,
+    "Yapı Kredi": 6894,
     "Arap Türk Bankası": 4,
     "HSBC": 80,
     "Turkish Bank": 14,
@@ -103410,9 +103410,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Karataş Şubesi/Gaziantep",
-      "adres": "Şahintepe Mah. 400 Nolu Cad. No:2G 27470 ",
-      "lat": 37.022981,
-      "lng": 37.338713
+      "adres": "Karataş Mah. 428 Nolu Cad. No:1B 27470 ",
+      "lat": 37.016018,
+      "lng": 37.343956
     },
     {
       "bank_no": 5,
@@ -104266,9 +104266,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Dijital İstanbul Kurumsal Şubesi",
-      "adres": "Barbaros Mahallesi Mor Sümbül Sokak No:9 Kat:10 Wbc İş Merke",
-      "lat": 40.998707,
-      "lng": 29.097255
+      "adres": "Finanskent Mahallesi Finans Caddesi No:28 İç Kapı No:24  347",
+      "lat": 41.001391,
+      "lng": 29.111263
     },
     {
       "bank_no": 5,
@@ -106946,9 +106946,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Seydişehir Şubesi/Konya",
-      "adres": "Hacıseyitali Mah. Seyyid Harun Veli Cad. No:16A",
-      "lat": 37.420048,
-      "lng": 31.848394
+      "adres": "Alaylar İki Mahallesi Seyyid Harun Veli Caddesi No:45A 42370",
+      "lat": 37.425173,
+      "lng": 31.847199
     },
     {
       "bank_no": 5,
@@ -364290,9 +364290,9 @@
       "bank_no": 32,
       "bank_name": "İş Bankası",
       "adi": "Erenler/Sakarya",
-      "adres": "Yeni Mahalle Topça Toptancılar Çarşısı No:3C1",
-      "lat": 40.748062,
-      "lng": 30.415209
+      "adres": "Yeni Mahallesi Sakarya Caddesi No:323A/13",
+      "lat": 40.752821,
+      "lng": 30.415495
     },
     {
       "bank_no": 32,
@@ -365250,9 +365250,9 @@
       "bank_no": 32,
       "bank_name": "İş Bankası",
       "adi": "Tavas/Denizli",
-      "adres": "Orta Mahallesi Hükümet Caddesi No:2A",
-      "lat": 37.572872,
-      "lng": 29.071094
+      "adres": "Samanlık Mahallesi Hükümet Caddesi No:85A",
+      "lat": 37.568424,
+      "lng": 29.065
     },
     {
       "bank_no": 32,
@@ -368586,9 +368586,9 @@
       "bank_no": 32,
       "bank_name": "İş Bankası",
       "adi": "İslahiye/Gaziantep",
-      "adres": "Beyler Mahallesi Barazi Caddesi No:149",
-      "lat": 37.034066,
-      "lng": 36.636821
+      "adres": "Burhaniye Mahallesi Gaziantep Bulvarı No:183C",
+      "lat": 37.02667,
+      "lng": 36.63163
     },
     {
       "bank_no": 32,
@@ -420081,14 +420081,6 @@
     {
       "bank_no": 37,
       "bank_name": "Yapı Kredi",
-      "adi": "Birecik Şubesi",
-      "adres": "Meydan Mahallesi Ferit Aydın Mirkelam Caddesi Yapı Kredi No:",
-      "lat": 37.024458,
-      "lng": 37.976322
-    },
-    {
-      "bank_no": 37,
-      "bank_name": "Yapı Kredi",
       "adi": "Malatya Şubesi",
       "adres": "Niyazi Mahallesi, İnönü Caddesi No:144/B13 Doğa Avm",
       "lat": 38.348198,
@@ -421330,9 +421322,9 @@
       "bank_no": 37,
       "bank_name": "Yapı Kredi",
       "adi": "Alibeyköy Şubesi",
-      "adres": "Karadolap Mahallesi Saya Yolu Caddesi B Blok No:3",
-      "lat": 41.0763,
-      "lng": 28.9382
+      "adres": "Yeşilpınar Mahallesi Atatürk Bulvarı Caddesi Pamuk Sokak No:",
+      "lat": 41.0819,
+      "lng": 28.9167
     },
     {
       "bank_no": 37,
@@ -421949,14 +421941,6 @@
       "adres": "Gürselpaşa Mahallesi Aliya İzzetbegoviç Bulvarı No:86/A",
       "lat": 37.020989,
       "lng": 35.27401
-    },
-    {
-      "bank_no": 37,
-      "bank_name": "Yapı Kredi",
-      "adi": "Alaybey Şubesi",
-      "adres": "Bahariye Mah.Hidayet Erzeybek Sok.No:36/A",
-      "lat": 38.461,
-      "lng": 27.1212
     },
     {
       "bank_no": 37,
@@ -422633,14 +422617,6 @@
     {
       "bank_no": 37,
       "bank_name": "Yapı Kredi",
-      "adi": "Gültepe  Şubesi",
-      "adres": "Telsizler Mahallesi Talatpaşa Caddesi No:129",
-      "lat": 41.0787,
-      "lng": 29.0001
-    },
-    {
-      "bank_no": 37,
-      "bank_name": "Yapı Kredi",
       "adi": "Ankara Organize Sanayi  Şubesi",
       "adres": "Ahi Evran Osb Mah.A.O.S.Bul. Aso 1 Organize Sanayi Bölgesi B",
       "lat": 39.9814,
@@ -423285,14 +423261,6 @@
       "adres": "Kiremitli Mahallesi Mehmet Akif Ersoy Bulvarı No:35",
       "lat": 37.069,
       "lng": 30.1994
-    },
-    {
-      "bank_no": 37,
-      "bank_name": "Yapı Kredi",
-      "adi": "Avanos Şubesi",
-      "adres": "Orta Mahalle Atatürk Caddesi No:22",
-      "lat": 38.7186,
-      "lng": 34.8465
     },
     {
       "bank_no": 37,
@@ -424193,14 +424161,6 @@
     {
       "bank_no": 37,
       "bank_name": "Yapı Kredi",
-      "adi": "Gülkent Şubesi",
-      "adres": "Modern Evler Mahallesi 102. Cadde No:58",
-      "lat": 37.775,
-      "lng": 30.5496
-    },
-    {
-      "bank_no": 37,
-      "bank_name": "Yapı Kredi",
       "adi": "Serik Şubesi",
       "adres": "Orta Mahallesi Dr.Baki Özpınar Caddesi No:8",
       "lat": 36.9153,
@@ -424269,14 +424229,6 @@
       "adres": "Yeni Mahalle Zübeydehanım Caddesi No:107/A",
       "lat": 40.9783,
       "lng": 37.8875
-    },
-    {
-      "bank_no": 37,
-      "bank_name": "Yapı Kredi",
-      "adi": "Pendik Sahil Şubesi",
-      "adres": "Doğu Mahallesi 23 Nisan Caddesi No:62",
-      "lat": 40.8778,
-      "lng": 29.2362
     },
     {
       "bank_no": 37,
@@ -424597,14 +424549,6 @@
       "adres": "Şehit Cengiz Özdemir Mahallesi Kabil Caddesi No:85/A",
       "lat": 39.8812,
       "lng": 32.8283
-    },
-    {
-      "bank_no": 37,
-      "bank_name": "Yapı Kredi",
-      "adi": "Eyüp Yeşilpınar Şubesi",
-      "adres": "Yeşilpınar Mahallesi Atatürk Bulvarı Caddesi Pamuk Sokak No:",
-      "lat": 41.0819,
-      "lng": 28.9167
     },
     {
       "bank_no": 37,
