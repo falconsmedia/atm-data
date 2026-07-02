@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-01T07:16:59.617582Z",
-  "total": 57302,
+  "updated_at": "2026-07-02T06:45:46.618252Z",
+  "total": 57304,
   "banks": {
     "Ziraat Bankası": 8477,
     "Halkbank": 5130,
@@ -17,7 +17,7 @@
     "TEB": 1865,
     "Türk Ticaret Bankası": 16,
     "Garanti BBVA": 7283,
-    "İş Bankası": 7492,
+    "İş Bankası": 7494,
     "Yapı Kredi": 6894,
     "Arap Türk Bankası": 4,
     "HSBC": 80,
@@ -142297,7 +142297,7 @@
     {
       "bank_no": 6,
       "bank_name": "Vakıfbank",
-      "adi": "Başkent Kurumsal Şubesi",
+      "adi": "Ankara Kamu Kurumsal Şubesi",
       "adres": "Çukurambar Mahallesi 1424 Caddesi No:6/2",
       "lat": 39.9057,
       "lng": 32.8033
@@ -370117,6 +370117,22 @@
       "adres": "Gazi Mahallesi Mevlana Bulvarı No:4",
       "lat": 39.947474,
       "lng": 32.830585
+    },
+    {
+      "bank_no": 32,
+      "bank_name": "İş Bankası",
+      "adi": "Emniyet Genel Müdürlüğü/Ankara",
+      "adres": "Ayrancı Mahallesi Dikmen Caddesi No:11O",
+      "lat": 39.899837,
+      "lng": 32.844746
+    },
+    {
+      "bank_no": 32,
+      "bank_name": "İş Bankası",
+      "adi": "Egm Gölbaşı Kampüsü/Ankara",
+      "adres": "Eymir Mahallesi Cemil Yıldırım Caddesi No:27/40",
+      "lat": 39.806151,
+      "lng": 32.838064
     },
     {
       "bank_no": 37,
