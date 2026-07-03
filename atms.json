@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T06:45:46.618252Z",
+  "updated_at": "2026-07-03T06:37:33.555207Z",
   "total": 57304,
   "banks": {
     "Ziraat Bankası": 8477,
@@ -221010,7 +221010,7 @@
       "bank_no": 22,
       "bank_name": "Şekerbank",
       "adi": "Kuşadası",
-      "adres": "Türkmen Mah.Atatürk Bulvarı Belvü Sitesi C Blok No:4 / 7 Kuş",
+      "adres": "Türkmen Mah.Atatürk Bulvarı No:78/B Kuşadası/Aydın",
       "lat": 37.865978,
       "lng": 27.263689
     },
@@ -223130,7 +223130,7 @@
       "bank_no": 22,
       "bank_name": "Şekerbank",
       "adi": "Kuşadası Şube",
-      "adres": "Türkmen Mah. Atatürk Blv. Belvü Sitesi C Blok No:4/7",
+      "adres": "Türkmen Mah. Atatürk Blv. No:78/B",
       "lat": 37.8536987300001,
       "lng": 27.257873535
     },
