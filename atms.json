@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T06:22:41.849752Z",
+  "updated_at": "2026-07-21T05:56:07.465983Z",
   "total": 57649,
   "banks": {
     "Ziraat Bankası": 8476,
@@ -100714,9 +100714,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Çukurambar Şubesi/Ankara",
-      "adres": "Cumhuriyet Mahallesi Ziya Gökalp Caddesi No:5 İç Kapı No:1 0",
-      "lat": 39.920976,
-      "lng": 32.855137
+      "adres": "Kızılırmak Mahallesi Muhsin Yazıcıoğlu Caddesi No:25C 06530 ",
+      "lat": 39.901841,
+      "lng": 32.810144
     },
     {
       "bank_no": 5,
@@ -100810,9 +100810,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Etlik Şubesi/Ankara",
-      "adres": "Etlik Mah. Etlik Cad. No:196A ",
-      "lat": 39.983584,
-      "lng": 32.821921
+      "adres": "Aşağı Eğlence Mahallesi Giresun Caddesi No:5A 06010 ",
+      "lat": 39.972322,
+      "lng": 32.841209
     },
     {
       "bank_no": 5,
@@ -102858,9 +102858,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Serinhisar Şubesi/Denizli",
-      "adres": "Aşağı Mah. Şehit Muzaffer Korkut Cad. No:7",
-      "lat": 37.579079,
-      "lng": 29.265168
+      "adres": "Orta Mahallesi Mithat Paşa Caddesi No:46A 20430 ",
+      "lat": 37.579602,
+      "lng": 29.263816
     },
     {
       "bank_no": 5,
@@ -143786,7 +143786,7 @@
       "bank_no": 6,
       "bank_name": "Vakıfbank",
       "adi": "Gürsu/Bursa Şubesi",
-      "adres": "Zafer Mahallesi Şehit Cüneyt Yıldız Caddesi No:24/A",
+      "adres": "Zafer Mahallesi Şehit Cüneyt Yıldız Caddesi No:24B",
       "lat": 40.217387,
       "lng": 29.187794
     },
