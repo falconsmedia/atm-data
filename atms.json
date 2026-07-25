@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T05:54:29.431071Z",
-  "total": 57648,
+  "updated_at": "2026-07-25T05:47:22.951156Z",
+  "total": 57645,
   "banks": {
     "Ziraat Bankası": 8475,
     "Halkbank": 5131,
@@ -17,7 +17,7 @@
     "TEB": 1865,
     "Türk Ticaret Bankası": 16,
     "Garanti BBVA": 7291,
-    "İş Bankası": 7494,
+    "İş Bankası": 7491,
     "Yapı Kredi": 6941,
     "Arap Türk Bankası": 4,
     "HSBC": 74,
@@ -368721,14 +368721,6 @@
     {
       "bank_no": 32,
       "bank_name": "İş Bankası",
-      "adi": "Yenişehir Özel Bankacılık/Ankara",
-      "adres": "Cumhuriyet Mahallesi Atatürk Bulvarı No:77",
-      "lat": 39.922678,
-      "lng": 32.85486
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
       "adi": "Söğüt/Bilecik",
       "adres": "Orta Mahallesi Sinema Sokak No:1",
       "lat": 40.012658,
@@ -371809,14 +371801,6 @@
     {
       "bank_no": 32,
       "bank_name": "İş Bankası",
-      "adi": "Kozcağız/Bartın",
-      "adres": "Kozcağız Merkez Mahallesi Mustafa Kemal Paşa Caddesi No:2/1",
-      "lat": 41.477728,
-      "lng": 32.340228
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
       "adi": "Çaycuma/Zonguldak",
       "adres": "Yeni Mahalle Atatürk Bulvarı No:38A Zemin Kat",
       "lat": 41.426932,
@@ -371829,14 +371813,6 @@
       "adres": "Atatürk Mahallesi Sadri Artuç Caddesi No:12",
       "lat": 41.250019,
       "lng": 32.683044
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
-      "adi": "Ulus/Bartın",
-      "adres": "Kaldırım Mahallesi Atatürk Caddesi No:5/C",
-      "lat": 41.584513,
-      "lng": 32.639599
     },
     {
       "bank_no": 32,
@@ -429899,16 +429875,16 @@
       "bank_name": "Anadolubank",
       "adi": "Altunizade Şubesi",
       "adres": "Mahir İz Caddesi No:8/B",
-      "lat": 41.02172,
-      "lng": 29.04213
+      "lat": 41.021833,
+      "lng": 29.041992
     },
     {
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Ankara  Şubesi",
       "adres": "Söğütözü Mahallesi 2176 Cad. No: 7/F",
-      "lat": 39.91006,
-      "lng": 32.79772
+      "lat": 39.91059,
+      "lng": 32.7981
     },
     {
       "bank_no": 93,
@@ -429922,7 +429898,7 @@
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Avcılar Şubesi",
-      "adres": "Üniversite Mah.Firuzköy Blv.",
+      "adres": "Üniversite Mah.Firuzköy Blv. 75/1A",
       "lat": 41.00048,
       "lng": 28.71228
     },
@@ -429931,8 +429907,8 @@
       "bank_name": "Anadolubank",
       "adi": "Bakırköy Şubesi",
       "adres": "İncirli Caddesi No:30/2",
-      "lat": 40.99,
-      "lng": 28.87074
+      "lat": 40.985141,
+      "lng": 28.87263
     },
     {
       "bank_no": 93,
@@ -429946,9 +429922,9 @@
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Bayrampaşa Şubesi",
-      "adres": "Maltepe Mh",
-      "lat": 41.02789,
-      "lng": 28.90991
+      "adres": "Maltepe Mh Gümüşsuyu Cd. No:40",
+      "lat": 41.01401,
+      "lng": 28.54345
     },
     {
       "bank_no": 93,
@@ -429971,14 +429947,14 @@
       "bank_name": "Anadolubank",
       "adi": "Bursa Şubesi",
       "adres": "İhsaniye Mah. İzmir Yolu Cad. Atalay 9",
-      "lat": 40.21191,
-      "lng": 28.9808
+      "lat": 40.212522,
+      "lng": 28.98069
     },
     {
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Çiftehavuzlar Şubesi",
-      "adres": "Caddebostan Mah Op Cemil Topuzlu Cad.",
+      "adres": "Caddebostan Mah Op Cemil Topuzlu Cad. No:40/A",
       "lat": 40.97096,
       "lng": 29.05237
     },
@@ -429986,9 +429962,9 @@
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Denizli Şubesi",
-      "adres": "Saraylar Mah. İzmir Bulvarı",
-      "lat": 37.78539,
-      "lng": 29.08707
+      "adres": "Saraylar Mah. İzmir Bulvarı No:51/B",
+      "lat": 37.78726,
+      "lng": 29.0891
     },
     {
       "bank_no": 93,
@@ -430003,16 +429979,16 @@
       "bank_name": "Anadolubank",
       "adi": "Etiler Şubesi",
       "adres": "Levent Mah. Gonca Sokak No:2",
-      "lat": 41.07526,
-      "lng": 29.01769
+      "lat": 41.079299,
+      "lng": 29.031747
     },
     {
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Gaziantep Şubesi",
-      "adres": "Osmangazi Mah. Abdulkadir Aksu Bulvarı A Blok No:98/E  ",
-      "lat": 37.0634,
-      "lng": 37.3345
+      "adres": "Değirmiçem Mah. Prf. Muammer Aksoy Bulvar 18C",
+      "lat": 37.0683,
+      "lng": 37.374
     },
     {
       "bank_no": 93,
@@ -430027,24 +430003,24 @@
       "bank_name": "Anadolubank",
       "adi": "Güneşli Şubesi",
       "adres": "15 Temmuz Mahallesi Bahar Caddesi No:6 İç Kapı:Z1",
-      "lat": 41.02938,
-      "lng": 28.81164
+      "lat": 41.02949,
+      "lng": 28.81185
     },
     {
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Hadımköy Şubesi",
       "adres": "Akçaburgaz Mah. Hadımköy Yolu No:186/A",
-      "lat": 41.0776,
-      "lng": 28.6251
+      "lat": 41.07808,
+      "lng": 28.62521
     },
     {
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "İkitelli Şubesi",
-      "adres": "İkitelli Osb Mah.  Atatürk Blv.",
-      "lat": 41.07683,
-      "lng": 28.80948
+      "adres": "İkitelli Osb Mahallesi, Atatürk Bulvarı No: 72/E Uavt:306313",
+      "lat": 41.076747,
+      "lng": 28.809165
     },
     {
       "bank_no": 93,
@@ -430058,17 +430034,17 @@
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Karaköy Şubesi",
-      "adres": "Müeyyetzade Mah.",
-      "lat": 41.0243,
-      "lng": 28.9766
+      "adres": "Müeyyetzade Mah. Kemeraltı Cd. No:30/1-A",
+      "lat": 41.031298,
+      "lng": 28.977338
     },
     {
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Kayseri Şubesi",
-      "adres": "Cumhuriyet Mah. Sultanhamam Cad.",
-      "lat": 38.71923,
-      "lng": 35.48983
+      "adres": "Cumhuriyet Mah. Sultanhamam Cad. No:5",
+      "lat": 38.718218,
+      "lng": 35.488213
     },
     {
       "bank_no": 93,
@@ -430091,8 +430067,8 @@
       "bank_name": "Anadolubank",
       "adi": "Levent Sanai Şubesi",
       "adres": "Huzur Mah. Fatih Cad. No:67",
-      "lat": 41.09419,
-      "lng": 29.00471
+      "lat": 41.094075,
+      "lng": 29.004807
     },
     {
       "bank_no": 93,
@@ -430114,9 +430090,9 @@
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Ulus Şubesi",
-      "adres": "Hacı Bayram  Mah.",
-      "lat": 39.94209,
-      "lng": 32.84803
+      "adres": "Hacı Bayram  Mah. İstanbul Cd. No:20",
+      "lat": 39.941816,
+      "lng": 32.848122
     },
     {
       "bank_no": 93,
@@ -430155,8 +430131,8 @@
       "bank_name": "Anadolubank",
       "adi": "Trabzon Şubesi",
       "adres": "Kemerkaya Mah. Gazipaşa Cad.  Saruhan İş Merkezi No:15D",
-      "lat": 41.00695,
-      "lng": 39.73023
+      "lat": 41.00712,
+      "lng": 39.730159
     },
     {
       "bank_no": 93,
@@ -430226,9 +430202,9 @@
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Balgat Şubesi",
-      "adres": "Ceyhun Atıf Kansu Cad. Bayraktar Center",
-      "lat": 39.89312,
-      "lng": 32.81671
+      "adres": "Ceyhun Atıf Kansu Cad. Bayraktar Center No:114 E/9 ",
+      "lat": 39.892345,
+      "lng": 32.816542
     },
     {
       "bank_no": 93,
@@ -430251,8 +430227,8 @@
       "bank_name": "Anadolubank",
       "adi": "İskenderun Şubesi",
       "adres": "Savaş Mah. Ulu Camii Cad. No:105A 2 Nolu Belediye İş Hanı",
-      "lat": 36.7768,
-      "lng": 36.2149
+      "lat": 36.58993,
+      "lng": 36.17184
     },
     {
       "bank_no": 93,
@@ -430267,32 +430243,32 @@
       "bank_name": "Anadolubank",
       "adi": "Pendik Şubesi",
       "adres": "Çınardere Mah.Çiğdem Sokak No:10/A",
-      "lat": 40.89005,
-      "lng": 29.23817
+      "lat": 40.8899,
+      "lng": 29.2377
     },
     {
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Toros Caddesi Şubesi",
       "adres": "Cemalpaşa Mah. Toros Cad",
-      "lat": 37.00211,
-      "lng": 35.32921
+      "lat": 37.002051,
+      "lng": 35.329321
     },
     {
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Bağcılar Şubesi",
       "adres": "Sancaktepe Mah. 897. Sok No:7-15G",
-      "lat": 41.03546,
-      "lng": 28.85526
+      "lat": 41.020704,
+      "lng": 28.51199
     },
     {
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Nilüfer Şubesi",
       "adres": "Üçevler Mah. Ersan Sok. No: 14 D",
-      "lat": 40.21165,
-      "lng": 28.93582
+      "lat": 40.12411,
+      "lng": 28.56119
     },
     {
       "bank_no": 93,
@@ -430306,9 +430282,9 @@
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Ostim Şubesi",
-      "adres": "Ostim Mah. 1439 Sok. No:4",
-      "lat": 39.98431,
-      "lng": 32.74029
+      "adres": "Ostim Osb Mh. 100. Yıl Bulvarı Dış Kapı No:55 A Blok No:6",
+      "lat": 39.970712,
+      "lng": 32.745972
     },
     {
       "bank_no": 93,
@@ -430323,16 +430299,16 @@
       "bank_name": "Anadolubank",
       "adi": "İmes Şubesi",
       "adres": "Dudullu Osb Mah. İmes 501 Sk No:34/3",
-      "lat": 41.00364,
-      "lng": 29.15996
+      "lat": 41.00115,
+      "lng": 29.09352
     },
     {
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Beylikdüzü Şubesi",
       "adres": "Beylikdüzü Org.San. Böl.Mah.Birlik San Sit.3.Cd.Keleşoğlu Pl",
-      "lat": 41.00527,
-      "lng": 28.66001
+      "lat": 41.000144,
+      "lng": 28.656653
     },
     {
       "bank_no": 93,
@@ -430362,9 +430338,9 @@
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Aydın Şubesi",
-      "adres": "Yedi Eylül Mah İzmir Bulv",
-      "lat": 37.83833,
-      "lng": 27.83989
+      "adres": "Yedi Eylül Mah İzmir Bulv. No:27/A",
+      "lat": 37.838405,
+      "lng": 27.839774
     },
     {
       "bank_no": 93,
@@ -430427,8 +430403,8 @@
       "bank_name": "Anadolubank",
       "adi": "Tarsus Şubesi",
       "adres": "Şehit Mustafa Mah. İsmet Paşa Bulvarı No:30",
-      "lat": 36.91479,
-      "lng": 34.89333
+      "lat": 36.913906,
+      "lng": 34.892679
     },
     {
       "bank_no": 93,
@@ -430459,8 +430435,8 @@
       "bank_name": "Anadolubank",
       "adi": "Kıraç Şubesi",
       "adres": "Çakmaklı Mah Hadımköy Yolu Cd. No:75A/3",
-      "lat": 41.04584,
-      "lng": 28.62743
+      "lat": 41.047264,
+      "lng": 28.635212
     },
     {
       "bank_no": 93,
@@ -430475,8 +430451,8 @@
       "bank_name": "Anadolubank",
       "adi": "Des Şubesi",
       "adres": "Des San Sit 1.Cd Banka Blokları 5-A No:1",
-      "lat": 41.00084,
-      "lng": 29.18105
+      "lat": 41.001019,
+      "lng": 29.181061
     },
     {
       "bank_no": 93,
@@ -430515,16 +430491,16 @@
       "bank_name": "Anadolubank",
       "adi": "Gimat Şubesi",
       "adres": "Çamlıca Mah Anadolu Bulv.No:20U/4",
-      "lat": 39.94984,
-      "lng": 32.77203
+      "lat": 39.57046,
+      "lng": 32.46177
     },
     {
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Balıkesir Şubesi",
-      "adres": "Akıncılar Mah. Gazi Blv",
-      "lat": 39.6503,
-      "lng": 27.88475
+      "adres": "Akıncılar Mah. Gazi Blv. No:7",
+      "lat": 39.65034,
+      "lng": 27.88459
     },
     {
       "bank_no": 93,
@@ -430547,8 +430523,8 @@
       "bank_name": "Anadolubank",
       "adi": "Bandırma Şubesi",
       "adres": "Haydar Çavuş Mah. Atatürk Cadd. No: 20 ",
-      "lat": 40.353466,
-      "lng": 27.971337
+      "lat": 40.35462,
+      "lng": 27.9699
     },
     {
       "bank_no": 93,
@@ -430619,8 +430595,8 @@
       "bank_name": "Anadolubank",
       "adi": "Elazığ Şubesi",
       "adres": "Sürsürü Mahallesi Malatya Caddesi No:29/A",
-      "lat": 38.66857,
-      "lng": 39.18397
+      "lat": 38.668713,
+      "lng": 39.183712
     },
     {
       "bank_no": 93,
@@ -430635,8 +430611,8 @@
       "bank_name": "Anadolubank",
       "adi": "Diyarbakır Şubesi",
       "adres": "Fırat Mahallesi Urfa Bulvarı Dımer Group Apt. No:140/1",
-      "lat": 37.9241,
-      "lng": 40.15613
+      "lat": 37.92431,
+      "lng": 40.15604
     },
     {
       "bank_no": 93,
@@ -430651,8 +430627,8 @@
       "bank_name": "Anadolubank",
       "adi": "Kuruçeşme Şubesi",
       "adres": "Kuruçeşme Mahallesi Kuruçeşme Caddesi No No:35/A",
-      "lat": 41.06106,
-      "lng": 29.03718
+      "lat": 41.061218,
+      "lng": 29.035976
     },
     {
       "bank_no": 93,
@@ -430667,8 +430643,8 @@
       "bank_name": "Anadolubank",
       "adi": "Alanya Şubesi",
       "adres": "Güller Pınarı Mahallesi, Hacet Caddesi 40/B",
-      "lat": 36.54549,
-      "lng": 31.99254
+      "lat": 36.54701,
+      "lng": 32.01139
     },
     {
       "bank_no": 93,
