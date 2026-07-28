@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T06:35:45.315012Z",
+  "updated_at": "2026-07-28T05:52:36.990466Z",
   "total": 57645,
   "banks": {
     "Ziraat Bankası": 8475,
@@ -371114,9 +371114,9 @@
       "bank_no": 32,
       "bank_name": "İş Bankası",
       "adi": "Afşin/Kahramanmaraş",
-      "adres": "Dedebaba Mahallesi Atatürk Caddesi No:116A-B",
-      "lat": 38.247991,
-      "lng": 36.914297
+      "adres": "Pınarbaşı Mahallesi Köşoğlu Caddesi No:3C",
+      "lat": 38.244202,
+      "lng": 36.91061
     },
     {
       "bank_no": 32,
