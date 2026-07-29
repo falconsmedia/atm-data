@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T05:52:36.990466Z",
+  "updated_at": "2026-07-29T05:56:57.609969Z",
   "total": 57645,
   "banks": {
     "Ziraat Bankası": 8475,
@@ -148433,7 +148433,7 @@
     {
       "bank_no": 6,
       "bank_name": "Vakıfbank",
-      "adi": "Bodrum Çarşı Muğla Şubesi",
+      "adi": "Halikarnas Bodrum Muğla Şubesi",
       "adres": "Yokuşbaşı Mahallesi Kıbrıs Şehitleri Caddesi No:33",
       "lat": 37.041502,
       "lng": 27.436323
