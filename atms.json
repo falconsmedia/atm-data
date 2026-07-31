@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T05:46:23.685751Z",
+  "updated_at": "2026-07-31T06:18:18.503587Z",
   "total": 57645,
   "banks": {
     "Ziraat Bankası": 8475,
@@ -428729,54 +428729,6 @@
     {
       "bank_no": 45,
       "bank_name": "Turkish Bank",
-      "adi": "Merkez Şube",
-      "adres": "Esentepe Mah. Ali Kaya Sok. Polat Plaza A Blok No:1A/53",
-      "lat": 41.049265,
-      "lng": 28.988086
-    },
-    {
-      "bank_no": 45,
-      "bank_name": "Turkish Bank",
-      "adi": "Çiftehavuzlar Şube",
-      "adres": "Göztepe Mahallesi Bağdat Cad. No:227/A",
-      "lat": 40.974892,
-      "lng": 29.052783
-    },
-    {
-      "bank_no": 45,
-      "bank_name": "Turkish Bank",
-      "adi": "Moda Şube",
-      "adres": "Moda Cad. Rıza Paşa Sok. Moda Apt. No: 1",
-      "lat": 40.984382,
-      "lng": 29.024378
-    },
-    {
-      "bank_no": 45,
-      "bank_name": "Turkish Bank",
-      "adi": "İzmir Şube",
-      "adres": "Akdeniz, Gazi Blv. No: 68/A",
-      "lat": 38.424023,
-      "lng": 27.136712
-    },
-    {
-      "bank_no": 45,
-      "bank_name": "Turkish Bank",
-      "adi": "İstanbul Şube",
-      "adres": "Esentepe Mah. Ali Kaya Sok. Polat Plaza A Blok No:1A/52",
-      "lat": 41.079004,
-      "lng": 29.010697
-    },
-    {
-      "bank_no": 45,
-      "bank_name": "Turkish Bank",
-      "adi": "Ankara Şube",
-      "adres": "Büyükesat Mahallesi Uğur Mumcu Caddesi No:42/A ",
-      "lat": 39.891977,
-      "lng": 32.874728
-    },
-    {
-      "bank_no": 45,
-      "bank_name": "Turkish Bank",
       "adi": "Çiftehavuzlar Şube",
       "adres": "Göztepe Mahallesi Bağdat Cad. No:227/A",
       "lat": 40.974892,
@@ -428810,6 +428762,54 @@
       "bank_no": 45,
       "bank_name": "Turkish Bank",
       "adi": "İstanbul-1 Şube",
+      "adres": "Esentepe Mah. Ali Kaya Sok. Polat Plaza A Blok No:1A/52",
+      "lat": 41.079004,
+      "lng": 29.010697
+    },
+    {
+      "bank_no": 45,
+      "bank_name": "Turkish Bank",
+      "adi": "Ankara Şube",
+      "adres": "Büyükesat Mahallesi Uğur Mumcu Caddesi No:42/A ",
+      "lat": 39.891977,
+      "lng": 32.874728
+    },
+    {
+      "bank_no": 45,
+      "bank_name": "Turkish Bank",
+      "adi": "Merkez Şube",
+      "adres": "Esentepe Mah. Ali Kaya Sok. Polat Plaza A Blok No:1A/53",
+      "lat": 41.049265,
+      "lng": 28.988086
+    },
+    {
+      "bank_no": 45,
+      "bank_name": "Turkish Bank",
+      "adi": "Çiftehavuzlar Şube",
+      "adres": "Göztepe Mahallesi Bağdat Cad. No:227/A",
+      "lat": 40.974892,
+      "lng": 29.052783
+    },
+    {
+      "bank_no": 45,
+      "bank_name": "Turkish Bank",
+      "adi": "Moda Şube",
+      "adres": "Moda Cad. Rıza Paşa Sok. Moda Apt. No: 1",
+      "lat": 40.984382,
+      "lng": 29.024378
+    },
+    {
+      "bank_no": 45,
+      "bank_name": "Turkish Bank",
+      "adi": "İzmir Şube",
+      "adres": "Akdeniz, Gazi Blv. No: 68/A",
+      "lat": 38.424023,
+      "lng": 27.136712
+    },
+    {
+      "bank_no": 45,
+      "bank_name": "Turkish Bank",
+      "adi": "İstanbul Şube",
       "adres": "Esentepe Mah. Ali Kaya Sok. Polat Plaza A Blok No:1A/52",
       "lat": 41.079004,
       "lng": 29.010697
