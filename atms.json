@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T04:42:36.828169Z",
+  "updated_at": "2026-08-11T04:23:51.192246Z",
   "total": 59597,
   "banks": {
     "Ziraat Bankası": 8475,
@@ -100944,10 +100944,10 @@
     {
       "bank_no": 5,
       "bank_name": "Halkbank",
-      "adi": "Jandarma Akademi Ankara Uydu Şubesi",
-      "adres": "Ahlatlıbel Mah. İncek Şehit Savcı Mehmet Selim Kiraz Bul. No",
-      "lat": 39.842929,
-      "lng": 32.738783
+      "adi": "Eskişehir Yolu Ankara Şubesi",
+      "adres": "Konutkent Mah. 3028 Cad. No:8A İç Kapı No:8  06810 ",
+      "lat": 39.876952,
+      "lng": 32.654946
     },
     {
       "bank_no": 5,
@@ -102841,9 +102841,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Saltak Şubesi/Denizli",
-      "adres": "Sırakapılar Mah. Saltak Cad. No:105A ",
-      "lat": 37.776503,
-      "lng": 29.082249
+      "adres": "Sırakapılar Mah. Saltak Cad. No:64A 20010 ",
+      "lat": 37.779315,
+      "lng": 29.082135
     },
     {
       "bank_no": 5,
@@ -104745,9 +104745,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Kızıltoprak Şubesi/İstanbul",
-      "adres": "Fikirtepe Mahallesi Yıldırım Sokak No:2/4B 34720 ",
-      "lat": 40.993313,
-      "lng": 29.047711
+      "adres": "Feneryolu Mah. Bağdat Cad. No:75A 34724 ",
+      "lat": 40.980598,
+      "lng": 29.042645
     },
     {
       "bank_no": 5,
@@ -105937,9 +105937,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Oto Tamirciler 2. Sanayi Sitesi Şubesi/İzmir",
-      "adres": "Kazımdirik Mah.  296. Sok.  No:4A 35100 ",
-      "lat": 38.446715,
-      "lng": 27.185829
+      "adres": "Kazımdirik Mah. 351. Sok. No:9 35100 ",
+      "lat": 38.445407,
+      "lng": 27.192673
     },
     {
       "bank_no": 5,
@@ -385289,9 +385289,9 @@
       "bank_no": 32,
       "bank_name": "İş Bankası",
       "adi": "Konya",
-      "adres": "Şükran Mahallesi Alaaddin Bulvarı No:30A-1",
-      "lat": 37.872446,
-      "lng": 32.494393
+      "adres": "Sahibata Mahallesi Mest Sokak No:12A ",
+      "lat": 37.871007,
+      "lng": 32.49576
     },
     {
       "bank_no": 32,
@@ -386849,7 +386849,7 @@
       "bank_no": 32,
       "bank_name": "İş Bankası",
       "adi": "Afşin/Kahramanmaraş",
-      "adres": "Pınarbaşı Mahallesi Köşoğlu Caddesi No:3C",
+      "adres": "Pınarbaşı Mahallesi Köşoğlu Caddesi No:3B",
       "lat": 38.244202,
       "lng": 36.91061
     },
