@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T04:23:51.192246Z",
-  "total": 59597,
+  "updated_at": "2026-08-12T04:51:35.159113Z",
+  "total": 59595,
   "banks": {
     "Ziraat Bankası": 8475,
     "Halkbank": 5132,
@@ -43,7 +43,7 @@
     "Nurol Yatırım Bankası": 1,
     "BankPozitif": 1,
     "Aktif Yatırım Bankası": 16,
-    "Odeabank": 81,
+    "Odeabank": 79,
     "MUFG Bank": 1,
     "Intesa Sanpaolo": 1,
     "Rabobank": 1,
@@ -476137,7 +476137,7 @@
       "bank_no": 105,
       "bank_name": "Odeabank",
       "adi": "Mersin Şubesi ",
-      "adres": "Kültür Mahallesi İsmet İnönü Bulvarı No:146/A (Adres Kodı: 1",
+      "adres": "Kültür Mahallesi İsmet İnönü Bulvarı No:146/A",
       "lat": 36.790294,
       "lng": 34.623428
     },
@@ -476177,7 +476177,7 @@
       "bank_no": 105,
       "bank_name": "Odeabank",
       "adi": "İskenderun Şubesi",
-      "adres": "Pirireis Mah. İ.İnönü Cad. No.8A İskenderun /Hatay",
+      "adres": "Pirireis Mah. İ.İnönü Cad. No.8A",
       "lat": 36.590453,
       "lng": 36.173774
     },
@@ -476209,7 +476209,7 @@
       "bank_no": 105,
       "bank_name": "Odeabank",
       "adi": "Nişantaşı Şubesi ",
-      "adres": "Harbiye Mh Mim Kemal Öke Caddesi No: 17/2-3 Nişantaşı İstanb",
+      "adres": "Harbiye Mh Mim Kemal Öke Caddesi No: 17/2-3 Nişantaşı",
       "lat": 41.049612,
       "lng": 28.991013
     },
@@ -476257,7 +476257,7 @@
       "bank_no": 105,
       "bank_name": "Odeabank",
       "adi": "İzmit Çarşı Şubesi ",
-      "adres": "Cumhuriyet Cad. No:104",
+      "adres": "Karabaş Mah, Leyla Atakan Cad. No:25A",
       "lat": 40.763046,
       "lng": 29.927026
     },
@@ -476320,8 +476320,8 @@
     {
       "bank_no": 105,
       "bank_name": "Odeabank",
-      "adi": "Trend Finans Dijital Şube",
-      "adres": "Esentepe Mahallesi Büyükdere Cad. Levent 199, Büyükdere Cad.",
+      "adi": "Odeabank A.Ş. Dijital Şubesi",
+      "adres": "Esentepe Mahallesi Büyükdere Caddesi Levent 199 No:199 / 122",
       "lat": 41.080496,
       "lng": 29.010373
     },
@@ -476345,7 +476345,7 @@
       "bank_no": 105,
       "bank_name": "Odeabank",
       "adi": "Suadiye Anadolu Merkez Şube",
-      "adres": "Bağdat Caddesi No:406 / Suadiye / İstanbul",
+      "adres": "Bağdat Caddesi No:406 / Suadiye",
       "lat": 40.976488,
       "lng": 29.097808
     },
@@ -476372,14 +476372,6 @@
       "adres": "Konak Mahallesi Lefkoşe Caddesi No:18-20 B",
       "lat": 40.2094,
       "lng": 28.9918
-    },
-    {
-      "bank_no": 105,
-      "bank_name": "Odeabank",
-      "adi": "Adana Şube 1",
-      "adres": "Reşatbey Mah. Atatürk Cad. Mimar Semih Rüstem İş Merkezi Sit",
-      "lat": 36.994635,
-      "lng": 35.325272
     },
     {
       "bank_no": 105,
@@ -476441,7 +476433,7 @@
       "bank_no": 105,
       "bank_name": "Odeabank",
       "adi": "Mersin Şube",
-      "adres": "Kültür Mah. İsmet İnönü Bulvarı, No: 146/A, Mersin",
+      "adres": "Kültür Mah. İsmet İnönü Bulvarı, No: 146/A, ",
       "lat": 36.79035,
       "lng": 34.62341
     },
@@ -476457,7 +476449,7 @@
       "bank_no": 105,
       "bank_name": "Odeabank",
       "adi": "Konya Şube",
-      "adres": "Feritpaşa Mah. Kule Cad. No: 7 B Selçuklu-Konya",
+      "adres": "Feritpaşa Mah. Kule Cad. No: 7 B",
       "lat": 37.888547,
       "lng": 32.492729
     },
@@ -476481,7 +476473,7 @@
       "bank_no": 105,
       "bank_name": "Odeabank",
       "adi": "İskenderun Şube",
-      "adres": "Pirireis Mah. İ.İnönü Cad. No.8A İskenderun /Hatay",
+      "adres": "Pirireis Mah. İ.İnönü Cad. No.8A ",
       "lat": 36.58781,
       "lng": 36.16295
     },
@@ -476521,15 +476513,7 @@
       "bank_no": 105,
       "bank_name": "Odeabank",
       "adi": "Ankara Gop Şube 1",
-      "adres": "Uğur Mumcu Cad.No:16  Çankaya",
-      "lat": 39.891831,
-      "lng": 32.870829
-    },
-    {
-      "bank_no": 105,
-      "bank_name": "Odeabank",
-      "adi": "Ankara Gop Şube 2",
-      "adres": "Uğur Mumcu Cad.No:16  Çankaya",
+      "adres": "Uğur Mumcu Cad.No:16 ",
       "lat": 39.891831,
       "lng": 32.870829
     },
@@ -476537,7 +476521,7 @@
       "bank_no": 105,
       "bank_name": "Odeabank",
       "adi": "Kozyatağı  Şube",
-      "adres": "Sahrayıcedit Mah. Atatürk Cad. No : 42 D Kadıköy/İstanbul",
+      "adres": "Sahrayıcedit Mah. Atatürk Cad. No : 42 D ",
       "lat": 40.960728,
       "lng": 29.079126
     },
@@ -476561,7 +476545,7 @@
       "bank_no": 105,
       "bank_name": "Odeabank",
       "adi": "İzmir Bostanlı Şube",
-      "adres": "Cemal Gürsel Caddesi No.532/A-B Bostanlı Mahallesi Karşıyaka",
+      "adres": "Cemal Gürsel Caddesi No.532/A-B Bostanlı Mahallesi",
       "lat": 38.458363,
       "lng": 27.095536
     },
@@ -476593,7 +476577,7 @@
       "bank_no": 105,
       "bank_name": "Odeabank",
       "adi": "Levent 199",
-      "adres": "Buyukdere Caddesı No : 199 Levent İstanbul",
+      "adres": "Buyukdere Caddesı No : 199",
       "lat": 41.080597,
       "lng": 29.010845
     },
@@ -476601,7 +476585,7 @@
       "bank_no": 105,
       "bank_name": "Odeabank",
       "adi": "Adana Çakmak Plaza",
-      "adres": "Çakmak Cad. No:37 Seyhan / Adana",
+      "adres": "Çakmak Cad. No:37",
       "lat": 36.98901,
       "lng": 35.32559
     },
@@ -476609,7 +476593,7 @@
       "bank_no": 105,
       "bank_name": "Odeabank",
       "adi": "Bursa Osmangazi Metro",
-      "adres": "Çırpan Mahallesi,5848 Ada 1 Parsel Osmangazi / Bursa",
+      "adres": "Çırpan Mahallesi,5848 Ada 1 Parsel",
       "lat": 40.19573,
       "lng": 29.05758
     },
@@ -476633,7 +476617,7 @@
       "bank_no": 105,
       "bank_name": "Odeabank",
       "adi": "Kanyon Avm",
-      "adres": "Kanyon Avm Büyükdere Cad. No:185 Levent / İstanbul",
+      "adres": "Kanyon Avm Büyükdere Cad. No:185",
       "lat": 41.078775,
       "lng": 29.01101
     },
@@ -476665,7 +476649,7 @@
       "bank_no": 105,
       "bank_name": "Odeabank",
       "adi": "Vadi İstanbul Avm",
-      "adres": "Ayazağa Mahallesi, Azerbaycan Caddesi, No:3C-354 Sarıyer/İst",
+      "adres": "Ayazağa Mahallesi, Azerbaycan Caddesi, No:3C-354 ",
       "lat": 41.10837,
       "lng": 28.98817
     },
