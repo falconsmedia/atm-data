@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-12T04:51:35.159113Z",
-  "total": 59595,
+  "updated_at": "2026-08-13T04:56:06.641706Z",
+  "total": 59596,
   "banks": {
     "Ziraat Bankası": 8475,
     "Halkbank": 5132,
-    "Vakıfbank": 5070,
+    "Vakıfbank": 5071,
     "Akbank": 6842,
     "Alternatifbank": 46,
     "Burgan Bank": 50,
@@ -146460,6 +146460,14 @@
       "adres": "Cumhuriyet Mah.Ergenekon Cad. No:58A Feriköy",
       "lat": 41.053893,
       "lng": 28.982572
+    },
+    {
+      "bank_no": 6,
+      "bank_name": "Vakıfbank",
+      "adi": "Finansal Kurumlar Şubesi",
+      "adres": "Esentepe Mahallesi Büyükdere Caddesi No:197",
+      "lat": 41.080055,
+      "lng": 29.011191
     },
     {
       "bank_no": 6,
