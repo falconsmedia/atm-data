@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T03:54:19.722521Z",
+  "updated_at": "2026-08-18T03:49:42.211817Z",
   "total": 59596,
   "banks": {
     "Ziraat Bankası": 8475,
@@ -102761,9 +102761,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Buldan Şubesi/Denizli",
-      "adres": "Kurtuluş Mah. Şevket Cerit Sokak No:2/A",
-      "lat": 38.045778,
-      "lng": 28.829119
+      "adres": "Dört Eylül Mahallesi  Adnan Menderes Bulvarı No:74A 20400 ",
+      "lat": 38.042592,
+      "lng": 28.838654
     },
     {
       "bank_no": 5,
@@ -106281,9 +106281,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "İnebolu Şubesi/Kastamonu",
-      "adres": "Aşağıhatipbağı Mah. Hürriyet Cad. No:14",
-      "lat": 41.978441,
-      "lng": 33.7599
+      "adres": "Aşağıhatipbağı Mahallesi Cumhuriyet Caddesi No:45 37500 ",
+      "lat": 41.978987,
+      "lng": 33.760115
     },
     {
       "bank_no": 5,
@@ -149112,7 +149112,7 @@
     {
       "bank_no": 6,
       "bank_name": "Vakıfbank",
-      "adi": "Çorlu Sanayi Tekirdağ Şubesi",
+      "adi": "Çorlu Ticari Şubesi",
       "adres": "Şeyhsinan Mahallesi Ali Osman Çelebi Bulvarı No:79/1D",
       "lat": 41.1521,
       "lng": 27.779
