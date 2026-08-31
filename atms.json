@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-30T09:04:12.823635Z",
-  "total": 59596,
+  "updated_at": "2026-08-31T09:31:52.005343Z",
+  "total": 59580,
   "banks": {
     "Ziraat Bankası": 8475,
     "Halkbank": 5132,
     "Vakıfbank": 5071,
-    "Akbank": 6842,
+    "Akbank": 6833,
     "Alternatifbank": 46,
     "Burgan Bank": 50,
     "Birleşik Fon Bankası": 1,
     "QNB": 4133,
-    "Şekerbank": 500,
+    "Şekerbank": 498,
     "Turkland Bank": 11,
     "ICBC Turkey": 44,
     "ING Bank": 1568,
     "TEB": 1865,
     "Türk Ticaret Bankası": 16,
     "Garanti BBVA": 7287,
-    "İş Bankası": 7491,
+    "İş Bankası": 7486,
     "Yapı Kredi": 6941,
     "Arap Türk Bankası": 4,
     "HSBC": 74,
@@ -199344,7 +199344,7 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Adana Ticari",
+      "adi": "Adana Ticari Merkez",
       "adres": "Döşeme Mahallesi Dr. Ali Menteşoğlu Caddesi No:37/E",
       "lat": 36.991843,
       "lng": 35.325206
@@ -199592,7 +199592,7 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Antalya Ticari",
+      "adi": "Antalya Ticari Merkez",
       "adres": "Mehmetçik Mah. Aspendos Bulv. Aspendos İş Merk. No : 65",
       "lat": 36.88923,
       "lng": 30.740143
@@ -199632,18 +199632,18 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Arnavutköy/Beşiktaş",
-      "adres": "Beyazgül Cad. No : 10  ",
-      "lat": 41.067638,
-      "lng": 29.042994
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
       "adi": "Arnavutköy",
       "adres": "Mehmet Akif Ersoy Cad. No:34 ",
       "lat": 41.184145,
       "lng": 28.739046
+    },
+    {
+      "bank_no": 8,
+      "bank_name": "Akbank",
+      "adi": "Arnavutköy/Beşiktaş",
+      "adres": "Beyazgül Cad. No : 10  ",
+      "lat": 41.067638,
+      "lng": 29.042994
     },
     {
       "bank_no": 8,
@@ -199668,14 +199668,6 @@
       "adres": "Güvenlik Cad. No : 77",
       "lat": 39.901602,
       "lng": 32.853262
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
-      "adi": "Balçova ",
-      "adres": "Eğitim Mah. Özkavruk Sok. No :20/22",
-      "lat": 38.390677,
-      "lng": 27.058513
     },
     {
       "bank_no": 8,
@@ -199776,6 +199768,14 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
+      "adi": "Avrupa Ticari Merkez",
+      "adres": "İkitelli Organize Sanayi Bölgesi Atatürk Bulvarı Haseyad Koo",
+      "lat": 41.075393,
+      "lng": 28.810231
+    },
+    {
+      "bank_no": 8,
+      "bank_name": "Akbank",
       "adi": "Ayazpaşa",
       "adres": "Mete Caddesi, Mete Palas Apartmanı, No: 20 Gümüşsuyu",
       "lat": 41.03728426,
@@ -199856,7 +199856,7 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Bahçekapı Ticari",
+      "adi": "Bahçekapı Ticari Merkez",
       "adres": "Büyük Postane Cad. No : 47  ",
       "lat": 41.014894,
       "lng": 28.973275
@@ -199900,6 +199900,14 @@
       "adres": "İstasyon Cad. No : 9 / 11  ",
       "lat": 40.978703,
       "lng": 28.874295
+    },
+    {
+      "bank_no": 8,
+      "bank_name": "Akbank",
+      "adi": "Balçova ",
+      "adres": "Eğitim Mah. Özkavruk Sok. No :20/22",
+      "lat": 38.390677,
+      "lng": 27.058513
     },
     {
       "bank_no": 8,
@@ -200184,18 +200192,18 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Binevler/Kahramanmaraş",
-      "adres": "Akif İnan Mah. Sahra Apartmanı No:1",
-      "lat": 37.588329,
-      "lng": 36.889593
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
       "adi": "Binevler/ Gaziantep",
       "adres": "15 Temmuz Mahallesi Abdulkadir Aksu Bulvarı No:134A Şehitkam",
       "lat": 37.054318858,
       "lng": 37.329199436
+    },
+    {
+      "bank_no": 8,
+      "bank_name": "Akbank",
+      "adi": "Binevler/Kahramanmaraş",
+      "adres": "Akif İnan Mah. Sahra Apartmanı No:1",
+      "lat": 37.588329,
+      "lng": 36.889593
     },
     {
       "bank_no": 8,
@@ -200244,14 +200252,6 @@
       "adres": "Cengiz Topel Cad. No : 14  ",
       "lat": 38.458937,
       "lng": 27.093881
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
-      "adi": "Bozüyük",
-      "adres": "İnönü Cad. No : 4  ",
-      "lat": 39.906319999,
-      "lng": 30.03799
     },
     {
       "bank_no": 8,
@@ -200320,7 +200320,7 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Bursa Ticari",
+      "adi": "Bursa Ticari Merkez",
       "adres": "Fethiye Mah. Fatih Sultan Mehmet Bulvarı No:185/A-B-C",
       "lat": 40.230365,
       "lng": 28.981826
@@ -200416,14 +200416,6 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "CityS Kozyatağı",
-      "adres": "İçerenköy Mah. Çayır Cad. Carrefoursa Kozyatağı Avm No:1/1 D",
-      "lat": 40.979559,
-      "lng": 29.098776
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
       "adi": "Cumhuriyet Caddesi",
       "adres": "Barbaros Hayrettin Paşa Mahallesi 1995. Sokak No: 1-3C",
       "lat": 41.01568,
@@ -200472,7 +200464,7 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Çankaya Ticari",
+      "adi": "Çankaya Ticari Merkez",
       "adres": "Hoşdere Cad. No : 222",
       "lat": 39.88496,
       "lng": 32.853652
@@ -200548,14 +200540,6 @@
       "adres": "Meclis Mah Aşkın Sok No 39/B",
       "lat": 41.013654,
       "lng": 29.192165
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
-      "adi": "Çengelköy",
-      "adres": "Kuleli Cad. No : 13  ",
-      "lat": 41.05135,
-      "lng": 29.052015
     },
     {
       "bank_no": 8,
@@ -201048,14 +201032,6 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Esenkent",
-      "adres": "Esenkent Mah. Süleyman Demirel Cad. Çarşı Pazarkent Avm No:1",
-      "lat": 41.060959,
-      "lng": 28.676703999
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
       "adi": "Esenler",
       "adres": "Fevzi Çakmak Mah. Atışalanı Cad. No : 12 ",
       "lat": 41.038357,
@@ -201108,14 +201084,6 @@
       "adres": "Eskişehir Organize San. Bölgesi Teknoloji Bulv. İş Ve Tic. M",
       "lat": 39.752252,
       "lng": 30.641775
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
-      "adi": "Espiye",
-      "adres": "Gazi Mustafa Kemal Cad. No : 136  ",
-      "lat": 40.948168,
-      "lng": 38.706475
     },
     {
       "bank_no": 8,
@@ -201256,7 +201224,7 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Galata Ticari",
+      "adi": "Galata Ticari Merkez",
       "adres": "Eski Gümrük Sok. No : 2  ",
       "lat": 41.022873,
       "lng": 28.975664
@@ -201296,7 +201264,7 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Gayrettepe Ticari",
+      "adi": "Gayrettepe Ticari Merkez",
       "adres": "Büyükdere Cad. Bengün İş Hanı No : 107 ",
       "lat": 41.067094,
       "lng": 29.003278
@@ -201320,7 +201288,7 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Gaziantep Ticari",
+      "adi": "Gaziantep Ticari Merkez",
       "adres": "İncilipınar Mah. Gazimuhtarpaşa Cad. No : 33 ",
       "lat": 37.070153001,
       "lng": 37.366851
@@ -201368,15 +201336,7 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Gebze Bağdat Caddesi",
-      "adres": "Osman Yılmaz Mahallesi Yeni Bağdat Caddesi No: 330 B ",
-      "lat": 40.792174,
-      "lng": 29.426176
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
-      "adi": "Gebze Ticari",
+      "adi": "Gebze Ticari Merkez",
       "adres": "Gebze Osb Mahallesi 1600. Sokak No: 1601/5 Çayırova Kocaeli",
       "lat": 40.848144,
       "lng": 29.425354
@@ -201512,7 +201472,7 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Güneşli Ticari",
+      "adi": "Güneşli Ticari Merkez",
       "adres": "Güneşli Mah. Mimar Sinan Cad. No : 70 ",
       "lat": 41.035366,
       "lng": 28.809636
@@ -201680,14 +201640,6 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "İkitelli Ticari",
-      "adres": "İkitelli Organize Sanayi Bölgesi Atatürk Bulvarı Haseyad Koo",
-      "lat": 41.075393,
-      "lng": 28.810231
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
       "adi": "İmes",
       "adres": "Yukarıdudullu Mah. Bostancıyolu Cad. Keyap Çarşısı A1 Blok N",
       "lat": 41.004556,
@@ -201704,7 +201656,7 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "İmes Ticari",
+      "adi": "İmes Ticari Merkez",
       "adres": "Yukarıdudullu Mah. Bostancıyolu Cad. Keyap Çarşısı A1 Blok N",
       "lat": 41.004555,
       "lng": 29.159029
@@ -201796,14 +201748,6 @@
       "adres": "Eminel İş Merkezi İvedik Organize Sanayi Bölgesi Melih Gökçe",
       "lat": 39.99126,
       "lng": 32.746056
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
-      "adi": "İvedik Organize Sanayi",
-      "adres": "İvedik Organize Sanayi Bölgesi Ağaç İşleri Sitesi 21.Cadde (",
-      "lat": 39.991877,
-      "lng": 32.755979
     },
     {
       "bank_no": 8,
@@ -202104,7 +202048,7 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Kayseri Osb",
+      "adi": "Kayseri Ticari Merkez",
       "adres": "Kayseri Organize Sanayi Bölgesi 11.Cadde No:9/B Melikgazi",
       "lat": 38.735379,
       "lng": 35.367002
@@ -202320,7 +202264,7 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Kozyatağı Ticari",
+      "adi": "Kozyatağı Ticari Merkez",
       "adres": "Şehit M.Fatih Öngül Sok. Hasan Bağdatlı İş Merkezi ",
       "lat": 40.968677,
       "lng": 29.101647
@@ -202616,7 +202560,7 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Maslak Ticari",
+      "adi": "Maslak Ticari Merkez",
       "adres": "Maslak Mah. Yelkovan Sok. Maslak Square Sitesi No: 2 / 100 ",
       "lat": 41.111600298,
       "lng": 29.02161651
@@ -203192,14 +203136,6 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Sanayi Sitesi / Balıkesir",
-      "adres": "S.S. Balıkesir Merkez Küçük Sanayi Sitesi Yapı Kooperatifi Y",
-      "lat": 39.669449,
-      "lng": 27.925883
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
       "adi": "Sanayi / İzmit",
       "adres": "Karadenizliler Mah. Fakülte Cad. No:65/6 Başiskele ",
       "lat": 40.746229,
@@ -203216,10 +203152,10 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Sanayi Sitesi/Manisa",
-      "adres": "Elmalı Cad. Sosyal Tesisler No :26  ",
-      "lat": 38.618325,
-      "lng": 27.378879
+      "adi": "Sanayi Sitesi / Balıkesir",
+      "adres": "S.S. Balıkesir Merkez Küçük Sanayi Sitesi Yapı Kooperatifi Y",
+      "lat": 39.669449,
+      "lng": 27.925883
     },
     {
       "bank_no": 8,
@@ -203232,10 +203168,10 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Sanayi/İnegöl",
-      "adres": "Yeni Sanayi Ertuğrulgazi Cad. No:36 ",
-      "lat": 40.074619,
-      "lng": 29.525089
+      "adi": "Sanayi Sitesi/Manisa",
+      "adres": "Elmalı Cad. Sosyal Tesisler No :26  ",
+      "lat": 38.618325,
+      "lng": 27.378879
     },
     {
       "bank_no": 8,
@@ -203600,7 +203536,7 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Şişli Ticari",
+      "adi": "Şişli Ticari Merkez",
       "adres": "Halaskargazi Cad. No : 338  ",
       "lat": 41.059648,
       "lng": 28.987287
@@ -203945,7 +203881,7 @@
       "bank_no": 8,
       "bank_name": "Akbank",
       "adi": "Üsküdar",
-      "adres": "Aziz Mahmut Hüdayi Mahallesi Halk Caddesi No:10 Üsküdar İsta",
+      "adres": "Mimar Sinan Mah. Dr. Fahri Atabey Cad. No:1 ",
       "lat": 41.021575,
       "lng": 29.016838
     },
@@ -203960,18 +203896,18 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Vakfıkebir",
-      "adres": "Çarşı Mah. 14 Şubat Cad. No : 66 ",
-      "lat": 41.047125,
-      "lng": 39.277132
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
       "adi": "Vadistanbul",
       "adres": "Vadistanbul Alışveriş Ve Yaşam Merkezi Ayazağa Mah. Cendere ",
       "lat": 41.109191,
       "lng": 28.987443
+    },
+    {
+      "bank_no": 8,
+      "bank_name": "Akbank",
+      "adi": "Vakfıkebir",
+      "adres": "Çarşı Mah. 14 Şubat Cad. No : 66 ",
+      "lat": 41.047125,
+      "lng": 39.277132
     },
     {
       "bank_no": 8,
@@ -204004,14 +203940,6 @@
       "adres": "Duaçınar Mah. Vişne Caddesi No:168",
       "lat": 40.195702,
       "lng": 29.104657
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
-      "adi": "Yakuplu",
-      "adres": "Hürriyet Bulvarı, Marmara Çarşı, No:36 Yakuplu Beylikdüzü",
-      "lat": 40.984614,
-      "lng": 28.670894
     },
     {
       "bank_no": 8,
@@ -241976,14 +241904,6 @@
     {
       "bank_no": 22,
       "bank_name": "Şekerbank",
-      "adi": "Yekta Mall",
-      "adres": "Mahmutlar Mahallesi, Mahmutlar Atatürk Caddesi No:123 Yekta ",
-      "lat": 36.485581,
-      "lng": 32.10489
-    },
-    {
-      "bank_no": 22,
-      "bank_name": "Şekerbank",
       "adi": "Genel Müdürlük 2",
       "adres": "Emniyet Evleri Mah. Akarsu Cad. Seyir Sok. No:3 ",
       "lat": 41.0859784,
@@ -242020,14 +241940,6 @@
       "adres": "Hüyüklü Beldesi Eskigeçit Mahallesi Cumhuriyet Meydanı No: 7",
       "lat": 38.236076,
       "lng": 31.125185
-    },
-    {
-      "bank_no": 22,
-      "bank_name": "Şekerbank",
-      "adi": "Bodrum Marina",
-      "adres": "Eskiçeşme Mahallesi Cafer Paşa Caddesi No:28",
-      "lat": 37.03526,
-      "lng": 27.41521
     },
     {
       "bank_no": 22,
@@ -386192,14 +386104,6 @@
     {
       "bank_no": 32,
       "bank_name": "İş Bankası",
-      "adi": "Atatürk Caddesi/Osmaniye",
-      "adres": "Mehmet Akif Ersoy Mahallesi Atatürk Caddesi No:397A ",
-      "lat": 37.061744,
-      "lng": 36.238326
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
       "adi": "Seyhan/Adana",
       "adres": "Çınarlı Mahallesi Turhan Cemal Beriker Bulvarı No:31",
       "lat": 36.991722,
@@ -386212,14 +386116,6 @@
       "adres": "Yeşiloba Mahallesi Fatma Esma Nayman Caddesi No:28 ",
       "lat": 36.985915,
       "lng": 35.253808
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
-      "adi": "Sofulu/Adana",
-      "adres": "Şahintepe Mahallesi Kozan Bulvarı No:282A ",
-      "lat": 37.031413,
-      "lng": 35.40945
     },
     {
       "bank_no": 32,
@@ -387200,16 +387096,8 @@
     {
       "bank_no": 32,
       "bank_name": "İş Bankası",
-      "adi": "Yenimahalle/Ordu",
-      "adres": "Yeni Mahallesi İsmetpaşa Caddesi No:45/A",
-      "lat": 40.980581,
-      "lng": 37.886231
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
-      "adi": "Akyazı/Ordu",
-      "adres": "Akyazı Mahallesi Atatürk Bulvarı No:353/1",
+      "adi": "Atatürk Bulvarı/Ordu",
+      "adres": "Akyazı Mahallesi Atatürk Bulvarı No:353",
       "lat": 40.976227,
       "lng": 37.913865
     },
@@ -387528,14 +387416,6 @@
     {
       "bank_no": 32,
       "bank_name": "İş Bankası",
-      "adi": "Amasra/Bartın",
-      "adres": "Kum Mahallesi Küçük Liman Caddesi No:2-A",
-      "lat": 41.748572,
-      "lng": 32.385936
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
       "adi": "Alaplı/Zonguldak",
       "adres": "Merkez Mahallesi Ali Alp Caddesi No:55/A",
       "lat": 41.179347,
@@ -387649,9 +387529,9 @@
       "bank_no": 32,
       "bank_name": "İş Bankası",
       "adi": "Diclekent/Diyarbakır",
-      "adres": "Diclekent Mahallesi Diclekent Bulvarı No:113Ac  ",
-      "lat": 37.9501,
-      "lng": 40.174511
+      "adres": "Diclekent Mahallesi Kayapınar Caddesi No:116",
+      "lat": 37.948241,
+      "lng": 40.178326
     },
     {
       "bank_no": 32,
@@ -387860,14 +387740,6 @@
       "adres": "Merkez Kuledibi Mahallesi Cumhuriyet Meydanı No:10",
       "lat": 41.394408,
       "lng": 41.420014
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
-      "adi": "Yusufeli/Artvin",
-      "adres": "Çoruh Mahallesi Recep Tayyip Erdoğan Caddesi No:13/28 ",
-      "lat": 40.810232,
-      "lng": 41.522142
     },
     {
       "bank_no": 32,
