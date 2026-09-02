@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-01T08:28:55.477890Z",
-  "total": 59572,
+  "updated_at": "2026-09-02T07:46:46.633211Z",
+  "total": 59571,
   "banks": {
-    "Ziraat Bankası": 8475,
+    "Ziraat Bankası": 8474,
     "Halkbank": 5132,
     "Vakıfbank": 5071,
     "Akbank": 6833,
@@ -54257,9 +54257,9 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Tufanbeyli/Adana Şubesi",
-      "adres": "Cumhuriyet Mah. Saimbeyli Cd. No: 58 B 01640 Tufanbeyli Adan",
-      "lat": 38.26545,
-      "lng": 36.27994
+      "adres": "Cumhuriyet Mah. Saimbeyli Cd. No: 58 B 01640  Tufanbeyli Ada",
+      "lat": 38.25753,
+      "lng": 36.21894
     },
     {
       "bank_no": 3,
@@ -54281,7 +54281,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Yüreğir/Adana Şubesi",
-      "adres": "Cumhuriyet Mah. Karataş Blv. No: 1 / Z03 01280 Yüreğir Adana",
+      "adres": "Cumhuriyet Mah. Karataş Blv. No: 1 01280 Yüreğir Adana ",
       "lat": 36.98625,
       "lng": 35.33812
     },
@@ -54601,7 +54601,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Patnos/Ağrı Şubesi",
-      "adres": "Atatürk Mah. Menders No: 60 04500 Patnos Ağrı ",
+      "adres": "Atatürk Mah. Menders Blv. No: 60 04500 Patnos Ağrı ",
       "lat": 39.2352,
       "lng": 42.85895
     },
@@ -55642,8 +55642,8 @@
       "bank_name": "Ziraat Bankası",
       "adi": "Tuzluçayır/Ankara Şubesi",
       "adres": "General Zeki Doğan Mah. Natoyolu Cd. No: 80 B 06630  Mamak A",
-      "lat": 39.91611,
-      "lng": 32.91177
+      "lat": 39.91621,
+      "lng": 32.91165
     },
     {
       "bank_no": 3,
@@ -55801,7 +55801,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Gazimahallesi/Ankara Şubesi",
-      "adres": "Emniyet Mah. Silahtar Cd. No: 58 C 06560 Yenimahalle Ankara ",
+      "adres": "Gazi Mah. Silahtar Cd. No: 100 06560 Yenimahalle Ankara ",
       "lat": 39.94292,
       "lng": 32.81744
     },
@@ -55856,7 +55856,7 @@
     {
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
-      "adi": "Gimat/Ankara Ticari Şube",
+      "adi": "Hab Osb/Ankara Ticari Şube",
       "adres": "Macun Mah. Anadolu Blv. No: 5 / 10 06105  Yenimahalle Ankara",
       "lat": 39.95315,
       "lng": 32.77049
@@ -55993,7 +55993,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Demre/Antalya Şubesi",
-      "adres": "Gökyazı Mah. Ertuğrul Günay Cd. No: 1 07570  Demre Antalya ",
+      "adres": "Gökyazı Mah. Ertuğrul Günay Cd. No: 28 A 07570 Demre Antalya",
       "lat": 36.24099,
       "lng": 29.9883
     },
@@ -56313,9 +56313,9 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Lara/Antalya Şubesi",
-      "adres": "Yeşilbahçe Mah. Metin Kasapoğlu Cd. No: 42 B 07160 Muratpaşa",
-      "lat": 36.868274,
-      "lng": 30.72209
+      "adres": "Şirinyalı Mah. İsmet Gökşen Cd. No: 30 C 07160  Muratpaşa An",
+      "lat": 36.86066,
+      "lng": 30.73109
     },
     {
       "bank_no": 3,
@@ -57721,7 +57721,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Hürriyet/Bursa Şubesi",
-      "adres": "Soğukkuyu Mah. 1.Hürriyet Cd. No: 24 -26A 16170 Osmangazi Bu",
+      "adres": "Yenikaraman Mah. 1.Hürriyet Cd. No: 99 16170  Osmangazi Burs",
       "lat": 40.22274,
       "lng": 29.00276
     },
@@ -57888,16 +57888,16 @@
     {
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
-      "adi": "18 Mart Üniversitesi/Çanakkale Şubesi",
-      "adres": "Barbaros Mah. Prof.Dr Sevim Buluç Sk. No: 60 17100 Çanakkale",
-      "lat": 40.11078,
-      "lng": 26.41791
+      "adi": "18 Mart/Çanakkale Şubesi",
+      "adres": "Boğazkent Mah. Atatürk Cd. No: 45 A Kepez 17100 Çanakkale ",
+      "lat": 40.10839,
+      "lng": 26.40364
     },
     {
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Yenice/Çanakkale Şubesi",
-      "adres": "Kurtuluş Mah. Hamdibey Cd. No: 2 / Z1 17550 Yenice Çanakkale",
+      "adres": "Kurtuluş Mah. Hamdibey No: 2 / Z1 17550 Yenice Çanakkale ",
       "lat": 39.92963,
       "lng": 27.2595
     },
@@ -58289,9 +58289,9 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Bayramyeri/Denizli Şubesi",
-      "adres": "Tc Ziraat Bankası Aş Bayramyeri Şubesi Sırakapılar Mah. Prof",
-      "lat": 37.78368,
-      "lng": 29.08459
+      "adres": "Sırakapılar Mah. Prof.Dr.Nusret H.Fişek Sk. No: 4 20010 Merk",
+      "lat": 37.78138,
+      "lng": 29.08312
     },
     {
       "bank_no": 3,
@@ -58393,7 +58393,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Bismil/Diyarbakır Şubesi",
-      "adres": "Altıok Mah. Özgürlük Blv. No: 52 21500  Bismil Diyarbakır ",
+      "adres": "Altıok Mah. Özgürlük No: 74 A 21500 Bismil Diyarbakır ",
       "lat": 37.83496,
       "lng": 40.6568
     },
@@ -58985,7 +58985,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Köprüköy/Erzurum Şubesi",
-      "adres": "Şehitler Mah. Bahattin Karasu Cd. No: 1 25320  Köprüköy Erzu",
+      "adres": "Şehitler Mah. Bahattin Karasu Cd. No: 24 25320 Köprüköy Erzu",
       "lat": 39.96973,
       "lng": 41.87147
     },
@@ -59233,7 +59233,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Sarıcakaya/Eskişehir Şubesi",
-      "adres": "Yeni Mah. Hürriyet_2 Cd. No: 105 26870 Sarıcakaya Eskişehir ",
+      "adres": "Şube Tadilatı Neoeniyle Geçici Hizmet Binası Sarıkaya Mah. H",
       "lat": 40.03748,
       "lng": 30.62147
     },
@@ -59505,7 +59505,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Bulancak/Giresun Şubesi",
-      "adres": "Bulancak Mah. Atatürk Cd. No: 15 28300 Bulancak Giresun ",
+      "adres": "Bulancak Mah. Atatürk. Cd. No: 15 28300 Bulancak Giresun ",
       "lat": 40.93821,
       "lng": 38.23202
     },
@@ -59537,7 +59537,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Doğankent/Giresun Şubesi",
-      "adres": "Harşit Cd. No: 11 28510  Doğankent Giresun ",
+      "adres": "Harşit No: 20 A 28510 Doğankent Giresun ",
       "lat": 40.80969,
       "lng": 38.91648
     },
@@ -59625,7 +59625,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Tirebolu/Giresun Şubesi",
-      "adres": "Çarşı Mah. Zübeyde Hanım Cd. No: 1 28500  Tirebolu Giresun ",
+      "adres": "Çarşı Mah. Çevre Yolu Sk. No: 40 A 28500 Tirebolu Giresun ",
       "lat": 41.00688,
       "lng": 38.81464
     },
@@ -59633,7 +59633,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Yağlıdere/Giresun Şubesi",
-      "adres": "Selçuk Kayaalp Cd. No: 23 A  Yağlıdere Giresun ",
+      "adres": "Selçuk Kayaalp Cd. No: 23 / 7 28610 Yağlıdere Giresun Ziraat",
       "lat": 40.85968,
       "lng": 38.62557
     },
@@ -59641,7 +59641,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Kelkit/Gümüşhane Şubesi",
-      "adres": "Bahçelievler Mah. Zübeyde Hanım No: 22 29600 Kelkit Gümüşhan",
+      "adres": "Bahçelievler Mah. 17 Şubat Blv. No: 144 A 29600 Kelkit Gümüş",
       "lat": 40.12671,
       "lng": 39.43488
     },
@@ -59705,7 +59705,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Hakkari Şubesi",
-      "adres": "Bulak Mah. Istıklal Cd. No: 18 30100  Hakkari ",
+      "adres": "Bulak Mah. Istıklal No: 18 30100 Hakkari ",
       "lat": 37.57646,
       "lng": 43.73757
     },
@@ -59738,8 +59738,8 @@
       "bank_name": "Ziraat Bankası",
       "adi": "Antakya Şubesi",
       "adres": "Ekinci Mah. Çevre Yolu Cd. No: 186 /1 31001 Antakya Hatay ",
-      "lat": 36.29377,
-      "lng": 36.20638
+      "lat": 36.24843,
+      "lng": 36.15954
     },
     {
       "bank_no": 3,
@@ -60081,9 +60081,9 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Esatpaşa/İstanbul Şubesi",
-      "adres": "Esatpaşa Mah. Ziyapaşa Cd. No: 36 A 34704 Ataşehir İstanbul ",
-      "lat": 40.99941,
-      "lng": 29.08647
+      "adres": "Esatpaşa Mah. Ziyapaşa Cd. No: 36 A 34704  Ataşehir İstanbul",
+      "lat": 40.99942,
+      "lng": 29.08652
     },
     {
       "bank_no": 3,
@@ -60105,9 +60105,9 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Küçükbakkalköy/İstanbul Şubesi",
-      "adres": "Küçükbakkalköy Mah. Fevzipaşa Cd. No: 57 A / 14 34750  Ataşe",
-      "lat": 40.97842,
-      "lng": 29.11871
+      "adres": "Küçükbakkalköy Mah. Kayışdağı Cd. No: 93 A 34750  Ataşehir İ",
+      "lat": 40.97882,
+      "lng": 29.11575
     },
     {
       "bank_no": 3,
@@ -60537,9 +60537,9 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Sağmalcılar/İstanbul Şubesi",
-      "adres": "Tuna Cd. No: 59 Ba 34040 Bayrampaşa İstanbul ",
-      "lat": 41.04502,
-      "lng": 28.90397
+      "adres": "İsmet Paşa Mah. Tuna Cd. No: 59 Ba 34040  Bayrampaşa İstanbu",
+      "lat": 41.04483,
+      "lng": 28.90464
     },
     {
       "bank_no": 3,
@@ -60697,9 +60697,9 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Cihangir/İstanbul Şubesi",
-      "adres": "Firuzağa Mah. Defterdar Yokuşu Sk. No: 51 A 34433 Beyoğlu İs",
-      "lat": 41.03087,
-      "lng": 28.98235
+      "adres": "Gümüşsuyu Mah. Mete Cd. No: 22 A 34433  Beyoğlu İstanbul ",
+      "lat": 41.03717,
+      "lng": 28.98652
     },
     {
       "bank_no": 3,
@@ -61225,7 +61225,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Şenesenevler/İstanbul Şubesi",
-      "adres": "Suadiye Mah. Şemsettin Günaltay Cd. No: 75 A 34740 Kadıköy İ",
+      "adres": "Suadiye Mah. Şemsettin Günaltay Cd. No: 75 A 34744 Kadıköy İ",
       "lat": 40.96331,
       "lng": 29.08923
     },
@@ -61369,7 +61369,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Sanayi Mahallesi-Kağıthane/İstanbul Şubesi",
-      "adres": "Sultan Selim Mah. Sultan Selim Cd. No: 1 34415  Kağıthane İs",
+      "adres": "Sultan Selim Mah. Sultan Selim Cd. No: 57 A 34415 Kağıthane ",
       "lat": 41.09068,
       "lng": 29.00047
     },
@@ -61521,9 +61521,9 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Dragos/İstanbul Şubesi",
-      "adres": "Cevizli Mah. Bağdat Cd. No: 460 A 34840 Maltepe İstanbul ",
-      "lat": 40.91858,
-      "lng": 29.14137
+      "adres": "Cevizli Mah. Bağdat Cd. No: 440 A 34840  Maltepe İstanbul ",
+      "lat": 40.91853,
+      "lng": 29.1414
     },
     {
       "bank_no": 3,
@@ -61609,9 +61609,9 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Kaynarca/İstanbul Şubesi",
-      "adres": "Fevzi Çakmak Mah. Tevfik İleri Cd. No: 149 / 1 34899 Pendik ",
-      "lat": 40.875584,
-      "lng": 29.264345
+      "adres": "Fevzi Çakmak Mah. Tevfik İleri Cd. No: 149 A 34899  Pendik İ",
+      "lat": 40.87564,
+      "lng": 29.26435
     },
     {
       "bank_no": 3,
@@ -61913,9 +61913,9 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Şişli/İstanbul Şubesi",
-      "adres": "Halaskargazi Cd. No: 209 34381 Şişli İstanbul ",
-      "lat": 41.0602,
-      "lng": 28.98691
+      "adres": "Halaskargazi Cd. No: 209 C 34384  Şişli İstanbul ",
+      "lat": 41.06007,
+      "lng": 28.98712
     },
     {
       "bank_no": 3,
@@ -62689,9 +62689,9 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Kemalpaşa/İzmir Şubesi",
-      "adres": "Mehmet Akif Ersoy Mah. Atatürk Blv. No: 11 A 35170 Kemalpaşa",
-      "lat": 38.4277,
-      "lng": 27.41665
+      "adres": "Sekiz Eylül Mah. İzmir Cd. No: 109 A 35170 Kemalpaşa İzmir ",
+      "lat": 38.43218,
+      "lng": 27.40535
     },
     {
       "bank_no": 3,
@@ -63033,7 +63033,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Eflani/Karabük Şubesi",
-      "adres": "Candaroğulları Mah. Hükümet Cd. No: 66 / A 78300  Eflani Kar",
+      "adres": "Candaroğulları Mah. Hükümet Cd. No: 66 78300 Eflani Karabük ",
       "lat": 41.42941,
       "lng": 32.96955
     },
@@ -63041,7 +63041,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Eskipazar/Karabük Şubesi",
-      "adres": "Camii Cd. No: 1 78400  Eskipazar Karabük ",
+      "adres": "Camii Cd. No: 26 A 78400 Eskipazar Karabük ",
       "lat": 40.94468,
       "lng": 32.53122
     },
@@ -63145,7 +63145,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Arpaçay/Kars Şubesi",
-      "adres": "Orta Mah. Fikret Avcı Cd. No: 5 36730  Arpaçay Kars ",
+      "adres": "Orta Mah. Dr.İbrahim Gökçe Cd. No: 26 B 36730  Arpaçay Kars ",
       "lat": 40.8456,
       "lng": 43.32906
     },
@@ -63721,9 +63721,9 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "İstasyon Caddesi-Lüleburgaz/Kırklareli Şubesi",
-      "adres": "Hürriyet Mah. İstasyon Cd. No: 48 A 39750 Lüleburgaz Kırklar",
-      "lat": 41.39709,
-      "lng": 27.35305
+      "adres": "Hürriyet Mah. İstasyon Cd. No: 40  Lüleburgaz Kırklareli ",
+      "lat": 41.39943,
+      "lng": 27.35363
     },
     {
       "bank_no": 3,
@@ -64041,9 +64041,9 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "İzmit/Kocaeli Ticari Şube",
-      "adres": "Kemalpaşa Mah. Cumhuriyet Blv. No: 17 A 41000 İzmit Kocaeli ",
-      "lat": 40.76332,
-      "lng": 29.92416
+      "adres": "Karabaş Mah. Hafız Selim Efendi Sk. No: 14 C 41040 İzmit Koc",
+      "lat": 40.76252,
+      "lng": 29.93762
     },
     {
       "bank_no": 3,
@@ -64057,9 +64057,9 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Alemdar/Kocaeli Şubesi",
-      "adres": "Ömerağa Mah. Cumhurıyet Blv. No: 118 41100 İzmit Kocaeli ",
-      "lat": 40.76374,
-      "lng": 29.92842
+      "adres": "Cedit Mah. Sıra Kavaklar Sk. No: 1 J 41300  İzmit Kocaeli ",
+      "lat": 40.76575,
+      "lng": 29.93817
     },
     {
       "bank_no": 3,
@@ -64304,8 +64304,8 @@
     {
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
-      "adi": "Doruk Sanayi/Konya Şubesi",
-      "adres": "Fevziçakmak Mah. Aslım Cd. No: 101 E 42050  Karatay Konya ",
+      "adi": "Aslım Caddesi/Konya Şubesi",
+      "adres": "Fevziçakmak Mah. Aslım Cd. No: 101 E 42050 Karatay Konya ",
       "lat": 37.95141,
       "lng": 32.57521
     },
@@ -64641,7 +64641,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Buhara/Malatya Şubesi",
-      "adres": "Tandoğan Mah. Buhara Blv. No: 12 A 44210  Battalgazi Malatya",
+      "adres": "Tandoğan Mah. Buhara Blv. No: 12 A 44210 Battalgazi Malatya ",
       "lat": 38.35134,
       "lng": 38.34768
     },
@@ -64841,7 +64841,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Köprübaşı/Manisa Şubesi",
-      "adres": "Namık Kemal Mah. Atatürk Blv. No: 2 / 1 45930 Köprübaşı Mani",
+      "adres": "Namık Kemal Mah. Atatürk No: 2 / 1 45930 Köprübaşı Manisa ",
       "lat": 38.74782,
       "lng": 28.40349
     },
@@ -65072,18 +65072,10 @@
     {
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
-      "adi": "Mersin Şubesi",
-      "adres": "Cami Şerif Mah. Kuvai Milliye Cd. No: 4 A 33060 Akdeniz Mers",
-      "lat": 36.79764,
-      "lng": 34.63016
-    },
-    {
-      "bank_no": 3,
-      "bank_name": "Ziraat Bankası",
-      "adi": "Metropol/Mersin Şubesi",
-      "adres": "Mesudiye Mah. Kuvai Milliye No: 98 33060 Akdeniz Mersin ",
-      "lat": 36.80491,
-      "lng": 34.62341
+      "adi": "İstiklal Caddesi/Mersin Şubesi",
+      "adres": "Cami Şerif Mah. İstiklal Cd. No: 31 A 33060 Akdeniz Mersin ",
+      "lat": 36.80004,
+      "lng": 34.62982
     },
     {
       "bank_no": 3,
@@ -65092,22 +65084,6 @@
       "adres": "Hal Mah. Turgut Özal Bulvarı No: 20 / 1 33240  Akdeniz Mersi",
       "lat": 36.82466,
       "lng": 34.65467
-    },
-    {
-      "bank_no": 3,
-      "bank_name": "Ziraat Bankası",
-      "adi": "İstasyon/Mersin Şubesi",
-      "adres": "Cami Şerif Mah. Cemalpaşa Cd. No: 41 - 33060  Akdeniz Mersin",
-      "lat": 36.80334,
-      "lng": 34.63057
-    },
-    {
-      "bank_no": 3,
-      "bank_name": "Ziraat Bankası",
-      "adi": "İstiklal Caddesi/Mersin Şubesi",
-      "adres": "Cami Şerif Mah. İstiklal Cd. No: 31 A 33060 Akdeniz Mersin ",
-      "lat": 36.80004,
-      "lng": 34.62982
     },
     {
       "bank_no": 3,
@@ -65128,10 +65104,26 @@
     {
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
+      "adi": "Metropol/Mersin Şubesi",
+      "adres": "Mesudiye Mah. Kuvai Milliye No: 98 33060 Akdeniz Mersin ",
+      "lat": 36.80491,
+      "lng": 34.62341
+    },
+    {
+      "bank_no": 3,
+      "bank_name": "Ziraat Bankası",
       "adi": "Mersin Ticari Şube",
       "adres": "Cami Şerif Mah. İstiklal Cd. No: 36 A 33060 Akdeniz Mersin ",
       "lat": 36.797753,
       "lng": 34.630284
+    },
+    {
+      "bank_no": 3,
+      "bank_name": "Ziraat Bankası",
+      "adi": "İstasyon/Mersin Şubesi",
+      "adres": "Cami Şerif Mah. Cemalpaşa Cd. No: 41 - 33060  Akdeniz Mersin",
+      "lat": 36.80334,
+      "lng": 34.63057
     },
     {
       "bank_no": 3,
@@ -65192,18 +65184,18 @@
     {
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
-      "adi": "Kale Yolu/Mersin Şubesi",
-      "adres": "Yeni Mah. İsmet İnönü Blv. No: 46 C 33200  Mezitli Mersin ",
-      "lat": 36.76129,
-      "lng": 34.53649
-    },
-    {
-      "bank_no": 3,
-      "bank_name": "Ziraat Bankası",
       "adi": "Mezitli-Merkez/Mersin Şubesi",
       "adres": "Menderes Mah. Gazi Mustafa Kemal Bulvarı No: 753 A 33200  Me",
       "lat": 36.74396,
       "lng": 34.52402
+    },
+    {
+      "bank_no": 3,
+      "bank_name": "Ziraat Bankası",
+      "adi": "Kale Yolu/Mersin Şubesi",
+      "adres": "Yeni Mah. İsmet İnönü Blv. No: 46 C 33200  Mezitli Mersin ",
+      "lat": 36.76129,
+      "lng": 34.53649
     },
     {
       "bank_no": 3,
@@ -65232,14 +65224,6 @@
     {
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
-      "adi": "Makam-Tarsus/Mersin Şubesi",
-      "adres": "Kızılmurat Mah. Atatürk Blv. No: 2 33400  Tarsus Mersin ",
-      "lat": 36.91666,
-      "lng": 34.89375
-    },
-    {
-      "bank_no": 3,
-      "bank_name": "Ziraat Bankası",
       "adi": "Şehitler Tepesi-Tarsus/Mersin Şubesi",
       "adres": "Şehitler Tepesi Mah. Atatürk Blv. No: 226 /2A 33480 Tarsus M",
       "lat": 36.93307,
@@ -65256,6 +65240,14 @@
     {
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
+      "adi": "Makam-Tarsus/Mersin Şubesi",
+      "adres": "Kızılmurat Mah. Atatürk Blv. No: 2 33400  Tarsus Mersin ",
+      "lat": 36.91666,
+      "lng": 34.89375
+    },
+    {
+      "bank_no": 3,
+      "bank_name": "Ziraat Bankası",
       "adi": "Toroslar/Mersin Şubesi",
       "adres": "Tozkoparan Mah. Kuvayi Milliye Blv. No: 180 A 33080  Torosla",
       "lat": 36.81658,
@@ -65264,18 +65256,10 @@
     {
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
-      "adi": "İnönü Bulvarı/Mersin Şubesi",
-      "adres": "Cumhuriyet Mah. İsmet İnönü Blv. No: 246 A 33110  Yenişehir ",
-      "lat": 36.78769,
-      "lng": 34.60671
-    },
-    {
-      "bank_no": 3,
-      "bank_name": "Ziraat Bankası",
-      "adi": "Pozcu/Mersin Şubesi",
-      "adres": "Güvenevler Mah. Gazi Mustafa Kemal Blv. No: 386 33140 Yenişe",
-      "lat": 36.78143,
-      "lng": 34.58804
+      "adi": "Alsancak Mahallesi/Mersin Şubesi",
+      "adres": "Alsancak Mah. Gazi Mustafa Kemal_1 Blv. No: 218 /220C / 6 33",
+      "lat": 36.792627,
+      "lng": 34.612538
     },
     {
       "bank_no": 3,
@@ -65284,6 +65268,14 @@
       "adres": "Barbaros Mah. Gazi Mustafa Kemal Blv. No: 491 B 33150  Yeniş",
       "lat": 36.7756,
       "lng": 34.57119
+    },
+    {
+      "bank_no": 3,
+      "bank_name": "Ziraat Bankası",
+      "adi": "Pozcu/Mersin Şubesi",
+      "adres": "Güvenevler Mah. Gazi Mustafa Kemal Blv. No: 386 33140 Yenişe",
+      "lat": 36.78143,
+      "lng": 34.58804
     },
     {
       "bank_no": 3,
@@ -65337,7 +65329,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Dalaman/Muğla Şubesi",
-      "adres": "Atatürk Cd. No: 1 / 5 48770  Dalaman Muğla ",
+      "adres": "Cumhuriyet 1. Sk. No: 4 D 48770  Dalaman Muğla ",
       "lat": 36.76643,
       "lng": 28.80131
     },
@@ -65497,7 +65489,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Malazgirt/Muş Şubesi",
-      "adres": "Mengüçgazi Mah. Narin Kale Cd. No: 1 49400 Malazgirt Muş ",
+      "adres": "Mengüçgazi Mah. 325 Sk. No: 9 49400 Malazgirt Muş ",
       "lat": 39.1473,
       "lng": 42.54369
     },
@@ -65841,7 +65833,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Bahçe/Osmaniye Şubesi",
-      "adres": "İslam Mah. 215. Sk. No: 1 80500 Bahçe Osmaniye ",
+      "adres": "İslam Mah. Atatürk Cd. No: 69 A 80500 Bahçe Osmaniye ",
       "lat": 37.201853,
       "lng": 36.578688
     },
@@ -66417,7 +66409,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Siirt Şubesi",
-      "adres": "Bahçelievler Mah. Ali Çelik Sk. No: 20 / 25 56100 Siirt ",
+      "adres": "Bahçelievler Mah. Gaffar Okan Cd. No: 2 56100 Siirt ",
       "lat": 37.929,
       "lng": 41.9426
     },
@@ -66505,9 +66497,9 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Türkeli/Sinop Şubesi",
-      "adres": "Güzelyurt Mah. 15 Temmuz Şehitler No: 9 A 57900 Türkeli Sino",
-      "lat": 41.94638,
-      "lng": 34.33705
+      "adres": "Güzelyurt Mah. Alparslan Türkeş Cd. No: 28 A 57900  Türkeli ",
+      "lat": 41.94756,
+      "lng": 34.33861
     },
     {
       "bank_no": 3,
@@ -66633,7 +66625,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Eğriköprü/Sivas Şubesi",
-      "adres": "Kardeşler Mah. Bağdat Cd. No: 41 A 58050  Sivas ",
+      "adres": "Kardeşler Mah. Bağdat Cd. No: 41 A 58050 Sivas ",
       "lat": 39.70643,
       "lng": 37.02576
     },
@@ -66729,7 +66721,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Eyyübiye/Şanlıurfa Şubesi",
-      "adres": "Onikiler Mah. Şanlıurfa Akçakale Cd. No: 21 63200  Eyyübiye ",
+      "adres": "Onikiler Mah. Şanlıurfa Akçakale Cd. No: 138 A 63200 Eyyübiy",
       "lat": 37.13704,
       "lng": 38.80105
     },
@@ -66825,7 +66817,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Viranşehir/Şanlıurfa Şubesi",
-      "adres": "Kışla Mah. Ceylanpınar Cd. No: 1 /998 63700  Viranşehir Şanl",
+      "adres": "Kışla Mah. Ceylanpınar No: 38 A 63700 Viranşehir Şanlıurfa ",
       "lat": 37.21863,
       "lng": 39.75026
     },
@@ -67137,7 +67129,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Araklı/Trabzon Şubesi",
-      "adres": "Mevlana Cd. No: 1 61700 Araklı Trabzon",
+      "adres": "Mevlana No: 5 A 61700 Araklı Trabzon ",
       "lat": 40.93922,
       "lng": 40.05488
     },
@@ -67273,7 +67265,7 @@
       "bank_no": 3,
       "bank_name": "Ziraat Bankası",
       "adi": "Gazipaşa Mahallesi/Trabzon Şubesi",
-      "adres": "Gazipaşa Mah. Yavuz Selim No: 151 A 61040 Ortahisar Trabzon ",
+      "adres": "Gazipaşa Mah. Yavuz Selim Blv. No: 151 A 61050  Ortahisar Tr",
       "lat": 41.00444,
       "lng": 39.72835
     },
