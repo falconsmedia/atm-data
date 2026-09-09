@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T07:57:13.682410Z",
+  "updated_at": "2026-09-09T08:00:32.672076Z",
   "total": 59578,
   "banks": {
     "Ziraat Bankası": 8474,
@@ -100033,17 +100033,17 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Adana Şubesi",
-      "adres": "Kurtuluş Mah. Atatürk Cad. No: 61/A",
-      "lat": 37.760633,
-      "lng": 38.279277
+      "adres": "Cemalpaşa Mah. Gazipaşa Bul. No: 37A ",
+      "lat": 37.002281,
+      "lng": 35.325402
     },
     {
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Adana Ticari Şubesi",
-      "adres": "Kurtuluş Mah. Atatürk Cad. No: 61/A Kat 1",
-      "lat": 36.999043,
-      "lng": 35.323755
+      "adres": "Döşeme Mah. 60075 Sok. No:1/306 ",
+      "lat": 37.001611,
+      "lng": 35.312347
     },
     {
       "bank_no": 5,
@@ -101961,9 +101961,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Edremit Şubesi/Balıkesir",
-      "adres": "Camivasat Mah. Park Cad. No:8/1C ",
-      "lat": 39.591171,
-      "lng": 27.022301
+      "adres": "Camivasat Mah. İnönü Cad.  No: 19A  ",
+      "lat": 39.593085,
+      "lng": 27.021591
     },
     {
       "bank_no": 5,
@@ -105201,9 +105201,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Sultanbeyli Şubesi/İstanbul",
-      "adres": "Hasan Paşa Mah. Fatih Bulvarı No 48",
-      "lat": 40.96902,
-      "lng": 29.251225
+      "adres": "Abdurrahmangazi Mah. Bosna Bul. No:10-12C ",
+      "lat": 40.969602,
+      "lng": 29.262361
     },
     {
       "bank_no": 5,
@@ -108145,9 +108145,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Divriği Şubesi/Sivas",
-      "adres": "Mercantepe Mah. Naci Demirağ Cad. No: 48/101",
-      "lat": 39.37328,
-      "lng": 38.11821
+      "adres": "Güllübağ Mah.  Atatürk Cad. No: 252A ",
+      "lat": 39.383217,
+      "lng": 38113246.0
     },
     {
       "bank_no": 5,
@@ -444952,10 +444952,10 @@
     {
       "bank_no": 60,
       "bank_name": "TKYB",
-      "adi": "Türkiye Kalkınma Ve Yatırım Bankası Anonim Şirketi Ankara Şubesi",
-      "adres": "Mustafa Kemal Mahallesi Dumlupınar Bulvarı No:266B İç Kapı No:74 ",
-      "lat": 39.9097,
-      "lng": 32.7552
+      "adi": "Genel Müdürlük",
+      "adres": "İnkılap Mah. Esnaf Cad. A Blok Nısan Plaza No:4 İç Kapı No:1",
+      "lat": 41.0331,
+      "lng": 29.1119
     },
     {
       "bank_no": 61,
