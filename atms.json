@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-13T08:09:27.179441Z",
-  "total": 59578,
+  "updated_at": "2026-09-14T08:43:47.462603Z",
+  "total": 59572,
   "banks": {
     "Ziraat Bankası": 8474,
     "Halkbank": 5132,
@@ -18,7 +18,7 @@
     "Türk Ticaret Bankası": 16,
     "Garanti BBVA": 7287,
     "İş Bankası": 7485,
-    "Yapı Kredi": 6941,
+    "Yapı Kredi": 6935,
     "Arap Türk Bankası": 4,
     "HSBC": 74,
     "Turkish Bank": 6,
@@ -100657,9 +100657,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Cebeci Şubesi/Ankara",
-      "adres": "Hacı Bayram Mahallesi Denizciler Caddesi No:20 06050 ",
-      "lat": 39.936713,
-      "lng": 32.858665
+      "adres": "Fakülteler Mahallesi Cemal Gürsel Caddesi No: 74A 06590 ",
+      "lat": 39.930606,
+      "lng": 32.875026
     },
     {
       "bank_no": 5,
@@ -102561,9 +102561,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Çanakkale Şubesi",
-      "adres": "Kemal Paşa Mah. Cumhuriyet Alanı No 36",
-      "lat": 40.149799,
-      "lng": 26.403167
+      "adres": "Fevzipaşa Mahallesi Fatih Sokak No:27-29 17010 ",
+      "lat": 40.146632,
+      "lng": 26.401473
     },
     {
       "bank_no": 5,
@@ -106625,9 +106625,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Derince Şubesi/Kocaeli",
-      "adres": "Sırrıpaşa Mahallesi Vatan Caddesi No:33A 41900 ",
-      "lat": 40.759462,
-      "lng": 29.820279
+      "adres": "Çenedağ Mahallesi İstiklal Caddesi No: 196C 41900 ",
+      "lat": 40.756364,
+      "lng": 29.830112
     },
     {
       "bank_no": 5,
@@ -146562,8 +146562,8 @@
       "bank_name": "Vakıfbank",
       "adi": "Tuzla İçmeler Şubesi",
       "adres": "Aydıntepe Mahallesi Dr.Sadık Ahmet Caddesi No:47A",
-      "lat": 40.852042,
-      "lng": 29.295774
+      "lat": 40.848887,
+      "lng": 29.29949
     },
     {
       "bank_no": 6,
@@ -146585,7 +146585,7 @@
       "bank_no": 6,
       "bank_name": "Vakıfbank",
       "adi": "Tuzla Ticari Şubesi",
-      "adres": "İçmeler Mahallesi Zinnur Sokak No:3/21",
+      "adres": "İçmeler Mahallesi Çağdaş Sokak Vema Rezidans Sitesi No: 2C/3",
       "lat": 40.846079,
       "lng": 29.300825
     },
@@ -439448,14 +439448,6 @@
     {
       "bank_no": 37,
       "bank_name": "Yapı Kredi",
-      "adi": "Çekmeköy Şahinbey Caddesi Şubesi",
-      "adres": "M.Akif Mahallesi Şahinbey Caddesi No:49",
-      "lat": 41.0191,
-      "lng": 29.192
-    },
-    {
-      "bank_no": 37,
-      "bank_name": "Yapı Kredi",
       "adi": "Bartın Şubesi",
       "adres": "Kırtepe Mah. Cumhuriyet Cad. No:20",
       "lat": 41.6345,
@@ -439896,14 +439888,6 @@
     {
       "bank_no": 37,
       "bank_name": "Yapı Kredi",
-      "adi": "Hurdacılar Sitesi Şubesi",
-      "adres": "Hurdacılar Sanayi Sitesi Sosyal Ticari İşmerkezi 6.Cadde No:",
-      "lat": 40.019,
-      "lng": 32.765
-    },
-    {
-      "bank_no": 37,
-      "bank_name": "Yapı Kredi",
       "adi": "Bayraklı Şubesi",
       "adres": "Geçici Adres: Bayraklı Mah. 1916 Sokak No:6/1A",
       "lat": 38.4634,
@@ -440100,14 +440084,6 @@
       "adres": "Fevzi Çakmak Mahallesi İstasyon Caddesi No:444",
       "lat": 40.7766,
       "lng": 29.4044
-    },
-    {
-      "bank_no": 37,
-      "bank_name": "Yapı Kredi",
-      "adi": "Of Şubesi",
-      "adres": "Sulaklı Mahallesi Barbaros Caddesi No:7/A",
-      "lat": 40.9454,
-      "lng": 40.2674
     },
     {
       "bank_no": 37,
@@ -442640,26 +442616,10 @@
     {
       "bank_no": 37,
       "bank_name": "Yapı Kredi",
-      "adi": "Elvankent Şubesi",
-      "adres": "Topçu Mahallesi 1464 Sokak(Eski 14.Cadde) No:21 / A-B",
-      "lat": 39.9554,
-      "lng": 32.6147
-    },
-    {
-      "bank_no": 37,
-      "bank_name": "Yapı Kredi",
       "adi": "Taşdelen Şubesi",
       "adres": "Ç.Köy Taşdelen Sultançiftliği Mahallesi Turgut Özal Bulvarı ",
       "lat": 41.0309,
       "lng": 29.2259
-    },
-    {
-      "bank_no": 37,
-      "bank_name": "Yapı Kredi",
-      "adi": "Sümer Şubesi",
-      "adres": "Sümer Mahallesi 25.Cadde Dolapdere Mevkii No:29",
-      "lat": 37.7956,
-      "lng": 29.0893
     },
     {
       "bank_no": 37,
@@ -443084,14 +443044,6 @@
       "adres": "Akyol Mahallesi Atatürk Bulvarı No:65/A",
       "lat": 37.062,
       "lng": 37.3748
-    },
-    {
-      "bank_no": 37,
-      "bank_name": "Yapı Kredi",
-      "adi": "Bayrampaşa Terazidere Şubesi",
-      "adres": "Terazidere Mahallesi Esenler Caddesi No:144/A",
-      "lat": 41.0335,
-      "lng": 28.8995
     },
     {
       "bank_no": 37,
