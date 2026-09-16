@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:32:02.831154Z",
+  "updated_at": "2026-09-16T08:25:53.466988Z",
   "total": 59573,
   "banks": {
     "Ziraat Bankası": 8475,
@@ -381818,8 +381818,8 @@
       "bank_name": "İş Bankası",
       "adi": "Silivri/İstanbul",
       "adres": "Alibey Mahallesi Fevzi Çakmak Caddesi No:2",
-      "lat": 41.07413,
-      "lng": 28.248042
+      "lat": 41.07403,
+      "lng": 28.24812
     },
     {
       "bank_no": 32,
@@ -387465,7 +387465,7 @@
       "bank_no": 32,
       "bank_name": "İş Bankası",
       "adi": "Değirmendere/Trabzon",
-      "adres": "Sanayi Mahallesi Devlet Karayolu Caddesi No:85/1 ",
+      "adres": "Sanayi Mahallesi Niyazi Sürmen Bulvarı No:85/1",
       "lat": 40.997778,
       "lng": 39.751111
     },
