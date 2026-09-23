@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T08:23:22.168386Z",
-  "total": 59702,
+  "updated_at": "2026-09-23T08:25:27.137595Z",
+  "total": 59699,
   "banks": {
     "Ziraat Bankası": 8475,
     "Halkbank": 5132,
@@ -22,7 +22,6 @@
     "Arap Türk Bankası": 4,
     "HSBC": 74,
     "Turkish Bank": 6,
-    "Bank Mellat": 3,
     "Citibank": 2,
     "Société Générale": 1,
     "JPMorgan Chase": 1,
@@ -445516,30 +445515,6 @@
       "adres": "Büyükesat Mahallesi Uğur Mumcu Caddesi No:42/A ",
       "lat": 39.891977,
       "lng": 32.874728
-    },
-    {
-      "bank_no": 47,
-      "bank_name": "Bank Mellat",
-      "adi": "Ankara",
-      "adres": "Kültür Mah. Doktor Meliha Eldem Sokak No 71/18 Çankaya",
-      "lat": 39.917404,
-      "lng": 32.861174
-    },
-    {
-      "bank_no": 47,
-      "bank_name": "Bank Mellat",
-      "adi": "Türkiye/Merkez",
-      "adres": "Büyükdere Cad. Binbirçiçek Sok. No 1",
-      "lat": 41.07459,
-      "lng": 29.015237
-    },
-    {
-      "bank_no": 47,
-      "bank_name": "Bank Mellat",
-      "adi": "İzmir",
-      "adres": "Cumhuriyet Bulv. No.88/A Pk.710 Konak 35210",
-      "lat": 38.4252,
-      "lng": 27.132506
     },
     {
       "bank_no": 49,
