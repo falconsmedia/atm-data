@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T09:05:34.310588Z",
+  "updated_at": "2026-09-28T09:33:35.544085Z",
   "total": 59699,
   "banks": {
     "Ziraat Bankası": 8475,
@@ -100776,9 +100776,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Emek Şubesi/Ankara",
-      "adres": "Yukarı Bahçelievler Mah. Kazakistan Cad.No:103/A",
-      "lat": 39.92291,
-      "lng": 32.822569
+      "adres": "Emek Mah. Kazakistan Cad. No:140A ",
+      "lat": 39.919581,
+      "lng": 32.823447
     },
     {
       "bank_no": 5,
@@ -107296,9 +107296,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Anamur Şubesi/Mersin",
-      "adres": "Saray Mahallesi Tahsin Soylu Caddesi No:35 İç Kapı No:7 3364",
-      "lat": 36.080831,
-      "lng": 32.832873
+      "adres": "Sağlık Mah. Alparslan Türkeş Bul. No:116 ",
+      "lat": 36.076491,
+      "lng": 32.840298
     },
     {
       "bank_no": 5,
@@ -384344,9 +384344,9 @@
       "bank_no": 32,
       "bank_name": "İş Bankası",
       "adi": "Turgutreis/Bodrum",
-      "adres": "Turgutreis Mahallesi Gazi Mustafa Kemal Bulvarı No:43A ",
-      "lat": 37.001766,
-      "lng": 27.259027
+      "adres": "Turgutreis Mahallesi Mehmet Hilmi Caddesi Mandalinci Apartma",
+      "lat": 37.008597,
+      "lng": 27.263594
     },
     {
       "bank_no": 32,
