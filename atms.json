@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T09:29:50.663030Z",
+  "updated_at": "2026-10-01T09:56:07.731853Z",
   "total": 59699,
   "banks": {
     "Ziraat Bankası": 8475,
@@ -149256,9 +149256,9 @@
       "bank_no": 6,
       "bank_name": "Vakıfbank",
       "adi": "Karadeniz Teknik Üniversitesi Trabzon Şubesi",
-      "adres": "Üniversite Mahallesi Milli Egemenlik Caddesi No:41/1",
-      "lat": 40.995836,
-      "lng": 39.773729
+      "adres": "Üniversite Mahallesi Milli Egemenlik Caddesi Fizik Bölümü No",
+      "lat": 40.9899529,
+      "lng": 39.7681328
     },
     {
       "bank_no": 6,
