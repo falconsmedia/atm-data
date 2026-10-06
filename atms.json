@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T10:12:27.770748Z",
+  "updated_at": "2026-10-06T09:56:54.108355Z",
   "total": 59714,
   "banks": {
     "Ziraat Bankası": 8475,
@@ -142919,8 +142919,8 @@
     {
       "bank_no": 6,
       "bank_name": "Vakıfbank",
-      "adi": "Sincan Organize Sanayi Ankara Şubesi",
-      "adres": "Ayaş Yolu 25. Km Sincan Organize Sanayi Bölgesi A.S.O. Bulva",
+      "adi": "Sincan Ticari Şubesi",
+      "adres": "Ahi Evran Osb Mahallesi A.S.O. Bulvarı No:1/1B07 Sincan/Anka",
       "lat": 39.981264,
       "lng": 32.557112
     },
