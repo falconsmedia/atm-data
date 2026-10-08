@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T10:02:52.975916Z",
+  "updated_at": "2026-10-08T10:15:44.847352Z",
   "total": 59714,
   "banks": {
     "Ziraat Bankası": 8475,
@@ -322816,9 +322816,9 @@
       "bank_no": 30,
       "bank_name": "Garanti BBVA",
       "adi": "Ümitköy",
-      "adres": "Mutlukent Mahallesi Doğan Taşdelen Bulvar No: 103 A ",
-      "lat": 39.893608561579,
-      "lng": 32.703230381012
+      "adres": "Ümit Mah. 2494/1 Sk. No: 8  Çankaya / Ankara",
+      "lat": 39.89395154,
+      "lng": 32.70243553
     },
     {
       "bank_no": 30,
@@ -322976,9 +322976,9 @@
       "bank_no": 30,
       "bank_name": "Garanti BBVA",
       "adi": "Polatlı",
-      "adres": "Ankara Caddesi No: 25 Polatlı",
-      "lat": 39.5849722,
-      "lng": 32.1446351
+      "adres": "Cumhuriyet Mah. Garnizon Cad. No:27  İç Kapı No:1",
+      "lat": 39.5857,
+      "lng": 32.145
     },
     {
       "bank_no": 30,
@@ -326471,7 +326471,7 @@
     {
       "bank_no": 30,
       "bank_name": "Garanti BBVA",
-      "adi": "Ümraniye Sanayi",
+      "adi": "Ümraniye Yamanevler",
       "adres": "Alemdağ Caddesi No: 352",
       "lat": 41.0233934125736,
       "lng": 29.1116421574859
@@ -326888,9 +326888,9 @@
       "bank_no": 30,
       "bank_name": "Garanti BBVA",
       "adi": "Alsancak",
-      "adres": "Kültür Mahallesi, Plevne Caddesi Cobanlı Apartman No:21A ",
-      "lat": 38.430831,
-      "lng": 27.141421
+      "adres": "Kültür Mahallesi Dr. Mustafa Enver Bey Caddesi  No:22A  ",
+      "lat": 38.432311,
+      "lng": 27.140913
     },
     {
       "bank_no": 30,
