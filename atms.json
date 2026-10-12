@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T09:49:58.603999Z",
+  "updated_at": "2026-10-12T10:30:08.325512Z",
   "total": 59714,
   "banks": {
     "Ziraat Bankası": 8475,
@@ -447512,9 +447512,9 @@
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Akhisar Şubesi",
-      "adres": "Paşa Mahallesi 1.Sokak No:52/A",
-      "lat": 38.919987,
-      "lng": 27.838798
+      "adres": "Hürriyet Mah. 15.(Şehit Polis Cemal Ilgaz) Cad. No:80A",
+      "lat": 38.916358,
+      "lng": 27.836751
     },
     {
       "bank_no": 93,
@@ -447960,9 +447960,9 @@
       "bank_no": 93,
       "bank_name": "Anadolubank",
       "adi": "Kazasker Şubesi",
-      "adres": "19 Mayıs Mahallesi Şemsettin Günaltay Caddesi No:178/A",
-      "lat": 40.973646,
-      "lng": 29.082519
+      "adres": "19 Mayıs Mahallesi Şemsettin Günaltay Caddesi No:176/A",
+      "lat": 40.973367,
+      "lng": 29.082679
     },
     {
       "bank_no": 93,
