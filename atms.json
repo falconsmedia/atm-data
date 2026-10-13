@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-12T10:30:08.325512Z",
-  "total": 59714,
+  "updated_at": "2026-10-13T10:19:51.435747Z",
+  "total": 59711,
   "banks": {
     "Ziraat Bankası": 8475,
     "Halkbank": 5132,
-    "Vakıfbank": 5071,
+    "Vakıfbank": 5073,
     "Akbank": 6833,
     "Alternatifbank": 46,
     "Burgan Bank": 50,
@@ -18,7 +18,7 @@
     "Türk Ticaret Bankası": 16,
     "Garanti BBVA": 7287,
     "İş Bankası": 7483,
-    "Yapı Kredi": 7063,
+    "Yapı Kredi": 7058,
     "Arap Türk Bankası": 4,
     "HSBC": 74,
     "Turkish Bank": 6,
@@ -144359,6 +144359,14 @@
     {
       "bank_no": 6,
       "bank_name": "Vakıfbank",
+      "adi": "Diyarbakır Organize Sanayi Şubesi",
+      "adres": "Yaytaş Mahallesi Organize Sanayi 1. Cadde No:1/4/Z07 ",
+      "lat": 38.0756,
+      "lng": 40.0407
+    },
+    {
+      "bank_no": 6,
+      "bank_name": "Vakıfbank",
       "adi": "Akçakoca Düzce Şubesi",
       "adres": "Yalı Mahallesi İnönü Caddesi No:9A",
       "lat": 41.08856,
@@ -148371,6 +148379,14 @@
       "adres": "Hal Mahallesi Turgut Özal Bulvarı Mertoç Gıda Toptancılar Si",
       "lat": 36.82411,
       "lng": 34.6549
+    },
+    {
+      "bank_no": 6,
+      "bank_name": "Vakıfbank",
+      "adi": "Mersin Ticari Şubesi",
+      "adres": "Camişerif Mahallesi İsmet İnönü Bulvarı No:96/A",
+      "lat": 36.79834,
+      "lng": 34.6318
     },
     {
       "bank_no": 6,
@@ -439312,9 +439328,9 @@
       "bank_no": 37,
       "bank_name": "Yapı Kredi",
       "adi": "Üsküdar Şubesi",
-      "adres": "Mimar Sinan Mahallesi Hakimiyeti Milliyet Caddesi No:29/1",
-      "lat": 41.0249,
-      "lng": 29.016
+      "adres": "Mimar Sinan Mahallesi Dr. Fahri Atabey Caddesi No:17A",
+      "lat": 41020691.0,
+      "lng": 29017570.0
     },
     {
       "bank_no": 37,
@@ -439528,9 +439544,9 @@
       "bank_no": 37,
       "bank_name": "Yapı Kredi",
       "adi": "Şaşkınbakkal Şubesi",
-      "adres": "Caddebostan Mah. Bağdat Cad. Dış Kapı No:263A",
-      "lat": 40969720.0,
-      "lng": 29063403.0
+      "adres": "Suadiye Mahallesi Kazım Özalp Sokak No:7A",
+      "lat": 40963744.0,
+      "lng": 29077674.0
     },
     {
       "bank_no": 37,
@@ -440475,14 +440491,6 @@
       "adres": "İstinye Mahallesi Çayır Caddesi No:2A",
       "lat": 41.1145,
       "lng": 29.0545
-    },
-    {
-      "bank_no": 37,
-      "bank_name": "Yapı Kredi",
-      "adi": "Emek Şubesi",
-      "adres": "Bişkek Cad. No:217/A",
-      "lat": 39.9166,
-      "lng": 32.8176
     },
     {
       "bank_no": 37,
@@ -441535,14 +441543,6 @@
     {
       "bank_no": 37,
       "bank_name": "Yapı Kredi",
-      "adi": "Hoşdere Şubesi",
-      "adres": "Aziziye Mah. Hoşdere Cad. No: 85 Yukarıayrancı",
-      "lat": 39.8943,
-      "lng": 32.8474
-    },
-    {
-      "bank_no": 37,
-      "bank_name": "Yapı Kredi",
       "adi": "Kağıthane Şubesi",
       "adres": "Merkez Mahallesi Bağlar Caddesi No:2A B-Blok No:18",
       "lat": 41.082214,
@@ -441603,14 +441603,6 @@
       "adres": "Yukarı Mahalle Atatürk Bulvarı No:28/A",
       "lat": 37.4261,
       "lng": 29.3512
-    },
-    {
-      "bank_no": 37,
-      "bank_name": "Yapı Kredi",
-      "adi": "Saray Şubesi",
-      "adres": "Ayazpaşa Mahallesi Çerkezköy Caddesi No:19",
-      "lat": 41.4401,
-      "lng": 27.9202
     },
     {
       "bank_no": 37,
@@ -442531,14 +442523,6 @@
       "adres": "Ulus Mahallesi 2100 Sokak No:1",
       "lat": 36.9072,
       "lng": 30.6822
-    },
-    {
-      "bank_no": 37,
-      "bank_name": "Yapı Kredi",
-      "adi": "Ulucadde   Şubesi",
-      "adres": "Ulu Mahallesi Kıbrıs Şehitleri Caddesi No:62B",
-      "lat": 40.1955,
-      "lng": 29.0626
     },
     {
       "bank_no": 37,
@@ -444795,14 +444779,6 @@
       "adres": "Orhan Gazi Mahallesi Mercedes Bulvarı Mercedes Finiş Binası ",
       "lat": 41.0836,
       "lng": 28.649
-    },
-    {
-      "bank_no": 37,
-      "bank_name": "Yapı Kredi",
-      "adi": "Çerkezköy Arçelik Şubesi",
-      "adres": "Çerkezköy Organize Sanayi Bölgesi Karaağaç Mahallesi 8.Sokak",
-      "lat": 41.3028,
-      "lng": 27.9598
     },
     {
       "bank_no": 37,
