@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-13T10:19:51.435747Z",
-  "total": 59711,
+  "updated_at": "2026-10-14T08:32:27.566499Z",
+  "total": 59703,
   "banks": {
     "Ziraat Bankası": 8475,
     "Halkbank": 5132,
     "Vakıfbank": 5073,
-    "Akbank": 6833,
+    "Akbank": 6825,
     "Alternatifbank": 46,
     "Burgan Bank": 50,
     "Birleşik Fon Bankası": 1,
@@ -199567,6 +199567,14 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
+      "adi": "Anadolu Kurumsal",
+      "adres": "Atatürk Mah. Ertuğrul Gazi Sok. Metropol İstanbul Sitesi C2 ",
+      "lat": 40.9939426,
+      "lng": 29.1197219
+    },
+    {
+      "bank_no": 8,
+      "bank_name": "Akbank",
       "adi": "Anamur",
       "adres": "Bankalar Cad.Saray Mah.No : 4 / A  ",
       "lat": 36.079332,
@@ -200543,14 +200551,6 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Çekirge",
-      "adres": "Dikkaldırım Cd. Havale Sok No:1 ",
-      "lat": 40.20549,
-      "lng": 29.019462
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
       "adi": "Çekmeköy",
       "adres": "Meclis Mah Aşkın Sok No 39/B",
       "lat": 41.013654,
@@ -200823,14 +200823,6 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Doğubeyazıt",
-      "adres": "Rıfkı Başkaya Cad. Doğubeyazıt Ticaret Odası Binası Zemin Ka",
-      "lat": 39.547257,
-      "lng": 44.080998
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
       "adi": "Dosab Bursa",
       "adres": "Demirtaş Org. San. Bölgesi Mustafa Karaer Cad. No:18",
       "lat": 40.267692,
@@ -200895,7 +200887,7 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Ege Kurumsal",
+      "adi": "Ege Ticari Merkez",
       "adres": "Fevzipaşa Bulvarı No:1/1 Kat :5",
       "lat": 38.422419,
       "lng": 27.130899
@@ -201455,14 +201447,6 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Gültepe",
-      "adres": "Talatpaşa Cad. No : 167  ",
-      "lat": 41.078875,
-      "lng": 28.996527
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
       "adi": "Gümüşhane",
       "adres": "Atatürk Cad. No:54",
       "lat": 40.458904,
@@ -201951,14 +201935,6 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Karatay Sanayi",
-      "adres": "Fatih Mah. Köprü Sok. No:31",
-      "lat": 37.906772,
-      "lng": 32.502521
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
       "adi": "Kars",
       "adres": "Ortakapı Mah. Kazımpaşa Cad. No : 32 ",
       "lat": 40.608451,
@@ -202287,14 +202263,6 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Köprübaşı",
-      "adres": "Deliklitaş Mah. Yunus Emre Cad. No: 83B",
-      "lat": 39.773222964,
-      "lng": 30.524061672
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
       "adi": "Körfez/Kocaeli ",
       "adres": "Kuzey Mahallesi Cahit Zarifoğlu Caddesi,  No:23 41780",
       "lat": 40.761035,
@@ -202439,14 +202407,6 @@
     {
       "bank_no": 8,
       "bank_name": "Akbank",
-      "adi": "Liman / Alsancak",
-      "adres": "Alsancak Mah. Atatürk Cad. No: 384/A ",
-      "lat": 38.44213538,
-      "lng": 27.144909735
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
       "adi": "Liman Mersin",
       "adres": "İnönü Bulvarı Kurtuluş Meydanı Klas Plaza Zemin Kat 31.Nolu ",
       "lat": 36.803899,
@@ -202459,14 +202419,6 @@
       "adres": "Turgutbey Cad. No : 33  ",
       "lat": 41.40858,
       "lng": 27.353086
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
-      "adi": "Mahfesığmaz",
-      "adres": "Kenan Evren Bulvarı Mahfesığmaz Mah. 40 Sok. Birsen Dikici A",
-      "lat": 37.03667,
-      "lng": 35.306617
     },
     {
       "bank_no": 8,
@@ -202659,14 +202611,6 @@
       "adres": "İstanbul Cad. Önder Pasajı No:6",
       "lat": 37.86908,
       "lng": 32.500892
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
-      "adi": "Mevlana Kavşağı ",
-      "adres": "Etiler Mah. Evliya Çelebi Cad. No:3 Mirador İş Merkezi No:4",
-      "lat": 36.897318,
-      "lng": 30.711797
     },
     {
       "bank_no": 8,
@@ -203939,14 +203883,6 @@
       "adres": "Vestel City Manisa Organize Sanayi Bölgesi Yunus Emre Mah. ",
       "lat": 38.625828,
       "lng": 27.340739
-    },
-    {
-      "bank_no": 8,
-      "bank_name": "Akbank",
-      "adi": "Viranşehir",
-      "adres": "Kale Mahallesi Eski Derik Caddesi Bayram Sokak No:62 ",
-      "lat": 37.232647,
-      "lng": 39.764139
     },
     {
       "bank_no": 8,
