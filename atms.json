@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T08:00:44.880339Z",
-  "total": 59722,
+  "updated_at": "2026-10-17T07:38:54.598708Z",
+  "total": 59716,
   "banks": {
     "Ziraat Bankası": 8475,
     "Halkbank": 5132,
@@ -17,7 +17,7 @@
     "TEB": 1857,
     "Türk Ticaret Bankası": 16,
     "Garanti BBVA": 7306,
-    "İş Bankası": 7483,
+    "İş Bankası": 7477,
     "Yapı Kredi": 7058,
     "Arap Türk Bankası": 4,
     "HSBC": 74,
@@ -381241,8 +381241,8 @@
       "bank_name": "İş Bankası",
       "adi": "Kocamustafapaşa/İstanbul",
       "adres": "Cerrahpaşa Mahallesi Koca Mustafapaşa Caddesi No:55/3  ",
-      "lat": 41.005595,
-      "lng": 28.937618
+      "lat": 41.005482,
+      "lng": 28.9373
     },
     {
       "bank_no": 32,
@@ -384383,14 +384383,6 @@
     {
       "bank_no": 32,
       "bank_name": "İş Bankası",
-      "adi": "Ilıca-Çeşme/İzmir",
-      "adres": "Ilıca Mahallesi 5065 Sokak No:23/A",
-      "lat": 38.306842,
-      "lng": 26.3631
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
       "adi": "Atatürk Organize Sanayi Bölgesi/İzmir",
       "adres": "Mustafa Kemal Atatürk Bulvarı Çarşı Merkezi No:42/3 A.O.S.B.",
       "lat": 38.492031,
@@ -384627,14 +384619,6 @@
       "adres": "Atatürk Caddesi No:28 Mall Marin İş Merkezi",
       "lat": 36.851619,
       "lng": 28.265842
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
-      "adi": "Çarşı-Marmaris/Muğla",
-      "adres": "Tepe Mahallesi Ulusal Egemenlik Caddesi No:58",
-      "lat": 36.858833,
-      "lng": 28.270948
     },
     {
       "bank_no": 32,
@@ -387287,14 +387271,6 @@
     {
       "bank_no": 32,
       "bank_name": "İş Bankası",
-      "adi": "Bozyazı/Mersin",
-      "adres": "Merkez Mahallesi Alparslan Türkeş Bulvarı No:256B  ",
-      "lat": 36.105222,
-      "lng": 32.973817
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
       "adi": "Silifke/Mersin",
       "adres": "Saray Mahallesi Fevzi Çakmak Caddesi No:17/A",
       "lat": 36.377906,
@@ -387715,22 +387691,6 @@
       "adres": "Atatürk Bulvarı No:17",
       "lat": 40.947086,
       "lng": 40.268271
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
-      "adi": "Sürmene/Trabzon",
-      "adres": "Çarşı Mahallesi Sahil Caddesi No:44A ",
-      "lat": 40.912681,
-      "lng": 40.115847
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
-      "adi": "Beşikdüzü/Trabzon",
-      "adres": "Cumhuriyet Mahallesi Ahmet Yardım Caddesi No:1",
-      "lat": 41.051497,
-      "lng": 39.231186
     },
     {
       "bank_no": 32,
@@ -388435,14 +388395,6 @@
       "adres": "Levent Mahallesi Meltem Sokak No:8/42 ",
       "lat": 41.082855,
       "lng": 29.012083
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
-      "adi": "İsdemir/İskenderun",
-      "adres": "Karayılan Mahallesi Atatürk Bulvarı No:7 ",
-      "lat": 36.712307,
-      "lng": 36.208036
     },
     {
       "bank_no": 32,
