@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T10:54:15.379010Z",
-  "total": 59652,
+  "updated_at": "2026-11-11T10:33:59.403135Z",
+  "total": 59651,
   "banks": {
     "Ziraat Bankası": 8475,
     "Halkbank": 5133,
@@ -47,7 +47,6 @@
     "Intesa Sanpaolo": 1,
     "Rabobank": 1,
     "Bank of China": 2,
-    "Golden Global": 1,
     "D Yatırım Bankası": 1,
     "Destek Yatırım Bankası": 1,
     "Misyon Yatırım Bankası": 1,
@@ -477163,14 +477162,6 @@
       "adres": "Kızılırmak Mah. Dumlupınar Bulv. Yda Center No:9/A İç Kapı N",
       "lat": 39.910394,
       "lng": 32.808925
-    },
-    {
-      "bank_no": 110,
-      "bank_name": "Golden Global",
-      "adi": "İstanbul Şube",
-      "adres": "Molla Fenari Mahallesi Nur-U Osmaniye Caddesi Gold Park Plaz",
-      "lat": 41.010157,
-      "lng": 28.972033
     },
     {
       "bank_no": 111,
