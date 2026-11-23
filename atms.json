@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-22T10:56:47.104018Z",
-  "total": 59662,
+  "updated_at": "2026-11-23T12:01:29.082239Z",
+  "total": 59656,
   "banks": {
     "Ziraat Bankası": 8475,
     "Halkbank": 5133,
@@ -17,7 +17,7 @@
     "TEB": 1856,
     "Türk Ticaret Bankası": 16,
     "Garanti BBVA": 7306,
-    "İş Bankası": 7478,
+    "İş Bankası": 7472,
     "Yapı Kredi": 7005,
     "Arap Türk Bankası": 4,
     "HSBC": 74,
@@ -101295,9 +101295,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Şereflikoçhisar Şubesi/Ankara",
-      "adres": "Ekici Mahallesi Bezirhane Sokak No:5C 06950 ",
-      "lat": 38.936872,
-      "lng": 33.544843
+      "adres": "Sarıkaya Mah. İsmet Paşa Cad. No:69A 06950",
+      "lat": 38.937511,
+      "lng": 33.545736
     },
     {
       "bank_no": 5,
@@ -102767,9 +102767,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Buldan Şubesi/Denizli",
-      "adres": "Dört Eylül Mahallesi  Adnan Menderes Bulvarı No:74A 20400 ",
-      "lat": 38.042592,
-      "lng": 28.838654
+      "adres": "Kurtuluş Mah. Atatürk Cad. No:29A 20400 ",
+      "lat": 38.045798,
+      "lng": 28.829139
     },
     {
       "bank_no": 5,
@@ -107063,9 +107063,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Doğanşehir Şubesi/Malatya",
-      "adres": "Çığlık Mah.  Kahramanmaraş Malatya Cad. No:15  ",
-      "lat": 38.102314,
-      "lng": 37.910671
+      "adres": "Yeni Mah. Hürriyet Cad. No:19F 44500 ",
+      "lat": 38.091678,
+      "lng": 37.878718
     },
     {
       "bank_no": 5,
@@ -108159,9 +108159,9 @@
       "bank_no": 5,
       "bank_name": "Halkbank",
       "adi": "Divriği Şubesi/Sivas",
-      "adres": "Güllübağ Mah.  Atatürk Cad. No: 252A ",
-      "lat": 39.383217,
-      "lng": 38113246.0
+      "adres": "Mercantepe Mah. Naci Demirağ Cad. No:12B 58300 ",
+      "lat": 39.373332,
+      "lng": 38.118179
     },
     {
       "bank_no": 5,
@@ -380936,8 +380936,8 @@
       "bank_name": "İş Bankası",
       "adi": "Gaziosmanpaşa/İstanbul",
       "adres": "Merkez Mahallesi Ali Galipbey Caddesi No:7-13B",
-      "lat": 41.056398,
-      "lng": 28.913015
+      "lat": 41.056548,
+      "lng": 28.913282
     },
     {
       "bank_no": 32,
@@ -383766,14 +383766,6 @@
     {
       "bank_no": 32,
       "bank_name": "İş Bankası",
-      "adi": "Şarkikaraağaç/Isparta",
-      "adres": "Camikebir Mahallesi 1.Isparta Caddesi No:6",
-      "lat": 38.07875,
-      "lng": 31.364558
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
       "adi": "İzmir Özel Bankacılık",
       "adres": "Kültür Mahallesi Talatpaşa Bulvarı No:27/31 Alsancak",
       "lat": 38.434341,
@@ -384442,22 +384434,6 @@
       "adres": "Divan Mahallesi Fatih Bulvarı No:122/A",
       "lat": 38.932494,
       "lng": 28.288909
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
-      "adi": "Kula/Manisa",
-      "adres": "Yunus Emre Caddesi No:95",
-      "lat": 38.544728,
-      "lng": 28.644903
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
-      "adi": "Sarıgöl/Manisa",
-      "adres": "Konak Mahallesi Şehit Esin Akay Caddesi No:4",
-      "lat": 38.238258,
-      "lng": 28.697814
     },
     {
       "bank_no": 32,
@@ -385770,14 +385746,6 @@
       "adres": "Üçler Mahallesi Mustafa Kemal Paşa Caddesi No:81A",
       "lat": 40.649575,
       "lng": 35.825892
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
-      "adi": "Gümüşhacıköy/Amasya",
-      "adres": "Cumara Mahallesi Zübeyde Hanım Bulvarı No:17C",
-      "lat": 40.874288,
-      "lng": 35.216146
     },
     {
       "bank_no": 32,
@@ -387358,14 +387326,6 @@
     {
       "bank_no": 32,
       "bank_name": "İş Bankası",
-      "adi": "Tirebolu/Giresun",
-      "adres": "Çarşı Mahallesi Gümrük Sokak No:3",
-      "lat": 41.007728,
-      "lng": 38.814872
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
       "adi": "Görele/Giresun",
       "adres": "Hendekbaşı Mahallesi Salih Sinirlioğlu/1 Sokak No:3  ",
       "lat": 41.031683,
@@ -387690,14 +387650,6 @@
       "adres": "Kırtepe Mahallesi Hükümet Caddesi No:24",
       "lat": 41.632484,
       "lng": 32.337568
-    },
-    {
-      "bank_no": 32,
-      "bank_name": "İş Bankası",
-      "adi": "Devrek/Zonguldak",
-      "adres": "Yeni Mahalle Vedat Ali Özkan Caddesi No:17/C",
-      "lat": 41.218062,
-      "lng": 31.955325
     },
     {
       "bank_no": 32,
